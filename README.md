@@ -29,3 +29,5 @@ And add the following java arguments:
 ```
 
 NOTE: Bootstrap URLs require unsup 1.1.3 or higher to use
+
+NOTE 2: If you just want a bootstrap pack instead, ask me ig.
