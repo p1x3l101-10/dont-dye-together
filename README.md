@@ -1,3 +1,5 @@
+On first start, you will see a flavor selection screen. If you want to see this again, remove the `config` `mods` and `defaultconfig` folders, and delete `.unsup-state.json`. Then on your next launch, you will be presented with the flavor selection screen as if it was a fresh install.
+
 # How to install
 
 Import the unsup Prismlauncher component into an empty instance on version `1.20.1` with forge (not neoforge) installed (unsup can change the forge version, so dont worry about getting the correct version)
