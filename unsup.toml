@@ -11,6 +11,21 @@ description = "Eyecandy that I personally like (crosshair changes mostly)"
 side = "client"
 choices = ["gui_changes_off", "gui_changes_on"]
 
+[flavor_groups.map_mod]
+name = "Map mod to use"
+description = "Pick your prefered map mod"
+side = "client"
+
+[[flavor_groups.map_mod.choices]]
+id = "map_mod_ftb"
+name = "FTB Chunks"
+description = "Leaves FTB Chunks fallback map as the mapping mod"
+
+[[flavor_groups.map_mod.choices]]
+id = "map_mod_journeymap"
+name = "JourneyMap"
+description = "Installs JourneyMap which integrates with FTB Chunks"
+
 # Apply the flavors
 [metafile."shimmer!"]
 flavors = "low_power_off"
@@ -18,3 +33,5 @@ flavors = "low_power_off"
 flavors = "low_power_off"
 [metafile.dynamiccrosshair]
 flavors = "gui_changes_on"
+[metafile.journeymap]
+flavors = "map_mod_journeymap"
