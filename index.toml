@@ -1038,7 +1038,7 @@ hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
 
 [[files]]
 file = "mods/DistantHorizons.toml"
-hash = "1d0824bcc2960c3cb84ac0ea54b5d576dd33dbdea35bf3357fea96777302d33c"
+hash = "1d092a5b80e0c8271ecb76dd86aa6fcbaf00f2d4c795fd36f692a9ccb4fdf47d"
 
 [[files]]
 file = "mods/MouseTweaks.cfg"
