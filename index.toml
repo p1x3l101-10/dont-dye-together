@@ -1186,6 +1186,11 @@ hash = "66bf251985051878f29e30272039d35d7273e21660af9d8aed61188ad0a5be60"
 metafile = true
 
 [[files]]
+file = "mods/annoying-stuff-remover.pw.toml"
+hash = "4b9cbb87174e5233e098641a4b04ca0bfd9d779d1a8d943015b9688251c9e318"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
