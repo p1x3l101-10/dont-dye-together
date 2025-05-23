@@ -5,8 +5,28 @@ file = "config/CoroUtil/General.toml"
 hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "1d092a5b80e0c8271ecb76dd86aa6fcbaf00f2d4c795fd36f692a9ccb4fdf47d"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/YungsCaveBiomes-forge-1_20_1.toml"
@@ -261,6 +281,14 @@ file = "config/doggytalents-dog_custom_skins_client.toml"
 hash = "8278a95f30d689fd673b21857d3f7e1895e3afa10911f34657c4daf6e395a1cf"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "506fc9cd8c9dbf5ad5726c34fa782ce75b86f4a5f5bf66513da942e53a3e7e39"
+
+[[files]]
 file = "config/easy_mob_farm/entity_scaling.cfg"
 hash = "de3d5d82f7eab478d7cdef84db54f3497440fe0e2099786625731552e0f4de5d"
 
@@ -317,6 +345,18 @@ file = "config/easymagic-server.toml"
 hash = "e0c2189f0351191e8115dfa988b29ab0c3f5601ccf62e9072aad811aecf596e3"
 
 [[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "f994576e73c327067627cf3ebec35f6d6e1bb8e08a22c46995756e3faaff11f2"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
+
+[[files]]
 file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
@@ -345,6 +385,10 @@ file = "config/fallingtrees_common.json"
 hash = "7e55389203c18572491a025db2392fc67ebb4e167a1c617679445210aa88757a"
 
 [[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
+
+[[files]]
 file = "config/flywheel-client.toml"
 hash = "8c5102d32b94fc9191800fd1597def2078ccc715eac7a6980afacd5d47c21097"
 
@@ -357,12 +401,20 @@ file = "config/forge-client.toml"
 hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
 
 [[files]]
+file = "config/fpsreducer/fpsreducer-client.toml"
+hash = "34b2ef94b8ca13619e341ca9250bfda910d5b7ab454de589cb8bc226383e795e"
+
+[[files]]
 file = "config/fzzy_config/keybinds.toml"
 hash = "6405aeb7dbb69bed591c2eb6d6ca5a24dfffb0f01425b6026df4afd3aaf56826"
 
 [[files]]
 file = "config/grindstone_enchantments-common.toml"
 hash = "dd626729330e5a987866fbbedce85cc1c364ade05c90bfe73bcac01ed041c1ee"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
 [[files]]
 file = "config/immersive_aircraft.json"
@@ -415,6 +467,14 @@ hash = "a88285c2412deb8e40ae6cf98f01f2aa308fc60a6eb71764222bb9eb6b6bffe3"
 [[files]]
 file = "config/mahoutsukai-client.toml"
 hash = "8afbeb48cf77bda81a5aceeef89aae3594463735c5f9a64105d9d864e369f415"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "a3d1135ef7f894dae4c9500feea4cc23882832544d8969ba46c0f1639acb0317"
 
 [[files]]
 file = "config/nameless_trinkets-base.toml"
@@ -923,6 +983,10 @@ hash = "1a31566828ba46d2019b9316f29a440da72eb3ce084c3013398ad734d24b926f"
 [[files]]
 file = "config/relics/relics/wool_mitten.yaml"
 hash = "2dc50e02a423d5c2b7b926bc03346abd1cba2bba63875b3f51747d88c3e5fd90"
+
+[[files]]
+file = "config/shimmer-client.toml"
+hash = "8e8f1a0d9b9108de7b23f54e7be2f1b39e5d90c5c9cc1cae6cee1e7c01be6ce4"
 
 [[files]]
 file = "config/sidebar_buttons.json"
