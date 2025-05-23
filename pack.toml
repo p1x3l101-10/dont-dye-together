@@ -1,0 +1,15 @@
+name = "Don't Dye Together"
+author = "P1x3l101"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "516a4bbba62930819eb57eeac29874ccbaad3686c80b1cfd5570ea8097306cf1"
+
+[versions]
+forge = "14.23.5.2860"
+lwjgl = "2.9.4-nightly-20150209"
+minecraft = "1.12.2"
+unsup = "1.1.3"
