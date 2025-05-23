@@ -1442,7 +1442,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-see-what-you-did-there.pw.toml"
-hash = "bed3f32b0abd6c61f7f7d0f4577a4a443eab3d0e2cca7c2ce95f3f037e4fb089"
+hash = "aad1b0679d0811905beac3ac404e4104015249c513714ac1bf71f37417e43cb3"
 metafile = true
 
 [[files]]
@@ -1652,7 +1652,7 @@ metafile = true
 
 [[files]]
 file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
-hash = "ab22ecf3236b3f20989003905c154da6fa4274bff7912e84cf3663bfca72b2af"
+hash = "66ff95bcc37a0f4927b7c140e2e50ed44167cea49629991c4a413b4e816ea63b"
 metafile = true
 
 [[files]]

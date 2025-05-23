@@ -1,6 +1,6 @@
 name = "I See What You Did There!"
 filename = "iswydt-1.0.5-1.20.1-FORGE.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha256"
