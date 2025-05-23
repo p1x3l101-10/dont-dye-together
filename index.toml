@@ -1039,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "3f0c69b7ea1ed9c0cb266c98e9c8ef5caf43effff908d160d537af4ad0ca0881"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
@@ -1143,8 +1143,23 @@ hash = "60320eb10796e46f19da5f48214ef8f5c9296f88e1ca6102fba7de9218ff6bf1"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+metafile = true
+
+[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "55eff9c58ed38580cf6c3f7abef03c1b6a1934054c569cacc563f4d8c4c4ae81"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "53c6f7ced4a2174f6808837495fdc712a3dfcde3c061aa1cc70e45b753cf3299"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "0c73b88a7cb7cfb35e2660ebab85c30b7d1ffe153a69d61f05dd075dd78b513d"
 metafile = true
 
 [[files]]
@@ -1170,6 +1185,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "a15a849e767805c8f0f84403c7df025383a45a5599880989c1ecb8b8b348e8a6"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
@@ -1208,8 +1228,18 @@ hash = "7855fb863b441197be9c4d3efa2b102493714a34e27945e3311c405c4e8b4189"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "19c9e6293437ce97ba7851197154511f9c28f10d02966a7f51d2c4f962be009e"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "e669b0daf2777dcc5f81b7a9d236d9aa86eba2ae215eb6aaf75c43ff40f48d8e"
 metafile = true
 
 [[files]]
@@ -1255,6 +1285,11 @@ metafile = true
 [[files]]
 file = "mods/i-see-what-you-did-there.pw.toml"
 hash = "f58ee76ad22d41f09f00e4a60ac3c714c41e6f0c8dd9cff22a8ae37c3b6311a1"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -1313,6 +1348,11 @@ hash = "3f840752f7af16d2bf7305acf02276342cd33b49ea6e34b9371500341bbe8f14"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "859fd42bdc2aad18998e946f011f015ed163e11f9fa8eccafe897f05b2a0218a"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "55c6e77c7af3b55f1846889e47e3e025ca3add164dab9e1e879c2c12d1a90275"
 metafile = true
@@ -1325,6 +1365,11 @@ metafile = true
 [[files]]
 file = "mods/nameless-trinkets.pw.toml"
 hash = "0b9dc54741ecb139a7004cf85a10740491c29972d7bb3895fbb4e2e6ad5bbe9c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]
@@ -1380,6 +1425,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "10e917aa6208f0f59520fee03b521f8ee8145cf749eb38e7401b341ea219fd56"
+metafile = true
+
+[[files]]
+file = "mods/shimmer!.pw.toml"
+hash = "928704e3daac98415a2ec03fa92b820fa7aa26d301fca4b9c8742a0749e8d0f6"
 metafile = true
 
 [[files]]
@@ -1505,6 +1555,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "34121723fc9fc2cbb8d1a502d2bcac76e2a9e5c5263522475ed142d87b5aeeaa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blooming-blocks.pw.toml"
+hash = "bd0387979ba4271704cc4f37d22fb1c684e4043edb3cd95b202a6c31e5f0a116"
 metafile = true
 
 [[files]]
