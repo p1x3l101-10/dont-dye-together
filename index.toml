@@ -273,6 +273,18 @@ file = "config/curios-common.toml"
 hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "103c72d97554c48568830291e2f2181e9ad94bfc9325b3bc01b53ba02d205fb8"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "cbb8f129d95e0eebc1ddd8fd1a3d1cf6b069d07595e1217c480e2433bc99ce48"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "95f70662db1dbdde5aa38d469788a62c9ece1298f07bb9b76881ea9d854ae7b4"
+
+[[files]]
 file = "config/doggytalents-client.toml"
 hash = "1e8374cf7bcb2f5b595f027cf90e068f845717577ec2b1ebde871fb73ce5d688"
 
@@ -1204,6 +1216,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "60320eb10796e46f19da5f48214ef8f5c9296f88e1ca6102fba7de9218ff6bf1"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
