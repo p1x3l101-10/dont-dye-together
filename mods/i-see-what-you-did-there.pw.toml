@@ -1,0 +1,16 @@
+filename = 'iswydt-1.0.5-1.20.1-FORGE.jar'
+name = 'I See What You Did There!'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '373a80ab189f3f84d0bbb4f84d85d6d2b23b14b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5243938
+project-id = 904991

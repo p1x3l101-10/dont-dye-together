@@ -1,0 +1,16 @@
+filename = 'simplehats-forge-1.20.1-0.3.2.jar'
+name = 'Simple Hats'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '569e96c692cc9536d2cfd68a37aeb097dc92c166'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5603815
+project-id = 631990

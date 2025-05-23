@@ -1,0 +1,16 @@
+filename = 'DoggyTalentsNext-1.20.1-1.18.53.jar'
+name = 'Doggy Talents Next'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '15fcaa1f58079eeb97da05777a04178870691ffd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6552349
+project-id = 694492

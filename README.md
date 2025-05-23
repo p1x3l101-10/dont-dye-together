@@ -1,6 +1,6 @@
 # How to install
 
-Import the unsup Prismlauncher component into an empty instance on version `1.12.2` with forge installed (unsup can change the forge version, so dont worry about getting the correct version)
+Import the unsup Prismlauncher component into an empty instance on version `1.20.1` with forge (not neoforge) installed (unsup can change the forge version, so dont worry about getting the correct version)
 <details>
 <summary>How to install a custom component</summary>
 <br>
@@ -25,7 +25,7 @@ You can save this component file for later by copying it from <code>&lt;INST_DIR
 And add the following java arguments:
 
 ```
--Dunsup.bootstrapUrl="https://raw.githubusercontent.com/p1x3l101-10/im-thauming-so-hard-rn/refs/heads/main/unsup.ini" -Dunsup.bootstrapKey="signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv"
+-Dunsup.bootstrapUrl="https://raw.githubusercontent.com/p1x3l101-10/dont-dye-together/refs/heads/main/unsup.ini" -Dunsup.bootstrapKey="signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv"
 ```
 
 NOTE: Bootstrap URLs require unsup 1.1.3 or higher to use
