@@ -1,10 +1,19 @@
 # Flavor groups
 [flavor_groups.low_power]
 name = "Low power mode"
-description = "Disables any mods that only add nice effects and could hurt performance.\nDoes not disable anything meant to boost performance or that adds functionality."
+description = "Disables any mods that only add eyecandy and could hurt performance.\nDoes not disable anything meant to boost performance or that adds functionality."
 side = "client"
 choices = ["low_power_off", "low_power_on"]
+[flavor_groups.gui_changes]
+name = "Gui changes"
+description = "Eyecandy that I personally like (crosshair changes mostly)"
+side = "client"
+choices = ["gui_changes_off", "gui_changes_on"]
 
 # Apply the flavors
 [metafile."shimmer!"]
 flavors = "low_power_off"
+[metafile.distanthorizons]
+flavors = "low_power_off"
+[metafile.dynamiccrosshair]
+flavors = "gui_changes_on"
