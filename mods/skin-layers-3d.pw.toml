@@ -1,16 +1,13 @@
-filename = 'skinlayers3d-forge-1.7.5-mc1.20.1.jar'
-name = 'Skin Layers 3D (Fabric/Forge)'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Skin Layers 3D (Fabric/Forge)"
+filename = "skinlayers3d-forge-1.7.5-mc1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'b3c7025f1330efb98165609b16fe0eb1f3ba3aa6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "a0fa23c0043fa2750be8fd5b75bd046d8850e9dd03eef3142468868887d2ff5f"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6356170
 project-id = 521480

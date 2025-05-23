@@ -1,16 +1,13 @@
-filename = 'mahoutsukai-1.20.1-v1.34.78.jar'
-name = 'Mahou Tsukai'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Mahou Tsukai"
+filename = "mahoutsukai-1.20.1-v1.34.78.jar"
+side = "both"
 
 [download]
-hash = 'a32e1e35bfa4d0bf9be9c995e8218b1016cdb6dc'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "820ce4764f8e552363af7855de39355f346509a609bb03add8d8b0a8ce96c4ca"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5883645
 project-id = 342543

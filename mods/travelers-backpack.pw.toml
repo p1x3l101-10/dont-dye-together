@@ -1,16 +1,13 @@
-filename = 'travelersbackpack-forge-1.20.1-9.1.38.jar'
 name = "Traveler's Backpack"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "travelersbackpack-forge-1.20.1-9.1.38.jar"
+side = "both"
 
 [download]
-hash = '9bc0e2b5d0d6147cb570199048874656f7c57b80'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "7c93addbaee8b54f22c699de98edab8d7822d1c1e78a83eb7fbd7be0f2838d78"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6546708
 project-id = 321117

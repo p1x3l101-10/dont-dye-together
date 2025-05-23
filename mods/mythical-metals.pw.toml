@@ -1,16 +1,13 @@
-filename = 'mythicalmetals-1.02.jar'
-name = 'Mythical Metals'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Mythical Metals"
+filename = "mythicalmetals-1.02.jar"
+side = "both"
 
 [download]
-hash = '899917c223d639c706c103a7172c05f89f403012'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "2530ad68a84adb4ae420e1c0fe9859a36da80acbead034d780b55e0ea837aca8"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5954490
 project-id = 987662

@@ -1,16 +1,13 @@
-filename = 'easy-piglins-forge-1.20.1-1.1.0.jar'
-name = 'Easy Piglins'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'alpha'
+name = "Easy Piglins"
+filename = "easy-piglins-forge-1.20.1-1.1.0.jar"
+side = "both"
 
 [download]
-hash = '7f2cb8ff843bfbc4cd033dcf29b3f7a7eea4f1c6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "e31aa09272e7fa29b004a3d163c328589f9f4b65a55d1ff72a8c2a2d9cf46bc6"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6213598
 project-id = 419372

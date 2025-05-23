@@ -1,16 +1,13 @@
-filename = 'Nameless Trinkets-1.20.1-1.9.0.jar'
-name = 'Nameless Trinkets'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Nameless Trinkets"
+filename = "Nameless Trinkets-1.20.1-1.9.0.jar"
+side = "both"
 
 [download]
-hash = '7fd53081328f597e92e1f0b6f2fe2b32ce496a42'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "1a29bcdd7d0f489c795aa17718134dd105cb04fb3028ffb7d4e0813f6226d868"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6337348
 project-id = 541466

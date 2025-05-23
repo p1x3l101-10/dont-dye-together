@@ -1,16 +1,13 @@
-filename = 'pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar'
-name = 'PandaLib'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
-x-prismlauncher-release-type = 'beta'
+name = "PandaLib"
+filename = "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar"
+side = "both"
 
 [download]
-hash = '1e8d8e9688a04df5177a46036d6f34c83194686c'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "1595c586e9c3e7e9a455d23b1686cc82f8d9e11578efd86a10a7031995301390"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6245108
 project-id = 975460

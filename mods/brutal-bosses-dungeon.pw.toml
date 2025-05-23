@@ -1,16 +1,13 @@
-filename = 'brutalbosses-1.20.1-8.1.jar'
-name = 'Brutal Bosses - Custom Bosses[Forge/Fabric]'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Brutal Bosses - Custom Bosses[Forge/Fabric]"
+filename = "brutalbosses-1.20.1-8.1.jar"
+side = "both"
 
 [download]
-hash = 'af7306b6364918cfa8fe939f1f1eff9bf6fb1276'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "d9a39b2fbb55c750797a25dd7d29fa2e3e8995e9ca93eb394c5a84311bff858b"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6499097
 project-id = 557999

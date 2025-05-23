@@ -1,16 +1,13 @@
-filename = 'bettercombat-forge-1.8.6+1.20.1.jar'
-name = 'Better Combat [Fabric & Forge]'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "Better Combat [Fabric & Forge]"
+filename = "bettercombat-forge-1.8.6+1.20.1.jar"
+side = "both"
 
 [download]
-hash = '70c20cd81a4051b2ad4289ff6522e80b397d7b3d'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "e147e13732e0fac83aee209487fdeb10a03e52c33e1b1439dbce01a80f3e8dbb"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5625757
 project-id = 639842

@@ -1,16 +1,13 @@
-filename = 'lootintegrations-1.20.1-4.4.jar'
-name = 'Loot Integrations'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Loot Integrations"
+filename = "lootintegrations-1.20.1-4.4.jar"
+side = "both"
 
 [download]
-hash = '8704b7918a16d71e2740f89e850b4c276cfd3d5f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "5dae1553953aa897bebc0896427b73aae2027e38dc1b672d94c55235f8aa4d05"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6499143
 project-id = 580689

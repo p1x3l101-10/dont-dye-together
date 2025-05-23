@@ -1,16 +1,13 @@
-filename = 'ftb-ultimine-forge-2001.1.5.jar'
-name = 'FTB Ultimine (Forge)'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "FTB Ultimine (Forge)"
+filename = "ftb-ultimine-forge-2001.1.5.jar"
+side = "both"
 
 [download]
-hash = '106aa8ae16ceda4bb7244bfc64a6ee86c842f2a5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "cc6c93a44da1682671c6ca1f2fbc779f6a48963a4df3030350d1707dd91fb563"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5363345
 project-id = 386134

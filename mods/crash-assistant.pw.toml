@@ -1,16 +1,13 @@
-filename = 'CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar'
-name = 'Crash Assistant'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.19.2', '1.19.3', '1.19.4', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Crash Assistant"
+filename = "CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar"
+side = "both"
 
 [download]
-hash = '1ebc93a86a8252c972deb3b8f0f07af457088391'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "ab51690c36f81e6c4f50461c8a33c0ceb189b0259c9af8c89b25159f3ac30fd3"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6548373
 project-id = 1154099

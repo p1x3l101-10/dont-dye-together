@@ -1,16 +1,13 @@
-filename = 'trinketsandbaubles-1.2.8.jar'
-name = 'Trinkets and Baubles Reforked'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Trinkets and Baubles Reforked"
+filename = "trinketsandbaubles-1.2.8.jar"
+side = "both"
 
 [download]
-hash = 'bfb1c016f4be9dfce86d3376038d77cc7ea63815'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "ecc828ba7ba0d2746a449054683b093eaf459ae94c14eca277f5dc384376aed5"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6524340
 project-id = 1220248

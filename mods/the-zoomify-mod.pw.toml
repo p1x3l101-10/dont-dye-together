@@ -1,16 +1,13 @@
-filename = 'zoomify-1.20.x-1.1.jar'
-name = 'Zoomify!'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
-x-prismlauncher-release-type = 'release'
+name = "Zoomify!"
+filename = "zoomify-1.20.x-1.1.jar"
+side = "client"
 
 [download]
-hash = '2409f29f7b13133c180f5a164dd2fb763a6e265d'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "99d3e7104a0118b39a46f125253bd94c312e29d08ef6ba455ea57b486e8e504a"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6543814
 project-id = 1151584

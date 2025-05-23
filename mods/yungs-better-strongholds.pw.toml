@@ -1,16 +1,13 @@
-filename = 'YungsBetterStrongholds-1.20-Forge-4.0.3.jar'
 name = "YUNG's Better Strongholds (Forge/NeoForge)"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+side = "both"
 
 [download]
-hash = '3730238c56edca4bb5b2238e1314aec572ced385'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "054b0a1be86510ed6bd05de66a29200f13f5603c0c9eb7e62074ddc3d19cb0e4"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4769083
 project-id = 465575

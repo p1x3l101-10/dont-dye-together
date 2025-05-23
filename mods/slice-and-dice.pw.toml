@@ -1,16 +1,13 @@
-filename = 'sliceanddice-forge-3.4.0.jar'
-name = 'Create Slice & Dice'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Create Slice & Dice"
+filename = "sliceanddice-forge-3.4.0.jar"
+side = "both"
 
 [download]
-hash = '705208db673f97abf5d82ab2849a69fdd7c0dc7a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "b39b53187d482aad2f92cac1884e8ab95d1842f83da551dc39870352ce21ddbf"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6276207
 project-id = 659674

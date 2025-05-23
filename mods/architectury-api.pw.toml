@@ -1,16 +1,13 @@
-filename = 'architectury-9.2.14-forge.jar'
-name = 'Architectury API'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Architectury API"
+filename = "architectury-9.2.14-forge.jar"
+side = "both"
 
 [download]
-hash = 'a52918a500ff421180a1cbd1a0cabee712134ec4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5137938
 project-id = 419699

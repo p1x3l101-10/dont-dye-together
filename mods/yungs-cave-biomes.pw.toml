@@ -1,16 +1,13 @@
-filename = 'YungsCaveBiomes-1.20.1-Forge-2.0.4.jar'
 name = "YUNG's Cave Biomes (Forge)"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "YungsCaveBiomes-1.20.1-Forge-2.0.4.jar"
+side = "both"
 
 [download]
-hash = 'e32eaf24d64212738f95132c866668371b103dd2'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "42a7bdaa2700e408dc94cfa62d310638b9157f889dc86e44e5909244fe43b580"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6304088
 project-id = 1111586

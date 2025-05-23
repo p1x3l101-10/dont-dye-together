@@ -1,16 +1,13 @@
-filename = 'fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar'
 name = "Panda's Falling Tree's"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
-x-prismlauncher-release-type = 'beta'
+filename = "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar"
+side = "both"
 
 [download]
-hash = 'e787f81ddc9e8afea8d859d57776e212ab2b6ff4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "6b4853214c5cc156b187b86162df2db028c0ddcf90380fa1897068cde2622de1"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6231030
 project-id = 880630

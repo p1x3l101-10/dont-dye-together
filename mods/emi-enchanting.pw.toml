@@ -1,16 +1,13 @@
-filename = 'emi_enchanting-0.1.2+1.20.1+forge.jar'
-name = 'EMI Enchanting'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "EMI Enchanting"
+filename = "emi_enchanting-0.1.2+1.20.1+forge.jar"
+side = "client"
 
 [download]
-hash = '0374c5c3eb4dd361f89388cda84744dc70ae638d'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "adcb1007f165e2c8fd734fe845bdd45026e936c7dde6c6dfed3a21b2787368aa"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5733124
 project-id = 936713

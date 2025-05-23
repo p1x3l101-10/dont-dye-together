@@ -1,16 +1,13 @@
-filename = 'easy_mob_farm-forge-1.20.1-9.8.0.jar'
-name = 'Easy Mob Farm'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Easy Mob Farm"
+filename = "easy_mob_farm-forge-1.20.1-9.8.0.jar"
+side = "both"
 
 [download]
-hash = '0432381a5f541fa45bcc8409b59298dc5b30c5d6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "8f09746892b9985e25c1b01a1a138a1149d9f9e67ff6d3273d3f8833d263e367"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6530841
 project-id = 563464

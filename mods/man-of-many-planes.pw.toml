@@ -1,16 +1,13 @@
-filename = 'man_of_many_planes-0.2.0+1.20.1-forge.jar'
-name = 'Man of Many Planes'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Man of Many Planes"
+filename = "man_of_many_planes-0.2.0+1.20.1-forge.jar"
+side = "both"
 
 [download]
-hash = '0037367a8af0d55a1b7f4c43dfc94cbdaca281db'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "c8b649c12c344435b7821c713fa43f1b7104e4a6741108f33252d3a3ae5d9dc6"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5713356
 project-id = 984493

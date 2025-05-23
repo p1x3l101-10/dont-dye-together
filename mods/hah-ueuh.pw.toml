@@ -1,16 +1,13 @@
-filename = 'hah_ueuh-1.0.8-forge-1.20.1.jar'
-name = 'Hah! Ueuh~'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Hah! Ueuh~"
+filename = "hah_ueuh-1.0.8-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '1e134329edb6b766f8a97defd0fd19b53191bb52'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "2f59e06e826e33a3cbee267237aa6c5b02e69c8211409f0a1bd056e5dcbbdd2c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6471833
 project-id = 1244751
