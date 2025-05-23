@@ -4,6 +4,7 @@ name = "Low power mode"
 description = "Disables any mods that only add eyecandy and could hurt performance.\nDoes not disable anything meant to boost performance or that adds functionality."
 side = "client"
 choices = ["low_power_off", "low_power_on"]
+
 [flavor_groups.gui_changes]
 name = "Gui changes"
 description = "Eyecandy that I personally like (crosshair changes mostly)"
