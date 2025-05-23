@@ -1,0 +1,10 @@
+# Flavor groups
+[flavor_groups.low_power]
+name = "Low power mode"
+description = "Disables any mods that only add nice effects and could hurt performance.\nDoes not disable anything meant to boost performance or that adds functionality."
+side = "client"
+choices = ["low_power_off", "low_power_on"]
+
+# Apply the flavors
+[metafile."shimmer!"]
+flavors = "low_power_off"
