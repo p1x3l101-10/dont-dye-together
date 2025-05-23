@@ -1,4 +1,4 @@
-On first start, you will see a flavor selection screen. If you want to see this again, remove the `config` `mods` and `defaultconfig` folders, and delete `.unsup-state.json`. Then on your next launch, you will be presented with the flavor selection screen as if it was a fresh install.
+On first start, you will see a flavor selection screen. If you want to see this again, remove the `config` `mods` and `defaultconfigs` folders, and delete `.unsup-state.json`. Then on your next launch, you will be presented with the flavor selection screen as if it was a fresh install.
 
 # How to install
 
