@@ -81,6 +81,10 @@ file = "config/artifacts/relics/villager_hat.yaml"
 hash = "017c57e6b74b77391103748bc0de002b414b108223c2ae9624045a81f6384169"
 
 [[files]]
+file = "config/asr-client.toml"
+hash = "c9bf01d54002b04516573e1d445456601bcd444f883c42463a3ffc18cfb65fd7"
+
+[[files]]
 file = "config/balm-client.toml"
 hash = "d6fe31956b9b29b35ff0bf93884a6a66ac7300af620d20414a85d8f0004a62a2"
 
@@ -273,6 +277,10 @@ file = "config/curios-common.toml"
 hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "9424ceb580ec8f3f074ebcc0618bfceebb62bb44d64750c7df5964fc7713964c"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "103c72d97554c48568830291e2f2181e9ad94bfc9325b3bc01b53ba02d205fb8"
 
@@ -402,7 +410,7 @@ hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
 
 [[files]]
 file = "config/flywheel-client.toml"
-hash = "8c5102d32b94fc9191800fd1597def2078ccc715eac7a6980afacd5d47c21097"
+hash = "ee81d1578667e2c869c6f266c0564e952433f0a0e80a80ae84492d11f6a9609d"
 
 [[files]]
 file = "config/fml.toml"
@@ -425,12 +433,24 @@ file = "config/grindstone_enchantments-common.toml"
 hash = "dd626729330e5a987866fbbedce85cc1c364ade05c90bfe73bcac01ed041c1ee"
 
 [[files]]
+file = "config/hexcasting-client.toml"
+hash = "17031e67a6bd3e638a3247663b774e47ce8d0b69ff6f1772aca7d3e371a1758b"
+
+[[files]]
+file = "config/hexcasting-common.toml"
+hash = "5684dc1338494ca6ca7628cde1333f0dffa4e1648b454099de60d454fd75457a"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
 [[files]]
 file = "config/immersive_aircraft.json"
 hash = "7e934f3c7ff3beaeb73d7242b68467fc62b779827c9cd3a79736fe79c93d4aec"
+
+[[files]]
+file = "config/inline/client-config.toml"
+hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
 
 [[files]]
 file = "config/iswydt.json"
@@ -863,6 +883,14 @@ hash = "d12f6d9201acb5df88195085005e5efab32bf3e4074ac04689ef5dad1bb89240"
 [[files]]
 file = "config/nameless_trinkets/wooden_stick.json"
 hash = "f38b478fd9f44385651e880140d35bc436271e290db0b0fe490b55b51d814d56"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
+
+[[files]]
+file = "config/paucal-common.toml"
+hash = "92239ac1c2e4cc5572dfea32b54fad5f3ca13f3ec2886c37b40bd0b7aa80f2a5"
 
 [[files]]
 file = "config/pehkui-client.toml"
