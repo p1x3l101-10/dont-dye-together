@@ -37,6 +37,14 @@ file = "config/accessories.json5"
 hash = "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d"
 
 [[files]]
+file = "config/ae2/client.json"
+hash = "c1a4e1058ad7970f2f4d83aab93afda83ea713026c8ebc1d63942ee66a6d3c66"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "f390a5328244fa4f300041b581369bd17fbb6194824574a7cae47523ed01b046"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
@@ -253,6 +261,10 @@ file = "config/createaddition-common.toml"
 hash = "1d28b40d466308be422d511bcd662b26807a9616144055591ccabb53b42fad92"
 
 [[files]]
+file = "config/createappliedkinetics-common.toml"
+hash = "8bb1193b928cd05b4a56bb42b717633369fcb53b5730175c69ef11c80f3689ad"
+
+[[files]]
 file = "config/createdieselgenerators-client.toml"
 hash = "eedb4c98e3a88cfba6bba41c35937d6b2d81d9f18942402393cd61f2f87f288c"
 
@@ -275,6 +287,10 @@ hash = "3903cd1fcf402a8c155f21bb581eb78d26e067537cb8af0b24bb8b8be63b3b30"
 [[files]]
 file = "config/curios-common.toml"
 hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
+
+[[files]]
+file = "config/de/mari_023/ae2wtlib.json5"
+hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
@@ -433,12 +449,20 @@ file = "config/grindstone_enchantments-common.toml"
 hash = "dd626729330e5a987866fbbedce85cc1c364ade05c90bfe73bcac01ed041c1ee"
 
 [[files]]
+file = "config/guideme.toml"
+hash = "da63104a541560388f8cf6f4f4e7c73e64c54019aeb964f7d67a662e11584b16"
+
+[[files]]
 file = "config/hexcasting-client.toml"
 hash = "17031e67a6bd3e638a3247663b774e47ce8d0b69ff6f1772aca7d3e371a1758b"
 
 [[files]]
 file = "config/hexcasting-common.toml"
 hash = "5684dc1338494ca6ca7628cde1333f0dffa4e1648b454099de60d454fd75457a"
+
+[[files]]
+file = "config/hexparse-common.toml"
+hash = "2a68f98e73184d450b294c2b75a5f4b9579c03561586a1df8e5db75d58fd320d"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -470,11 +494,11 @@ hash = "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "d5775ee3c196e690ed60d177ff2e0b92a98ff68672b52f3b08391fd6f20a3a06"
+hash = "dd75573d5cc3bae2a47871883697ffa1dd6c18d5ed84b4682500f592ca420aa2"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "2353feae3b431205193b0911d5b6b8cd9a2d99eace1eb5a40cd620b8fec9218a"
+hash = "de299bc08d09e5e83229e650b02d0cc3affc33586dedb229490412e293422900"
 
 [[files]]
 file = "config/leavemybarsalone-client.toml"
@@ -1097,6 +1121,14 @@ file = "config/solcarrot-client.toml"
 hash = "90b11bf7fe7bbf30c05728f2d4bdc51d49138c30359feb6261c6e7f5f04245ee"
 
 [[files]]
+file = "config/storagedrawers-client.toml"
+hash = "9278e868cee8fe35e0c0bae950a26329d85580d91841b42ea1b0d04fb4d0ad2f"
+
+[[files]]
+file = "config/storagedrawers-common.toml"
+hash = "790128ac37d0f77399e2cf863a0651a0a5abf74ee976088906613ed92e4d3938"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
@@ -1191,6 +1223,14 @@ hash = "61e38d9ca9c596bbde8ff9e6aa048cc8143666c885eca5315c2a6586979e71b6"
 [[files]]
 file = "defaultconfigs/ftbultimine-server.snbt"
 hash = "aec5fc83dc4fc68eac187ece56b73922b2a4ba8703d768f4a4b857b5b4f0d0db"
+
+[[files]]
+file = "defaultconfigs/hexcasting-server.toml"
+hash = "f23caeeda0f4326a1bea28a9709adeae822402cb6f228b9e811ee3e5cb5afdda"
+
+[[files]]
+file = "defaultconfigs/journeymap-server.toml"
+hash = "5fb156cda3c472d60eca6603589468873c5e1d0f6676009d4333793af6ae5855"
 
 [[files]]
 file = "defaultconfigs/mahoutsukai-server.toml"
