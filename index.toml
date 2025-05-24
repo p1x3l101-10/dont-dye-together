@@ -1161,6 +1161,10 @@ file = "config/terrablender.toml"
 hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
 [[files]]
+file = "config/touhou_little_maid-common.toml"
+hash = "1c2853141c088959c46bfa3351873137b1efb7ce8bb687c5cf1f701abbd0167a"
+
+[[files]]
 file = "config/travelersbackpack-client.toml"
 hash = "ecf2fb6c4e15acc95e87006e591a2a7c36cbca1fc3ae73571fe91948f0ba4dd4"
 
