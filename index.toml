@@ -917,6 +917,14 @@ file = "config/paucal-common.toml"
 hash = "92239ac1c2e4cc5572dfea32b54fad5f3ca13f3ec2886c37b40bd0b7aa80f2a5"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/.keep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/paxi/datapacks/removeSpawnBooks/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -927,6 +935,14 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/paxi/datapacks/removeSpawnBooks/pack.mcmeta"
 hash = "33a0ea1c9289bbade2472bd6d4e74283eb7fe9417eac252c7a6b7ae39d35919e"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/.keep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/pehkui-client.toml"
