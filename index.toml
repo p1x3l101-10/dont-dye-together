@@ -1181,6 +1181,11 @@ file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "e9933e720510cf05b480c3e1df69af285805c5192df0dac2f255772cc46b47d4"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "684c63b15476444b176e31db9a029a7a29aca70bbbfb285873ab4ed5b8d498b7"
+metafile = true
+
+[[files]]
 file = "mods/alloy-smelter.pw.toml"
 hash = "e8235c32512a00f5968c2083f1ed05175f9d7f3a8c551bfb5707739365700692"
 metafile = true
@@ -1196,8 +1201,13 @@ hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -1232,7 +1242,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3391364edc8e38f90c692b82dfd09a26c293c24d80b08c307417ac223029352"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -1261,6 +1271,11 @@ hash = "60c57fba5a86f856ca3acfff232cf70d1c510f863faa2bc063b7c7ab3d3a8cab"
 metafile = true
 
 [[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "07a0c3e5b7e81ea093ffc86422ecb6b4a1d3aa13b6d36efb66af02c3c1413088"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "810118ff44d55d15dbc39c3d86074b3eefe2f1f5fbaa4fe2e19c2f7462a43816"
 metafile = true
@@ -1276,13 +1291,18 @@ hash = "cc6bdb5f85f8773aaf1ea925ea53fbd06f4957974b5efea6f64886119229677a"
 metafile = true
 
 [[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "76292f81176cc0c1b2e1e6a17b0c1b1c6e731311ed67c79509dd444dd752dcfd"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "f7ba3ad55e874535b6fa42eeccca3045dc447d93667e5fe84c6d6e9821d8bfd1"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ef1eebf6d489e2297257a4164e1816d8056bc436094719b2b85aa73c34fa37de"
+hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
 
 [[files]]
@@ -1297,7 +1317,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "72a867977697dce084eff67f425cf91feb0928e74fe9c5b5db9769f2bc98c074"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -1438,6 +1458,11 @@ metafile = true
 [[files]]
 file = "mods/gotta-go-dash.pw.toml"
 hash = "3bc276b35ea2641ba6e1b75e32fcc2fb59a5cf052f29659fb92211ad1712db31"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "1290dafea5f85e79f46a3478d5278ee4020d8400d85b45448ac548952e1d1e25"
 metafile = true
 
 [[files]]
