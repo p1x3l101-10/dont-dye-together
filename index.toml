@@ -1432,6 +1432,11 @@ hash = "6e02dfe94d440dfe4e2d36a7a46b41c8ac50e536d92cf0bc8c0a03fd3cdede7f"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
+metafile = true
+
+[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "37f1cf3f8c7ea23ed317d2daf5ba97ced9eb9bf23121799e51171c086aa4c2cb"
 metafile = true
