@@ -1327,6 +1327,16 @@ hash = "978d78da390591343b92e5b31ce14a4fafacd690603e62e281857b26f68507b7"
 metafile = true
 
 [[files]]
+file = "mods/bluemap-offline-player-markers-forge.pw.toml"
+hash = "acb811e45d7a260151cce23495520bac14c8031a705b9c2f12aaa0d6abca5474"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "121311026aa3bb351153cfe527757261947d04ef6cc79768a53c0b058839abec"
+metafile = true
+
+[[files]]
 file = "mods/brutal-bosses-dungeon.pw.toml"
 hash = "36db27feae77320fa973099313259ef780fcbff0ebfb540ddee48d67361328a8"
 metafile = true
