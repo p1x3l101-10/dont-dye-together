@@ -1674,6 +1674,11 @@ hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "03f40f9d1fba6c7ee250dd7b1c8482d2711058d7a6401b34fca8c018db7e5b45"
 metafile = true
@@ -1790,7 +1795,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "c5a50dedd436e9d49a207085dd8ec2fded9c899fecf19f54f6dca4f5090fdbd0"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]
