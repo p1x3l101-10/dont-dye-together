@@ -1,0 +1,13 @@
+name = "CosmeticWeapons"
+filename = "CosmeticWeapons - 1.0.0.1 - 1.20.1 - Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y7CFb6kD/versions/YfoFWIul/CosmeticWeapons%20-%201.0.0.1%20-%201.20.1%20-%20Forge.jar"
+hash-format = "sha512"
+hash = "7da18878a1dc4dda9b2bd0415f7c80d51c9f3c45b03007b68fb38abe54d0a3d507f980251882d42852d432871757e263084fed3f8ac1ae1ac82ce369e2329606"
+
+[update]
+[update.modrinth]
+mod-id = "y7CFb6kD"
+version = "YfoFWIul"

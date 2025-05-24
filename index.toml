@@ -1367,6 +1367,21 @@ hash = "d606b7407e7fb352a89d59f2ccb849779184685f1c731024ec16e7f66116e71e"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticarmours.pw.toml"
+hash = "d727f1c6b53ba755c71fb78a4a983faec493466d4162ee11e9aa99babbcb3d9d"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticweapons.pw.toml"
+hash = "6366d1fa2fc2daff8690100a52ead50a4836bdbcfbe41fd0a8c03ccd4b05f3e1"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "60c57fba5a86f856ca3acfff232cf70d1c510f863faa2bc063b7c7ab3d3a8cab"
 metafile = true
@@ -1474,6 +1489,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "41a06e73361cc2520d6a8d83543af398179e25f7fd10b60df6a02cbbc8837a4c"
+metafile = true
+
+[[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "2e5cf666dac091c3a687d3b0e38954bbf80408a7f7bfadc68b4159cde91b0291"
 metafile = true
 
 [[files]]
