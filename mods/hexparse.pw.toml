@@ -1,0 +1,13 @@
+name = "HexParse"
+filename = "hexParse-forge-1.20.1-0.9.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/FgkXECD1/hexParse-forge-1.20.1-0.9.8.jar"
+hash-format = "sha512"
+hash = "8708ac6ca9cf050c780e9a1c8c04c2064e1115e0645ab5a95f07ba728d0d2496f18ac7e34ae9e8a82fe785146279efef25d11f4b7109e11c62a43ce8117dd9d1"
+
+[update]
+[update.modrinth]
+mod-id = "WjFyIzFj"
+version = "FgkXECD1"

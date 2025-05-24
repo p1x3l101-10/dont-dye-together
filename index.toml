@@ -1476,6 +1476,11 @@ hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
+file = "mods/hexparse.pw.toml"
+hash = "0dcc6ca04d4d908daed7d78c502074ab368439b227800b646c6c694b59c905fb"
+metafile = true
+
+[[files]]
 file = "mods/i-see-what-you-did-there.pw.toml"
 hash = "aad1b0679d0811905beac3ac404e4104015249c513714ac1bf71f37417e43cb3"
 metafile = true
