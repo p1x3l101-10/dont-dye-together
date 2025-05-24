@@ -1676,6 +1676,16 @@ hash = "a48d76ecf01aa6814e7987a833237a6dd36fa57bb79799796daef5af54543cf4"
 metafile = true
 
 [[files]]
+file = "mods/storage-drawers-create-compat.pw.toml"
+hash = "000b6ed7423aa323da45cdcd9db145f4f07acd8bc9cd9abc4e335f5651605af4"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "8781fb6bf8a0b948bf2f802c3df1425f84f5df9c5cda4d5c5891f4be715b2bcc"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "5e51f5465fc86675183867194817b143d4af45334a649881721492febfbfd106"
 metafile = true
