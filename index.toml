@@ -1777,6 +1777,11 @@ hash = "1d19b2eb78f8fd1cfb1b00a704c08873288496516f4d2bcc55679d4611fae058"
 metafile = true
 
 [[files]]
+file = "mods/proyect-touhou.pw.toml"
+hash = "2dfd26f71225d877624205c149b429c298b60a325329da7535622d1723e816ef"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "22e02b83458f84cde4a43bd30a067f6fc64326836ef016fa71519972e682b62d"
 metafile = true
@@ -1859,6 +1864,11 @@ metafile = true
 [[files]]
 file = "mods/tis3d.pw.toml"
 hash = "b8080485701dd5e05abdd1e9a71261f753fafe1121f397876d686286cb0f8f8b"
+metafile = true
+
+[[files]]
+file = "mods/touhou-little-maid.pw.toml"
+hash = "2178ac5d307a34749caa2a485389d98301cac98efa3b14fb9ecc129a3d75e504"
 metafile = true
 
 [[files]]
