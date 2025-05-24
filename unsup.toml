@@ -33,5 +33,9 @@ flavors = "low_power_off"
 flavors = "low_power_off"
 [metafile.dynamiccrosshair]
 flavors = "gui_changes_on"
+[metafile.flightassistant]
+flavors = "gui_changes_on"
+[metafile.armorpoints]
+flavors = "gui_changes_on"
 [metafile.journeymap]
 flavors = "map_mod_journeymap"

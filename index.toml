@@ -1307,6 +1307,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/armorpoints.pw.toml"
+hash = "ee256e35793474016ecdde41cd4094cea0d70a823774a135e93900b956ffd719"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "8b7928e81a965daa93af1878fb6a6bbe7756c8feecc465ba3e41013c3683d7b0"
 metafile = true
@@ -1517,6 +1522,11 @@ hash = "6c0878da1c77010a82d253bd6ec8ac3aecb39fa730c39f8a69ebbecba18397c1"
 metafile = true
 
 [[files]]
+file = "mods/flightassistant.pw.toml"
+hash = "634d75dd0e39db9c5c255758c44482faa038610c875d79c2442b819858881c8c"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "03f7752451607782320f763df5e220f29640bcf98f3ad9f503b55ac57e6f009d"
 metafile = true
@@ -1613,7 +1623,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "5e8c6988b1a3e4edd1aefb16ba6a4eb4ea39c3ed1509e4cdac20f4ab866daf10"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
@@ -1837,6 +1847,11 @@ hash = "5809a535577c00eb252eadf8bf1e7855bcab55033e7dd737c01cb082c5ec6310"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
 file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
 hash = "66ff95bcc37a0f4927b7c140e2e50ed44167cea49629991c4a413b4e816ea63b"
 metafile = true
@@ -1912,4 +1927,4 @@ hash = "8203180709d924a58b9975a6671c12aad81b5f62b1cde2b13b3af007e0756a21"
 
 [[files]]
 file = "unsup.toml"
-hash = "b255f66d3c20dc9a54e16f0a5727b9833a82e47d3172752a8ae86037753fa055"
+hash = "33d3d725843d7d5553cfc0c6667e66e696e4d004cb2015286e0f51e39f2dbb7e"
