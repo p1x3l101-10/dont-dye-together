@@ -1221,6 +1221,11 @@ hash = "36db27feae77320fa973099313259ef780fcbff0ebfb540ddee48d67361328a8"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "7955bc3fb582973a7cdabd0a484e6180b92562bde7d50b9e73afc253f29e472b"
 metafile = true
@@ -1466,6 +1471,11 @@ hash = "b05fd43d111239280d2d9bf0221fbe3006e25aa11a84f9717b0ed0821a4a7a92"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "9091cd2ee859de39c863e5e54c4b999b4bd01b7ba6f21c78fbc23a3a3f520bd1"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "7420d7862342154a20762e289b21c97fbca7ceb1747a1d3234f2e0ccd4754cf3"
 metafile = true
@@ -1553,6 +1563,16 @@ metafile = true
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "84e9d8fc270c18478d438dc9cc10bd870c45a22b3a848b80eab6e54f2a692961"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
 metafile = true
 
 [[files]]
