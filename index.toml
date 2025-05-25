@@ -1651,6 +1651,11 @@ hash = "b449e490600e89d6ce55b7e85f57073d799298f2b2501b2918745c4652b5b842"
 metafile = true
 
 [[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "fcc06536bbba1f535850aa6c53f53f36d8c7ee4f281998c8ce3e4f8a0e658400"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "7420d7862342154a20762e289b21c97fbca7ceb1747a1d3234f2e0ccd4754cf3"
 metafile = true
