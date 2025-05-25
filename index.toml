@@ -1411,6 +1411,11 @@ hash = "810118ff44d55d15dbc39c3d86074b3eefe2f1f5fbaa4fe2e19c2f7462a43816"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "4c7efc1bdf4a1f03eb138d85655f3921e32dd4396849b54270b0142780856c82"
 metafile = true
@@ -1421,8 +1426,18 @@ hash = "cc6bdb5f85f8773aaf1ea925ea53fbd06f4957974b5efea6f64886119229677a"
 metafile = true
 
 [[files]]
+file = "mods/create-renewable-brass.pw.toml"
+hash = "aa953cd56bf1fa7332acaed72dddf05f1aa3c6289870be5be3bb17e658e14dd2"
+metafile = true
+
+[[files]]
 file = "mods/create-stock-bridge.pw.toml"
 hash = "76292f81176cc0c1b2e1e6a17b0c1b1c6e731311ed67c79509dd444dd752dcfd"
+metafile = true
+
+[[files]]
+file = "mods/create-stones.pw.toml"
+hash = "cddb9e72b388549f66d80638374cf2eeb1faf59f9ec513b5ec27151539c3dec8"
 metafile = true
 
 [[files]]
@@ -1431,8 +1446,23 @@ hash = "f7ba3ad55e874535b6fa42eeccca3045dc447d93667e5fe84c6d6e9821d8bfd1"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "f010014d53f9fda730c975dbac1f213fd5090efc66e5d00d64268297e8c2d91e"
+metafile = true
+
+[[files]]
+file = "mods/create-waystones-recipes.pw.toml"
+hash = "a6eef0e06f73c29b012b85d69f696b974404ddb3b32efaa60de509a802f411b4"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "143f122a23f69fb655521b54962e506c9d782b76e2f26b6cef304ef2d299e128"
 metafile = true
 
 [[files]]

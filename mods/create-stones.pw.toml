@@ -1,0 +1,13 @@
+name = "Create: Stones"
+filename = "create-stones-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KKlx33Ch/versions/sBb1YvPh/create-stones-2.0.0.jar"
+hash-format = "sha512"
+hash = "276c6986f240d56bc23a0f42db4f95ffc73eeee92153545d3da6995e9db5a2fc27e224231c712bd77fb47311b80b9e84695db0ed0ed43d60888643d5241de0fd"
+
+[update]
+[update.modrinth]
+mod-id = "KKlx33Ch"
+version = "sBb1YvPh"
