@@ -1876,6 +1876,11 @@ hash = "b8080485701dd5e05abdd1e9a71261f753fafe1121f397876d686286cb0f8f8b"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "c24febd1fd6db1cf87dc4ba9caf9ecedba0e7326c06456dcce71c390ba98b424"
+metafile = true
+
+[[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "2178ac5d307a34749caa2a485389d98301cac98efa3b14fb9ecc129a3d75e504"
 metafile = true
