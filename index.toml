@@ -1341,6 +1341,11 @@ hash = "121311026aa3bb351153cfe527757261947d04ef6cc79768a53c0b058839abec"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "8a8d5173c74824a1ae312d7a22e3fc6a5a3312e48f034f2be83ee345e749eda3"
+metafile = true
+
+[[files]]
 file = "mods/brutal-bosses-dungeon.pw.toml"
 hash = "36db27feae77320fa973099313259ef780fcbff0ebfb540ddee48d67361328a8"
 metafile = true
@@ -1726,6 +1731,11 @@ hash = "f3ed17a08e7cf274606369a3112ee5ff965a5a3b863a4a62d0ee35a6d29110d2"
 metafile = true
 
 [[files]]
+file = "mods/mafglib.pw.toml"
+hash = "9c4da7c2784ead3ef2486ec80417cbcedcf8d35a5176bccdbebb8469d60d5e7a"
+metafile = true
+
+[[files]]
 file = "mods/mahou-tsukai-combat.pw.toml"
 hash = "7807c53f3608c2a243b8b37561b6b344fc26c1427000c9b7add858ce04e6febe"
 metafile = true
@@ -1743,6 +1753,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
+metafile = true
+
+[[files]]
+file = "mods/minihud-extra.pw.toml"
+hash = "4bac749b726207b43d7359c854e1ca63917007a604681954fef0f28c53092a87"
 metafile = true
 
 [[files]]
