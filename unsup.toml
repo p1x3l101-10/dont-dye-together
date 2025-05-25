@@ -27,8 +27,6 @@ name = "JourneyMap"
 description = "Installs JourneyMap which integrates with FTB Chunks"
 
 # Apply the flavors
-[metafile."shimmer!"]
-flavors = "low_power_off"
 [metafile.distanthorizons]
 flavors = "low_power_off"
 [metafile.dynamiccrosshair]

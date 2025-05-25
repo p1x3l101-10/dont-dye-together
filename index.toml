@@ -1811,11 +1811,6 @@ hash = "afe530f500b2a09b034b65c94e71aa3efd36e03951dc4201b51411acdc4e22f2"
 metafile = true
 
 [[files]]
-file = "mods/shimmer!.pw.toml"
-hash = "d0b0267e9e6fc9ebfe7f37744ebc2fb96d362d6988e0d1b66196475a72b293e5"
-metafile = true
-
-[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "3366f09a8766737bf373e8db92e304be79378c90d198af89a048aa97340a66a5"
 metafile = true
@@ -1986,4 +1981,4 @@ hash = "8203180709d924a58b9975a6671c12aad81b5f62b1cde2b13b3af007e0756a21"
 
 [[files]]
 file = "unsup.toml"
-hash = "33d3d725843d7d5553cfc0c6667e66e696e4d004cb2015286e0f51e39f2dbb7e"
+hash = "92f4aed4910e9fe663bb6843332474547126282ac64a5272cac335f3c9fa70a8"
