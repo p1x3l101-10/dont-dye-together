@@ -1401,6 +1401,11 @@ hash = "6366d1fa2fc2daff8690100a52ead50a4836bdbcfbe41fd0a8c03ccd4b05f3e1"
 metafile = true
 
 [[files]]
+file = "mods/crackers-wither-storm-mod.pw.toml"
+hash = "e578c8ca5b9bcdbaf0795345b9d734282c975950a570cd122574a861853ccff5"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "60c57fba5a86f856ca3acfff232cf70d1c510f863faa2bc063b7c7ab3d3a8cab"
 metafile = true
