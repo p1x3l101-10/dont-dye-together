@@ -15,7 +15,7 @@
 	patronCosmetic = true
 	#Toggles the custom main menu panorama added by the mod.
 	#Default: true
-	customPanorama = true
+	customPanorama = false
 
 	#Compatibility
 	[client.compatibility]
