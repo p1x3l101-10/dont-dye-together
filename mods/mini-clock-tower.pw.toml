@@ -1,0 +1,13 @@
+name = "Mini Clock Tower"
+filename = "mini_clock_tower-1.0.0 Forge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UeZa7a3e/versions/U1hT0O6m/mini_clock_tower-1.0.0%20Forge%201.20.1.jar"
+hash-format = "sha512"
+hash = "16821140b56debe1c9292a7ad3f5039289f5ecdbd1d2b862e80cba8a8653671653f415400324fb329713ddbc0bfadf7ae1c05901e4d9e5a213cb8871a0b7e890"
+
+[update]
+[update.modrinth]
+mod-id = "UeZa7a3e"
+version = "U1hT0O6m"

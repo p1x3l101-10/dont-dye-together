@@ -1494,6 +1494,11 @@ hash = "7955bc3fb582973a7cdabd0a484e6180b92562bde7d50b9e73afc253f29e472b"
 metafile = true
 
 [[files]]
+file = "mods/chinese-flying-island-tower.pw.toml"
+hash = "d26c8c4333e02d0502063fe87beb668f0b6677b3510361aee77d410a19a799ff"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -1914,6 +1919,11 @@ hash = "d9d3fe576eb7a4e3a2c7c08ecade6a000ca15cc07a1fe9444d2a37cce8f27f2f"
 metafile = true
 
 [[files]]
+file = "mods/mini-clock-tower.pw.toml"
+hash = "4c4bf1478401c08cca0381fcac772581442767cf7cc0fe451ed8808878ee296a"
+metafile = true
+
+[[files]]
 file = "mods/minihud-extra.pw.toml"
 hash = "4bac749b726207b43d7359c854e1ca63917007a604681954fef0f28c53092a87"
 metafile = true
@@ -2054,6 +2064,16 @@ hash = "8781fb6bf8a0b948bf2f802c3df1425f84f5df9c5cda4d5c5891f4be715b2bcc"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "2d5fddc37293f33e8967e4687a69fb98126a8c4f79194547d1ab6e2941007910"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "5e51f5465fc86675183867194817b143d4af45334a649881721492febfbfd106"
 metafile = true
@@ -2089,8 +2109,18 @@ hash = "c24febd1fd6db1cf87dc4ba9caf9ecedba0e7326c06456dcce71c390ba98b424"
 metafile = true
 
 [[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "bec02df9321feda1e0ff9b4dcf21cc724faa3494c7e45cd68b6e81f3596a708a"
+metafile = true
+
+[[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "2178ac5d307a34749caa2a485389d98301cac98efa3b14fb9ecc129a3d75e504"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "2293ec3bffb46c55674da4a8f665b887cb0352a3388dee5b304bdc11cfc103ce"
 metafile = true
 
 [[files]]

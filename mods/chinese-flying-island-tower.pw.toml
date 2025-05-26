@@ -1,0 +1,13 @@
+name = "Chinese flying island tower"
+filename = "chineseflyingislandtower-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NVz9DXUE/versions/gUYdFkI7/chineseflyingislandtower-1.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "e6a7f3c40888021dcf90cb5580dbe63d2ec6b407268be99373f219f76172bd03c15cf4108de819f5ecd949391080e776a83f1caab80b5fc6c93fe5f0598f379a"
+
+[update]
+[update.modrinth]
+mod-id = "NVz9DXUE"
+version = "gUYdFkI7"
