@@ -1734,6 +1734,11 @@ hash = "238ea1ae426148c8758029057bea9007f4c4ed33955c837eee5b76c47e7ff577"
 metafile = true
 
 [[files]]
+file = "mods/faewulfslib.pw.toml"
+hash = "4c45739548b38570fb490eaeae37c1c6ef90ba657c18138554a0230ac7f9c455"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
 metafile = true
@@ -1981,6 +1986,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "03f40f9d1fba6c7ee250dd7b1c8482d2711058d7a6401b34fca8c018db7e5b45"
+metafile = true
+
+[[files]]
+file = "mods/piggybacks.pw.toml"
+hash = "f0f00c8f2231bbc462770d4678d5c02dbf4aa13c01ac8bfd726afe6d5e3fdc0e"
 metafile = true
 
 [[files]]
