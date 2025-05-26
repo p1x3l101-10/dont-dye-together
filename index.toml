@@ -1809,11 +1809,6 @@ hash = "0dcc6ca04d4d908daed7d78c502074ab368439b227800b646c6c694b59c905fb"
 metafile = true
 
 [[files]]
-file = "mods/hexsky.pw.toml"
-hash = "0bd7f01971521b246f18dc6725381fea5e4f99fbfec5460047275aa57bc9271f"
-metafile = true
-
-[[files]]
 file = "mods/i-see-what-you-did-there.pw.toml"
 hash = "aad1b0679d0811905beac3ac404e4104015249c513714ac1bf71f37417e43cb3"
 metafile = true
@@ -1844,13 +1839,8 @@ hash = "fcc06536bbba1f535850aa6c53f53f36d8c7ee4f281998c8ce3e4f8a0e658400"
 metafile = true
 
 [[files]]
-file = "mods/jade-vs.pw.toml"
-hash = "7b95fad768c3af9e97e43a7ae4a144813e37bff2d6392502797173dcbf0b1206"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
-hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
+hash = "7420d7862342154a20762e289b21c97fbca7ceb1747a1d3234f2e0ccd4754cf3"
 metafile = true
 
 [[files]]
@@ -2136,11 +2126,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets-and-baubles-reforked.pw.toml"
 hash = "bb70e620d716512af1bb6a5a4966da763a7de858212ddf107ad5b267336dd7cf"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "19e61336196413472f8d425a6ebbd51edb4dd32920839ddcec14fbede1546a20"
 metafile = true
 
 [[files]]
