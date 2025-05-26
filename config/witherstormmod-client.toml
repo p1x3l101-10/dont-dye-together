@@ -82,7 +82,7 @@
 	[client.boss_music]
 		#Toggles the Wither Storm boss theme. NOTE: this theme is from MC:SM and is subject to copyright.
 		#Default: false
-		playWitherStormTheme = false
+		playWitherStormTheme = true
 		#Toggles the Withered Symbiont theme, created for CWSM by Mar Mar.
 		#Default: true
 		playSymbiontTheme = true
@@ -103,7 +103,7 @@
 		renderDistantDebris = true
 		#Specifies if the low res models should be used when being rendered via the distant renderer.
 		#Default: false
-		witherStormLOD = false
+		witherStormLOD = true
 		#Uses larger cubes to make up the the phase 4 and up models. May result in a performance increase.
 		#Default: false
 		lowResModels = false

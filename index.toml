@@ -1318,7 +1318,7 @@ hash = "3d4dbd61a23914b1127855360ee296e3b25b76ea19481802f7da5f740bc0e0cd"
 
 [[files]]
 file = "config/witherstormmod-client.toml"
-hash = "8a63edeb2e58f5066d22bcf8e8451dd1093eef6835754100b40414442b2a6ace"
+hash = "e908acc79418adad849d0cd61f00406438bafacc11217abae0bd0ff508bd7ae0"
 
 [[files]]
 file = "config/witherstormmod-common.toml"
