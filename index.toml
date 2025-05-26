@@ -1836,11 +1836,6 @@ hash = "1d19b2eb78f8fd1cfb1b00a704c08873288496516f4d2bcc55679d4611fae058"
 metafile = true
 
 [[files]]
-file = "mods/proyect-touhou.pw.toml"
-hash = "2dfd26f71225d877624205c149b429c298b60a325329da7535622d1723e816ef"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "22e02b83458f84cde4a43bd30a067f6fc64326836ef016fa71519972e682b62d"
 metafile = true
