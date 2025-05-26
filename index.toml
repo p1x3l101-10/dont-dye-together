@@ -2084,6 +2084,11 @@ hash = "9ac5e8e1ab023cedb299a745a00201d19fd36ec289a74169071774f119efed53"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
 file = "mods/the-zoomify-mod.pw.toml"
 hash = "7841b29ae067b60912700a63aa8756f9e898db11eec1e955f0785dfdf59fa9ce"
 metafile = true
@@ -2221,6 +2226,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "c5a8c1e71082b0f5cc03cd3d6044090434f858f33f5e16664217cd53c30f57fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/twilight-forest-jappa-pack.pw.toml"
+hash = "fbb4644fe0733d7c9662931679559ad5bd6b09c616fec2e46c6aeb328cb053f9"
 metafile = true
 
 [[files]]
