@@ -1899,6 +1899,11 @@ hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+hash = "d9d3fe576eb7a4e3a2c7c08ecade6a000ca15cc07a1fe9444d2a37cce8f27f2f"
+metafile = true
+
+[[files]]
 file = "mods/minihud-extra.pw.toml"
 hash = "4bac749b726207b43d7359c854e1ca63917007a604681954fef0f28c53092a87"
 metafile = true
@@ -1921,6 +1926,11 @@ metafile = true
 [[files]]
 file = "mods/nameless-trinkets.pw.toml"
 hash = "660fd66ab4d36935e61b8b55f5ea773440216b56cb4dd0763601e19017d8f80d"
+metafile = true
+
+[[files]]
+file = "mods/new-nether-chest.pw.toml"
+hash = "534ab1df08aa718d64450c61da02210d96ccbe28e8ed2f98bee912e50f33f5c6"
 metafile = true
 
 [[files]]
@@ -1980,7 +1990,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "22e02b83458f84cde4a43bd30a067f6fc64326836ef016fa71519972e682b62d"
+hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
