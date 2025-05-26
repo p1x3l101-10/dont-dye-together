@@ -1479,6 +1479,11 @@ hash = "36db27feae77320fa973099313259ef780fcbff0ebfb540ddee48d67361328a8"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
@@ -2031,6 +2036,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "5e51f5465fc86675183867194817b143d4af45334a649881721492febfbfd106"
+metafile = true
+
+[[files]]
+file = "mods/the-mighty-architectury.pw.toml"
+hash = "9ac5e8e1ab023cedb299a745a00201d19fd36ec289a74169071774f119efed53"
 metafile = true
 
 [[files]]
