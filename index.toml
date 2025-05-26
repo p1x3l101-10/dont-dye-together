@@ -2229,6 +2229,16 @@ hash = "c5a8c1e71082b0f5cc03cd3d6044090434f858f33f5e16664217cd53c30f57fb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-hex-particle.pw.toml"
+hash = "160d46fa02e12609a01a731a4e78b08f77a24a3cc75c6e352faf802ea6e3b637"
+metafile = true
+
+[[files]]
+file = "resourcepacks/custom-3d-staves-for-hex-casting.pw.toml"
+hash = "b60d0f29309956b8b8c45de65b8927ebd4f672037309a6dea2e27ff0e7c3c6d3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "fbb4644fe0733d7c9662931679559ad5bd6b09c616fec2e46c6aeb328cb053f9"
 metafile = true
