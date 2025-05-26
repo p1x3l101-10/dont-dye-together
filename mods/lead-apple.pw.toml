@@ -1,0 +1,13 @@
+name = "Lead Apple"
+filename = "lead_apple-0.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OODeFk3o/versions/k07sVr5g/lead_apple-0.1.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "59cc01cb5a0835f54ee2a8ea71ace28662d3974390bcacde558072e89339179110eb033857a75f4fb11fbe8087299c9a3fb22753c8a722da64c844cd16d520ce"
+
+[update]
+[update.modrinth]
+mod-id = "OODeFk3o"
+version = "k07sVr5g"

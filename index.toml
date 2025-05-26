@@ -1904,6 +1904,11 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/lead-apple.pw.toml"
+hash = "c02b75a8eaf11e56934fe661e3ecc4daa8a99031cfd16c2846e3c2eb75eb388c"
+metafile = true
+
+[[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "17a3680338305f0fc9c089c4851ccc422f9f16027643c6f8b51ab46669d49b91"
 metafile = true
