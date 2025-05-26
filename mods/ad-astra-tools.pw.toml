@@ -1,0 +1,13 @@
+name = "Ad Astra :Tools"
+filename = "[Forge] Ad Astra Tools 1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x187Px7Z/versions/zROkpLPY/%5BForge%5D%20Ad%20Astra%20Tools%201.5.jar"
+hash-format = "sha512"
+hash = "e1701e0690204338516b482ab74caab34eb36c61a0e2c6028b5f3891ad525c0e25a64527a509c4a56c96f247a2cb8a0081a9eed5546b68a9deb14724b72c94b8"
+
+[update]
+[update.modrinth]
+mod-id = "x187Px7Z"
+version = "zROkpLPY"

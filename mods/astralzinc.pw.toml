@@ -1,0 +1,13 @@
+name = "Astral Zinc"
+filename = "astralzinc-0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BmMCoIaA/versions/d0CoIPvO/astralzinc-0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "c79e25461eca4ed8a55d55b984f7174ade79ab7d715caefcea4643e92a7f24e39ec738c1d320ce2f000000f50e9b69d5604418732fe548afe2c0cb740034b1a7"
+
+[update]
+[update.modrinth]
+mod-id = "BmMCoIaA"
+version = "d0CoIPvO"

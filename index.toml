@@ -1409,6 +1409,16 @@ file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "e9933e720510cf05b480c3e1df69af285805c5192df0dac2f255772cc46b47d4"
 
 [[files]]
+file = "mods/ad-astra-tools.pw.toml"
+hash = "fef9f7bb4c68d3aba8e88bb6e7d39bdbb0182d1b1bbe8580604394cd2d9006fb"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "684c63b15476444b176e31db9a029a7a29aca70bbbfb285873ab4ed5b8d498b7"
 metafile = true
@@ -1449,6 +1459,11 @@ hash = "8b7928e81a965daa93af1878fb6a6bbe7756c8feecc465ba3e41013c3683d7b0"
 metafile = true
 
 [[files]]
+file = "mods/astralzinc.pw.toml"
+hash = "1c9ded60bf137694859c9521c52b3f97383748108752741b90f35ef92d3f06b8"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "3533fa9bbfa93f4acbe47179632d0a6add6a0528d648d83eb4d337a632aba112"
 metafile = true
@@ -1476,6 +1491,11 @@ metafile = true
 [[files]]
 file = "mods/bocchud.pw.toml"
 hash = "8a8d5173c74824a1ae312d7a22e3fc6a5a3312e48f034f2be83ee345e749eda3"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
 
 [[files]]
@@ -1559,6 +1579,11 @@ hash = "71978099bab5a59af99ad64f1d684ee7c89262795a538ce9b91d9e2456971d05"
 metafile = true
 
 [[files]]
+file = "mods/create-ad-astra-recipes.pw.toml"
+hash = "50e8c9f27bf196a61d70bea253833c6a52b17879020620003a73b31d5457ca13"
+metafile = true
+
+[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "07a0c3e5b7e81ea093ffc86422ecb6b4a1d3aa13b6d36efb66af02c3c1413088"
 metafile = true
@@ -1626,6 +1651,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "6f65c645f80f1a94d42fd69bb420d9d7a4a35ccef19d8af48533efb5a276e12e"
+metafile = true
+
+[[files]]
+file = "mods/crushed-astra.pw.toml"
+hash = "14416d372f8eefb280a2ae1e515eb5b6dd08517ef494cd20cfdcdd7281681bdb"
 metafile = true
 
 [[files]]
@@ -2031,6 +2061,16 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "14c4bc6a10a352a5e0236d7daa0dcb0d501dcf479cf8845d1bd8d64993f0d854"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
