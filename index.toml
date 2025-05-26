@@ -49,6 +49,10 @@ file = "config/appleskin-client.toml"
 hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
 [[files]]
+file = "config/armorpointspp-client.toml"
+hash = "0998d2f51efef0b0c41ac2d44f413b0756efb369889c5364d9d9915c71287278"
+
+[[files]]
 file = "config/artifacts/client.json5"
 hash = "dfae4a12bf924a5e12380032ff257ec535c6b003fef539a3893adb05c0a69c56"
 
@@ -201,6 +205,26 @@ file = "config/betterwitchhuts-forge-1_20.toml"
 hash = "7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8"
 
 [[files]]
+file = "config/bocchud.json"
+hash = "af2244af135e4966553b1deb163d04c67df94ab60abdf6e3f08f92284c6bdeb1"
+
+[[files]]
+file = "config/bocchud/mc.piplup.pp.ua.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/bocchud/mc.piplup.pp.ua_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/bocchud/mc.piplup.pp.ua_dim_minecraft_the_end.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/bocchud/mc.piplup.pp.ua_dim_minecraft_the_nether.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
 file = "config/brutalbosses.json"
 hash = "39e43acceffd0ea5a1d750b4d76d4d1cebacb73d74be551c99709190889e7753"
 
@@ -215,6 +239,18 @@ hash = "70a02fe59453e5b8ad07512adf5feb85fff05bfc3c615349f13d429496f9f7ea"
 [[files]]
 file = "config/copycats-common.toml"
 hash = "621a81b4af985c6995e125a9f7fdf175378202f3341ada18c7a59bf9a03230e1"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.toml"
+hash = "000b9988ecbe8b294dc3577d1867b09954e237775b3a252af45df0b4cb2c591c"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.toml"
+hash = "bbcc81de697b22295d1fb327a0fd0b1deebe86a33daba4713c341e15ecf89316"
+
+[[files]]
+file = "config/crackerslib-client.toml"
+hash = "3bc8bbc6ac07021345230ba969f30bd3cac1b1d15f41767c03001db31fac9846"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
@@ -255,6 +291,10 @@ hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
 [[files]]
 file = "config/create-stuff-additions.toml"
 hash = "634d2da58fa62a816f7c8bc56d728a0e40df826071ce6f005feb2a2bf9f5927d"
+
+[[files]]
+file = "config/create_factory_logistics-client.toml"
+hash = "23d000a77a0bbbd31fda7c38dbb6b551910e8e892067c9f9d4cf1727e8878ffd"
 
 [[files]]
 file = "config/createaddition-common.toml"
@@ -307,6 +347,14 @@ hash = "cbb8f129d95e0eebc1ddd8fd1a3d1cf6b069d07595e1217c480e2433bc99ce48"
 [[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "95f70662db1dbdde5aa38d469788a62c9ece1298f07bb9b76881ea9d854ae7b4"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "c3b8b81ab6fe44c807fb854bc7ad09bd09b8f9f646785768eb8eb649a29dc130"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/doggytalents-client.toml"
@@ -381,6 +429,10 @@ file = "config/easymagic-server.toml"
 hash = "e0c2189f0351191e8115dfa988b29ab0c3f5601ccf62e9072aad811aecf596e3"
 
 [[files]]
+file = "config/eccentrictome-common.toml"
+hash = "d5180847dea61419d4c046515c808edf8f9d3477ceaec7e7be8810ed53f8136e"
+
+[[files]]
 file = "config/embeddium-fingerprint.json"
 hash = "f994576e73c327067627cf3ebec35f6d6e1bb8e08a22c46995756e3faaff11f2"
 
@@ -423,6 +475,18 @@ hash = "7e55389203c18572491a025db2392fc67ebb4e167a1c617679445210aa88757a"
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
+
+[[files]]
+file = "config/flightassistant/displays.json5"
+hash = "47044d57c4a776a33e251772050f49811235742699e10f211e862420e5f185fe"
+
+[[files]]
+file = "config/flightassistant/global.json5"
+hash = "eee4f27e1c6bc730c2d9dc04c74e9528b6e68c1d370d95e83832247fd101584c"
+
+[[files]]
+file = "config/flightassistant/safety.json5"
+hash = "47d51df136395e67957820e39f5c2a2afc910cfd2892211307379a40dd3ae0c8"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -501,6 +565,30 @@ file = "config/jade/sort-order.json"
 hash = "de299bc08d09e5e83229e650b02d0cc3affc33586dedb229490412e293422900"
 
 [[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "cba337712ed12b05bbbe3c7a046d88cdba7c2b301f4dbcfb47cfd82e3759897e"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "30ffef1681a9b0255e65a756406f85b1cca8b0bb3c0fab357c2727e325401bd0"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "44e73ad4423c5bf0381da8e934861ac552cca4a12d4a007801cacf6eb85d12e9"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "07052785400b48d3757dbbcfff0b50899fbaed1ac54ea09bc9024ea7f73b7644"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "120729e7eace8e127c304f8208fc3886901ab6465240f9b0fc3dd8309c81d2ea"
+
+[[files]]
 file = "config/leavemybarsalone-client.toml"
 hash = "9dfbbd0cc7639bb797cd4b529434e4cb8cdabb8e34f6dc579429fb48427198b0"
 
@@ -521,8 +609,16 @@ file = "config/lootr-common.toml"
 hash = "a88285c2412deb8e40ae6cf98f01f2aa308fc60a6eb71764222bb9eb6b6bffe3"
 
 [[files]]
+file = "config/mafglib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
 file = "config/mahoutsukai-client.toml"
 hash = "8afbeb48cf77bda81a5aceeef89aae3594463735c5f9a64105d9d864e369f415"
+
+[[files]]
+file = "config/minihudextra.json"
+hash = "03e9a3304e84526cf0c81df9b73e166fe8663205811284f2662490a3022da9d9"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -1161,8 +1257,24 @@ file = "config/terrablender.toml"
 hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
 [[files]]
+file = "config/tis3d-client.toml"
+hash = "9f1a41df3457cc963cfcac2b4467e1f7ae58896676eef49d5d86532930a6ad4f"
+
+[[files]]
+file = "config/tis3d-common.toml"
+hash = "856ba9074b5fdb552803eecfd5b4f3d240fb9d3a7780c80c52ccb96e7a479ba5"
+
+[[files]]
 file = "config/touhou_little_maid-common.toml"
 hash = "1c2853141c088959c46bfa3351873137b1efb7ce8bb687c5cf1f701abbd0167a"
+
+[[files]]
+file = "config/touhou_little_maid/available_sites.yml"
+hash = "692f1c8ddea16897fc60a90a80b049bafa40195f6d3beefa6b8133096408139a"
+
+[[files]]
+file = "config/touhou_little_maid/info.json"
+hash = "812c67932e3f70481ea147b994f50af2b3eb965e1bddf12d5712997f3ecfca9f"
 
 [[files]]
 file = "config/travelersbackpack-client.toml"
@@ -1179,6 +1291,10 @@ hash = "86193c2df8082aa7f865f202b67ba491bc8564cb7bb75224154af16ea214db1a"
 [[files]]
 file = "config/trinketsandbaubles-races.toml"
 hash = "fb4bb68f5edfb740eca8db217dce2f5cc28f94b80f26c257a8f06994ad988f87"
+
+[[files]]
+file = "config/trinketsandbaubles_mana_hud.json"
+hash = "00cb1086147fa8c86e6a356e68dc1b755a40d29efe8345f2ae9b26226d1f00df"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -1199,6 +1315,18 @@ hash = "4e9548b73bc700278d170f0a17948096a71f5d5c1008c589698b58941ad95a25"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "3d4dbd61a23914b1127855360ee296e3b25b76ea19481802f7da5f740bc0e0cd"
+
+[[files]]
+file = "config/witherstormmod-client.toml"
+hash = "8a63edeb2e58f5066d22bcf8e8451dd1093eef6835754100b40414442b2a6ace"
+
+[[files]]
+file = "config/witherstormmod-common.toml"
+hash = "08ad7492a4046dc82c3bfed73734f89dc0cd32a74ea75feab27af7dc65e5983a"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "defaultconfigs/copycats-server.toml"
