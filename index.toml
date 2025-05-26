@@ -1589,6 +1589,11 @@ hash = "07a0c3e5b7e81ea093ffc86422ecb6b4a1d3aa13b6d36efb66af02c3c1413088"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "6a07c5b47f1a9e875ea4fd35c9a76bd0abe44de50c1095b3ed985d47be5507cf"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "810118ff44d55d15dbc39c3d86074b3eefe2f1f5fbaa4fe2e19c2f7462a43816"
 metafile = true
