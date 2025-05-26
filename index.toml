@@ -1959,6 +1959,11 @@ hash = "d9d3fe576eb7a4e3a2c7c08ecade6a000ca15cc07a1fe9444d2a37cce8f27f2f"
 metafile = true
 
 [[files]]
+file = "mods/mekanism.pw.toml"
+hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
+metafile = true
+
+[[files]]
 file = "mods/mini-clock-tower.pw.toml"
 hash = "4c4bf1478401c08cca0381fcac772581442767cf7cc0fe451ed8808878ee296a"
 metafile = true
