@@ -1,0 +1,13 @@
+name = "Hexxy Skies"
+filename = "hexsky-forge-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ta01udVD/versions/gLLKO0cP/hexsky-forge-1.0.8.jar"
+hash-format = "sha512"
+hash = "676ff201fc96d0f87dcc400137d8dde7d74f7a81605aed0a651299615cbd32170078dd3764b69a14fb7691005442137ab82c305280a1eebbe0f430aeb4728c8f"
+
+[update]
+[update.modrinth]
+mod-id = "ta01udVD"
+version = "gLLKO0cP"
