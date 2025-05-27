@@ -1,0 +1,13 @@
+name = "Ex Compressum"
+filename = "excompressum-forge-1.20.1-20.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mwfOGtr1/versions/YbdG5tw8/excompressum-forge-1.20.1-20.1.9.jar"
+hash-format = "sha512"
+hash = "51584215404287c99b8fee217a48285d9d2f07f834a4937f05edce02d3be3ee35c5908322581a6b6aac3d62ff2f1ed7cc75e404086602ca89dcbf26f8ae56b1a"
+
+[update]
+[update.modrinth]
+mod-id = "mwfOGtr1"
+version = "YbdG5tw8"
