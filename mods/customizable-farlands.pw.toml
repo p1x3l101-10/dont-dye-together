@@ -1,0 +1,13 @@
+name = "Customizable Farlands"
+filename = "farlands-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7JLj0L0Y/versions/hxoA5Orl/farlands-1.0.0.jar"
+hash-format = "sha512"
+hash = "0823734751ba4111fa7d3ba8e0fbe9e0628ebde5ee3e30006f83cbbf2cf132c677d7b76eb90f562b1a5728b4861338ba784a6d9bc0cb6371bce1904fda3c4b4c"
+
+[update]
+[update.modrinth]
+mod-id = "7JLj0L0Y"
+version = "hxoA5Orl"
