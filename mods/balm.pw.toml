@@ -3,11 +3,11 @@ filename = "balm-forge-1.20.1-7.3.30-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/KQwDHwmX/balm-forge-1.20.1-7.3.30-all.jar"
-hash-format = "sha512"
-hash = "65ab1c1dae85570ae31ca00bac6f29cae3a7a3cd660b744fb9172dda55c4f3a35e0d2b2a8bf8f6651e204a15056a7940c12cd660564403d07d00599d509c5d00"
+hash-format = "sha256"
+hash = "a67d18e5d8aac9f293e608353cb9789f454f5ce4d7e7f552bd8ec18ba8bb4d65"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "MBAkmtvl"
-version = "KQwDHwmX"
+[update.curseforge]
+file-id = 6552744
+project-id = 531761
