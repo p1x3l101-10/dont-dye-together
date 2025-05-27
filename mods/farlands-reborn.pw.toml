@@ -1,0 +1,13 @@
+name = "Farlands Reborn"
+filename = "farlandsreborn-1.0.0-1.20.x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y2YGBPDD/versions/v9uAiuYi/farlandsreborn-1.0.0-1.20.x.jar"
+hash-format = "sha512"
+hash = "88b667385a7d7c24f0af74cc196b494474d5f2c863ac5a73f9b6088da60862ab4fdbee5917cbd19a3d47a34340f6e2aa0fa14bf5d9bd4b78008a24cbdea85154"
+
+[update]
+[update.modrinth]
+mod-id = "Y2YGBPDD"
+version = "v9uAiuYi"

@@ -1784,6 +1784,11 @@ hash = "4c45739548b38570fb490eaeae37c1c6ef90ba657c18138554a0230ac7f9c455"
 metafile = true
 
 [[files]]
+file = "mods/farlands-reborn.pw.toml"
+hash = "64fbd12294c40336ebf2976609c0ff5aafa8b825ef1dd582f1bef63ba0bbc28f"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
 metafile = true
