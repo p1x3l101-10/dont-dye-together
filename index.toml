@@ -2094,6 +2094,11 @@ hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
+file = "mods/scannable.pw.toml"
+hash = "2b558db23b1ffc61a99361d953d2ca178da67ef7ca3da16ceaf6a113c19ed8ac"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "afe530f500b2a09b034b65c94e71aa3efd36e03951dc4201b51411acdc4e22f2"
 metafile = true
@@ -2141,6 +2146,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "0ebc212bb83219ecd2b24d3943ab84a905c5f0963b04755fcf816d3b7744dc6b"
 metafile = true
 
 [[files]]
