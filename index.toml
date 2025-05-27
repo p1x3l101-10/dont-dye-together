@@ -1599,6 +1599,11 @@ hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "7b0520d720e6e432f7c824a1221eaf68e9902134649c3a49d494500eab270f27"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "4c7efc1bdf4a1f03eb138d85655f3921e32dd4396849b54270b0142780856c82"
 metafile = true
