@@ -1,0 +1,13 @@
+name = "HexMapping"
+filename = "hexmapping-forge-1.20.1-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/be6NQmwM/versions/qaQy5oc1/hexmapping-forge-1.20.1-0.0.3.jar"
+hash-format = "sha512"
+hash = "0ffcb004a56fe8f785d88a0cb87689f833188b1074bd1b96f4d2ea31f60ece1f81c59d77188ee29848962ecbb8f62ba2d3bb73683256dd1976fa7155e9a8fa46"
+
+[update]
+[update.modrinth]
+mod-id = "be6NQmwM"
+version = "qaQy5oc1"

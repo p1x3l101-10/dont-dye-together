@@ -1869,8 +1869,28 @@ hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
+file = "mods/hex.pw.toml"
+hash = "ecac72f5159284534bb2550cbebfe35edef88a8d97cb06064a48d9c951bfedfa"
+metafile = true
+
+[[files]]
+file = "mods/hexflow.pw.toml"
+hash = "0fd08478b9ff27c24008c36c5df9995a6d12c9343c9c8e3060de9b7351509a48"
+metafile = true
+
+[[files]]
+file = "mods/hexmapping.pw.toml"
+hash = "1f80e2536b9421be7eb119df7825d481e2763189af64f6cc025a2a8282f2c385"
+metafile = true
+
+[[files]]
 file = "mods/hexparse.pw.toml"
 hash = "0dcc6ca04d4d908daed7d78c502074ab368439b227800b646c6c694b59c905fb"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
 metafile = true
 
 [[files]]

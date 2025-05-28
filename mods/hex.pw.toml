@@ -1,0 +1,13 @@
+name = "Hex"
+filename = "Hex-1.20.1-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m8OO8MzU/versions/NNfmAzar/Hex-1.20.1-0.1.4.jar"
+hash-format = "sha512"
+hash = "24544c228fd5c3cfeef1a3b64f475b5876f71b5f675b30455c543e96c2597b2819924333a5e094041177d8c96e62a5f96718542764ccefb479ec89d5a716dc09"
+
+[update]
+[update.modrinth]
+mod-id = "m8OO8MzU"
+version = "NNfmAzar"
