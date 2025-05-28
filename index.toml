@@ -1894,11 +1894,6 @@ hash = "3b621f7fccbead88d76c7ef652323e985755409c7b8928e39716895eeb87216a"
 metafile = true
 
 [[files]]
-file = "mods/geckojs.pw.toml"
-hash = "6f751d4e024f2d7be7ad2d980777744dcd477fcd6a26ddd60d7e6276d0af5736"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true

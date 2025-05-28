@@ -1,0 +1,13 @@
+name = "CapeJS"
+filename = "CapeJS-1.0.0-1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BfY01IQg/versions/MVU7hNMg/CapeJS-1.0.0-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "1048dd97ec81461c09c9683d5aa5e5cb84b2f92c848e31ac3c3245bcf43021c3a81fa42343dd7ffb4d5d6d24616d73ae8c4351b8ef0886ebd666059486c830e6"
+
+[update]
+[update.modrinth]
+mod-id = "BfY01IQg"
+version = "MVU7hNMg"
