@@ -1524,6 +1524,11 @@ hash = "d26c8c4333e02d0502063fe87beb668f0b6677b3510361aee77d410a19a799ff"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
