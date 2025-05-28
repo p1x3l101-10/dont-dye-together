@@ -1604,6 +1604,11 @@ hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
 metafile = true
 
 [[files]]
+file = "mods/create-immersive-tacz-integration.pw.toml"
+hash = "9db1d07d933d009dd6b53c1558e6859cbaf9fe1032203d5ed5cade028110c045"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "7b0520d720e6e432f7c824a1221eaf68e9902134649c3a49d494500eab270f27"
 metafile = true
@@ -2209,6 +2214,11 @@ hash = "7841b29ae067b60912700a63aa8756f9e898db11eec1e955f0785dfdf59fa9ce"
 metafile = true
 
 [[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "9f929b5bf57a5983fca9def659ef87ef7cca7e8a2f3727c4d3139dc1ed9cbf90"
+metafile = true
+
+[[files]]
 file = "mods/tis-advanced.pw.toml"
 hash = "44b4f8bf0a8c39fdfa56a03ab8facbbca41bcbfbf5ac96243d1f947d019d3564"
 metafile = true
@@ -2352,6 +2362,1142 @@ metafile = true
 file = "resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "fbb4644fe0733d7c9662931679559ad5bd6b09c616fec2e46c6aeb328cb053f9"
 metafile = true
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/mg_platemag_flywheel.animation.json"
+hash = "5dcbcffe0ce93e4383631c25af7d3845bcf132ce93112cd4e2ef4c1e0e9f40f1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/pistol_auto_stress.animation.json"
+hash = "ed8ecd62bfa155fecb41e81c8a37a69ec131b6414d19fe5678dff22df7149f9f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/pistol_revolver_torque.animation.json"
+hash = "eb369da439c7341ecc3d91a85dbae5102bfef1bb872563adac418334f139c664"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/rifle_assult_crane.animation.json"
+hash = "ebc58641a971ba4ee2e1673735e7a973f779745da0f1f674ce3fe7b6e81a25da"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/shotgun_db_stone.animation.json"
+hash = "2050e89ee3629e41a7a959644e5d1fea13fd8a6398b5844bc7c9d09967167870"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/shotgun_pump_bearing.animation.json"
+hash = "d947256533a7ddd0edf309af7b9fc7934aa45d690cd5f12dc128c863c187fb92"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/smg_auto_crank.animation.json"
+hash = "0af0844fbfc96830cbd2158bbfdb41a28ef76135c9c2a774c734d12c33cdd3de"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/sniper_semi_clockwork.animation.json"
+hash = "24f1618bed989d02fa6d699b4cdc73dd2e2550cb9ae1e138c55f32844b1ed96d"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/special_melee_atomic.animation.json"
+hash = "b8698c2791b5552b7179c7839b9f03f4c33b885b6260a36edcc2616405593f08"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/animations/special_melee_wrench.animation.json"
+hash = "05b5da66416fb2c5058d7c8340ade64e2f74e584dde09d08ec4912c51083fab3"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/ammo/gas_pistol_ammo_display.json"
+hash = "f10dbc68db090ea5388e208f28005f924979cd9ae611f7f3006534ff07eebec8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/ammo/melee_weapon_display.json"
+hash = "0d6cc146be7efca7e28c72e8d0b72c1d9f3aca8e6fd8ecdb7bdb8d19cfdef3c2"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/ammo/rbapb_display.json"
+hash = "fc5887e7168f7f47eda1739f61805815365cdbde7f4ffd55f173b1936d84e964"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/ammo/slap_display.json"
+hash = "ba618326570ae9992e820b46f0c8794811862fbe9bd76c0e2238cf400db1f61e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/extended_mag_ca_1_display.json"
+hash = "a7eae1dada14c9998d1fa8a8bc3942025d4cf0444c71fb327a644304d13e44ed"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/extended_mag_ca_2_display.json"
+hash = "dae0de2fbe19b2b5d97c8c55110ff3920a6af2c9450b22d08775bba65b711cbf"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/extended_mag_ca_3_display.json"
+hash = "b9a5b0f82e7c1309cd363ed41586359a732866254ffe957416007862a76a5b0d"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/grip_gantry_shaft_display.json"
+hash = "635882e7b3c7c10322c007564e51eb386eac110eaa8c1ef1d19aefa8403ed3ab"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/grip_pipe_display.json"
+hash = "f0e9d7310d086750b8ac1e99565c715d02bfbcea748a4bb41b03277b91e48431"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/grip_wooden_display.json"
+hash = "393ff9a3c7821fb497eba1937be438e1a136f234625c27fd07441c78da85fed8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/muzzle_pipe_display.json"
+hash = "d1778e46565189d60d860f7073f2bf52d2365b3770f3710594790b24789e5396"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/muzzle_refit_bigger_cylinder_display.json"
+hash = "4c34c187640752c3c4959f19b906dbdab8529464f285029db3df1bd6b0efb7d5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/muzzle_refit_brass_retractor_display.json"
+hash = "ea92bc9da8afd9224212e7acd13e79519280e9ab17be2a26872dfb229c4fff18"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/muzzle_refit_energy_blade_display.json"
+hash = "a86d2c194aba783b28af9ffb461dc284126696e9085851a04bc46fa3546a7e0c"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/muzzle_refit_iron_spike_display.json"
+hash = "d413cab5aa58dde299d4b57c90d0154b196a493f8bf9d30ffb2f7daf3c871055"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/muzzle_refit_lava_perfusion_bottle_display.json"
+hash = "8623ee10ab9d0b3950bae650fb9e81e1d5c1f98a96dd50bb9c47f6ee350644d1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/scope_pipe_display.json"
+hash = "224749eee2afd14a973c4f27e6a14b480860f0b81fa9835a2c1fb1439d03ef07"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/scope_telephoto_display.json"
+hash = "8341ddd80725bbbe8a83b9662c90ebc9d19f1c66d305876f18ddba0be8372381"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/sight_medium_distance_display.json"
+hash = "f2fa0547296d495acc1575c1f148ece2b66a5cafe525adb30702300ca958d35f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/sight_reflex_display.json"
+hash = "d4a9f618c6c556f6d07074fce488fb8b2eb8d70fc4205c29bdd9040a67eea4cb"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/attachments/sight_standard_display.json"
+hash = "a3904b3d004dfc6b342b101216e4b1d51ec1f0f36c898c1f19fd6800c9abfe9b"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/mg_platemag_flywheel_display.json"
+hash = "a18ede3ef8e2f4c21fa40ca2c931b38398abd0d287494406bc0c54280b8a9a46"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/pistol_auto_stress_display.json"
+hash = "cbdbede554d8708d669d3b3ea2f435afc68b84ac2dbf0fa02f0b9abc91067b1c"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/pistol_revolver_torque_display.json"
+hash = "bcfbd7c8b80ec1dcfd285b79bf318cf404529b943ce12610e91c678b4e99236a"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/rifle_assult_crane_display.json"
+hash = "b099f38d4c21d0867bc3b4ef2182f3213cf1789150ddd72d13b8790214a77ece"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/shotgun_db_stone_display.json"
+hash = "d89998ef8eed3a09cfe5c15dcdce87f37406ef0b2cb712c7350fc0e7989304cf"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/shotgun_pump_bearing_display.json"
+hash = "faa9d76dc055fd2130d85768d45193d6f5026b7924a8ec75c979fe96812b7b3e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/smg_auto_crank_display.json"
+hash = "98ee9ffdda17945e2ec9ef5f298240c56c9735fc48b4b09e8fcdb9363708dd0c"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/sniper_semi_clockwork_display.json"
+hash = "c4c2411dccc7fbb370bcd0e4ca68288d414cfc5b041a36de868349a16fabd3b4"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/special_melee_atomic_display.json"
+hash = "54d7535b48abd1bf3b83a51c537e38aa9ef6d86fd4d8df3b9a0626f8fcf4634c"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/display/guns/special_melee_wrench_display.json"
+hash = "937d3c3a3ab5d4eee5f3a292932f7617fe3cc0ee06573d59dc8687dc984fb6e6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/grip_gantry_shaft.json"
+hash = "0ac9ba8a72d61cfbe0316b280702dddc3030db3da471f9367bc9bb513ff76976"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/grip_pipe.json"
+hash = "c8c48438cab78e19bf42e34139636501e31a2895997c08e66de8ad97b41a084e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/grip_wooden.json"
+hash = "9fe9d089d2fe0e6a2004a625a6384205346cac83a4a74d8fec999cf90b96e1cf"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/muzzle_pipe.json"
+hash = "97645dfc92a747b78bcff5305cc62de117521f9a25e6796c74a7468c3bb2bab8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/muzzle_refit_bigger_cylinder.json"
+hash = "7296e962f3fa0b798611bc832e5ac3164c12987ebc19b0b743241b7618e260a9"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/muzzle_refit_brass_retractor.json"
+hash = "4c50a8b5fd1a3e25603f1656bafef9c4b16fb6f4cc782146d3f6f012fc243772"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/muzzle_refit_energy_blade.json"
+hash = "17d95b305b98fc9a87fd3ef0fa7b3ffb581ab17263ac3d82fb7b248724707910"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/muzzle_refit_iron_spike.json"
+hash = "b1d80e1dc2284dc029b6aab75dd9aea9b5c5b2da8a886a76a0b220f66feb499b"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/muzzle_refit_lava_perfusion_bottle.json"
+hash = "89f6d1e435efcc42a6a867e4d3d877710e20845f69ee2f825f3d5bfaf9c996e5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/scope_pipe.json"
+hash = "8e8b55d4a363cf66390ac846fd81f7320db98a74351437f30864594cfd6f8e41"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/scope_telephoto.json"
+hash = "44f7252efe6f4891e5073eabfb462de1d8f50ca718299ba6694ba1c43e660b96"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/sight_medium_distance.json"
+hash = "90131b4f80c7c6ed3b991ca8fbf439ce81a33523cf291c1cd112e22af4f145ea"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/sight_reflex.json"
+hash = "7e3528e3de4705bd4c8e79be8078236dcfef9b8ca3f5fe8ea2bb2b86120dba79"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/attachment/sight_standard.json"
+hash = "0a75d1a2b0230f8c48193a21498b055e1ccd7f302d974752b7e00e91b18f6644"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/lod/pistol_revolver_torque_lod.json"
+hash = "85a996b931f39a531dc51cf7a1955de28e9c6a69ed4da706aee062f44f4bd18a"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/lod/shotgun_pump_bearing_lod.json"
+hash = "a911aba9be2e68c76540eeee450a239b7e2b5f7fd48d2c448f1fbe2209434d54"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/lod/smg_auto_crank_lod.json"
+hash = "38bd58465a0ae4bd20b475551266b34739e62e0ad47c7a6c9f4c328ed5953391"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/mg_platemag_flywheel_geo.json"
+hash = "727cb675b05343717b85f9cf22dc5d16737ddd1498c2d866b37ca50f4f879a49"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/pistol_auto_stress_geo.json"
+hash = "7c917d7140797171a34c9358c1ba96ec2eeb01d015d1d940192958109c25cada"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/pistol_revolver_torque_geo.json"
+hash = "cfbd46ae66aac31f860ba550d94c407a45ea633e69f17f1401538923f48614c8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/rifle_assult_crane_geo.json"
+hash = "fcc4fcebb5e5cdcd85fa2084616d5b940615b2e24fa38e277203fe58ae2468e8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/shotgun_db_stone_geo.json"
+hash = "f1dbf4534df5223b27d1318efea3a33157ab741f7bdda07c3118f7e908ce303d"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/shotgun_pump_bearing_geo.json"
+hash = "2e2d7f57c618e7723f0dda90156b4d7f1f77a693b5a7fe1ae83b457f3ace5347"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/smg_auto_crank_geo.json"
+hash = "43bc0dfdf93e73cb57aa5e0a502e6496546ec8f75c3e97161b7ccf4b3b8d16b0"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/sniper_semi_clockwork_geo.json"
+hash = "10163053fa730244a968ddbac007ee872fc700c59ed830f157159ff6503de2f3"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/special_melee_atomic_geo.json"
+hash = "52f8a852c999a8da11ae6432f9a277a36b82b42ae70d535be593396eba23abc2"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/gun/special_melee_wrench_geo.json"
+hash = "8d1c254ae61a15d4c8806be8d48a0b23f1d7fbc9c58487273a762c3177aac1d6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/geo_models/shell/slap_shell.json"
+hash = "27ebe40c0f476cea51161ecc3a14c3937e36cb13407ea4fbbb8f9bd55ee37efe"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/gunpack_info.json"
+hash = "2e021debd4bb2fd3f90dbcbf0d26d4210d26d37b096492146e3d1e8fc351aae5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/lang/en_us.json"
+hash = "03fb1fc15d05c758bc80626f72d9b46998386afa24a6e5a250f77c68d5a105fb"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/lang/zh_cn.json"
+hash = "d47d2ecf61e64e6b61b075c0f1775c1850037a11260c7d5027dcf8f55f155971"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/mg_platemag_flywheel/mg_platemag_flywheel_draw.ogg"
+hash = "ecef33a67e03401317c29044f6d6a074cf3910c0c79c63ed1ae082f2fc2ce299"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/mg_platemag_flywheel/mg_platemag_flywheel_inspect.ogg"
+hash = "ad0202615ea5394c4d580d4209cc43e77f0c352fd1707942a0c7f9d245d4a9a7"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/mg_platemag_flywheel/mg_platemag_flywheel_put_away.ogg"
+hash = "bf18e1f5d5ccde83c2ef86852c04473ed6d9e3d452f8a79845465b5d0f7e2a2a"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/mg_platemag_flywheel/mg_platemag_flywheel_reload.ogg"
+hash = "f52e35204736ebff18a1a6236d7ae10a44b54691d9e0e87f7535ef9a0e267b5e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/mg_platemag_flywheel/mg_platemag_flywheel_shoot.ogg"
+hash = "4e2dc086540495a73068191f517c7a601ad2bfbc7727e43bc0dc61929f3c59d1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/mg_platemag_flywheel/mg_platemag_flywheel_silence.ogg"
+hash = "7ab56a46b5b619e28c21a174145e1859cb9b63bb707a691d65347f45ae15dc66"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/mg_platemag_flywheel/steam_piston.ogg"
+hash = "d86e3ff64181f2ae31b3c81376392443861d9a7f1e680b9fee3239c04e4bb7bf"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/misc/attachment_install_bayonet.ogg"
+hash = "bc9c38b13bb460b4f2400b828db678247fd6cb4b778124a7324086d94d5bc58f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/misc/attachment_install_big.ogg"
+hash = "26b6521a3f205ca4174c4f80d3c74b38dbc519aaddc2d218c3ccf5faae1c1ed7"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/misc/attachment_install_small.ogg"
+hash = "5c14532464d449f1763c4618a6a6dfa7f66f3b1f1bd8c4d4cbbe560ac6dabffc"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/misc/attachment_uninstall.ogg"
+hash = "aae5fa0cd31277a9d2eb3eedc091da748e1d4add06317b1a1968cb2fbf5f8687"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/misc/attachment_uninstall_bayonet.ogg"
+hash = "0ceaa44546ae3de404a4c09b451373148e3870b4bf5a9d563458e3cc22c18680"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/misc/bayonet_attack1.ogg"
+hash = "b7b404829f2ae59f73c771caa184ac7ca9f975cb65fd5e6f47dd31df33dd78a5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/misc/bayonet_attack2.ogg"
+hash = "a641240ee511f0334fb879eb83f8929bb309b63d1d1ced4ebd3e31aac06318a6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/misc/dry_fire.ogg"
+hash = "1fd3c80fea9193df7d321beb1e09d039190fe4caed1f7aedbf785fd612bcfee8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_auto_stress/pistol_auto_stress_draw.ogg"
+hash = "2437654e82c8451f9137475510ab4edf0f81ad4d1c6ba9fa1df2ad6839e88033"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_auto_stress/pistol_auto_stress_put_away.ogg"
+hash = "51debf2f31ffdc73b10c143cd9634c956e7484afef805700a0a59c2801a5970f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_auto_stress/pistol_auto_stress_shoot.ogg"
+hash = "dab9aa4cfdbbc61a589ef0567be0b8780452de3a3c8c0354b5e9770dda14d89d"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_auto_stress/pistol_auto_stress_silence.ogg"
+hash = "dab9aa4cfdbbc61a589ef0567be0b8780452de3a3c8c0354b5e9770dda14d89d"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_revolver_torque/pistol_revolver_torque_draw.ogg"
+hash = "3d60b4ff0f32de24d5f1733ee6430e427376146294c0d502228e1f54aa66a427"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_revolver_torque/pistol_revolver_torque_inspect.ogg"
+hash = "1c4a8999b9b5fc1bc9fa99062a0dd5638efd446ec21ffe07ac5ec07a323f9245"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_revolver_torque/pistol_revolver_torque_reload.ogg"
+hash = "2c54759686c425e67fb0fe19381800c6fa7231536c544c10500ed84116cfbda4"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_revolver_torque/pistol_revolver_torque_shoot.ogg"
+hash = "4f2ebcd436c1f5a1230eff009de3a4ccd433c81ae113d9e7500b55ab8a1337bc"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/pistol_revolver_torque/pistol_revolver_torque_silence.ogg"
+hash = "4f2ebcd436c1f5a1230eff009de3a4ccd433c81ae113d9e7500b55ab8a1337bc"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/rifle_assult_crane/rifle_assult_crane_draw.ogg"
+hash = "7b6dc2ddbfc7d7c85cfbf7f255512b295dac859e4c45c28ef3781aebe170cf48"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/rifle_assult_crane/rifle_assult_crane_inspect.ogg"
+hash = "8c46f20b36c24dc255369bfd0a3590f3ca0f0cc2b70f1f44d858420bbddbd165"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/rifle_assult_crane/rifle_assult_crane_put_away.ogg"
+hash = "504ae08470a3629ac6aa3f4d363dbf645f19f21e99ac808decbec322f56e290a"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/rifle_assult_crane/rifle_assult_crane_reload.ogg"
+hash = "86e7c99bdbc0c494d23164859468109fb3ad14eba0bc7fdd7e17f1b1ea15c963"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/rifle_assult_crane/rifle_assult_crane_shoot.ogg"
+hash = "9e91aef22e8b7c55aaf3571c7f4ec5f416699c5c083ae26a2296323adeae046c"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/rifle_assult_crane/rifle_assult_crane_silence.ogg"
+hash = "0912739e8637361844dcd61eea1a729dae2518632f461ea555fb24f882ae992c"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_db_stone/shotgun_db_stone_draw.ogg"
+hash = "11411f19ca68e44f9c04b8250ee69eedddcc14b1412bd1540d93d6314d856555"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_db_stone/shotgun_db_stone_inspect.ogg"
+hash = "1314c4ce379655b7de27f69c7c4de0086f52645eb2a0fabc8d47642ab36aec31"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_db_stone/shotgun_db_stone_inspect_empty.ogg"
+hash = "17bc9339d694b7fe25aca784d5801cc541f66210bdfd66a98536f9fa9565b909"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_db_stone/shotgun_db_stone_put_away.ogg"
+hash = "f45caf993de463f408a5243da2b2315e5deeecec73bf8c5eb303f49752b6bcf2"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_db_stone/shotgun_db_stone_reload_empty.ogg"
+hash = "de56888691715acdad150477a89165d32d33db084b6d319c9f1ee0ec50722b44"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_db_stone/shotgun_db_stone_reload_tactical.ogg"
+hash = "b0c82678790273eddac72fe3b6d074c0d0d156b19299cdd2638d670c8e068449"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_db_stone/shotgun_db_stone_shoot.ogg"
+hash = "5f2da5f15b38b122759bd0a26dd09419edaf241138a98d4d241c8e900508112b"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_bolt.ogg"
+hash = "de6f22fe9762edb79bc269667e282f9631ebe8af82c47a7a2116cd26baef6170"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_draw.ogg"
+hash = "6ef85ea09cff12c6417d3ab9c77adeb918476daefaa830e7bcef0c0e923bba86"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_inspect.ogg"
+hash = "42995ef3a3c6356a31eb1fcdb29a6f7a718bfe48067839fcfc8dcdf848253fa6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_inspect_empty.ogg"
+hash = "815a48c82235c8ca03159e36ecc6f15e82786074532ac68d1decf8a5a7196449"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_melee.ogg"
+hash = "5a63d816e567f41b2ef8a9113368ed2ee525c99cb993053b58b6d5759136e9b1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_put_away.ogg"
+hash = "a4ce23554a67153dd9cf0e016d1ea4f3253ab30b36b0e08283dc2d0af287c7d8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_reload_empty.ogg"
+hash = "fd8a9b93412559ce24566019c209e5aa0b809d859bc3f2afb29ede83562d41ff"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_reload_tactical.ogg"
+hash = "336b6c07cf69090f206cd21a941242a9696290bcbbd366d8aa3353d82414602a"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/shotgun_pump_bearing/shotgun_pump_bearing_shoot.ogg"
+hash = "fc929504aace90102f43fe2e10c43c45edec476d508c8a2f9cd7af6c0773d9bc"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/smg_auto_crank/smg_auto_crank_draw.ogg"
+hash = "37db737e074414519001bf4aac4bc06e2429596d2f9f14ed1731b6ce0daba05f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/smg_auto_crank/smg_auto_crank_inspect.ogg"
+hash = "2dc02f9a4221bbb87eafbec5adc1c745d5cc05cd2841353d18b65bc0a52f4878"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/smg_auto_crank/smg_auto_crank_put_away.ogg"
+hash = "865748bfec4e3a57826f55a05917a66b4303113e54e957502d05690732d22b59"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/smg_auto_crank/smg_auto_crank_reload.ogg"
+hash = "50b01e519d3af6a92d5b578a927feea77121108a2404afcf26bac934651c3b29"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/smg_auto_crank/smg_auto_crank_shoot.ogg"
+hash = "00db38be316c90c2087f9377d3d2db614c87d08727d93d560fb824ea49207560"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/smg_auto_crank/smg_auto_crank_silence.ogg"
+hash = "2cdbc1adc195614ed278e3683ed5ee05c80f95998949cf7e53cbedb799d54408"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/sniper_semi_clockwork/sniper_semi_clockwork_draw.ogg"
+hash = "1a2d854a5177000d5549a8cf058adaade39dfb714d552ef248bc8417e3923fc7"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/sniper_semi_clockwork/sniper_semi_clockwork_inspect.ogg"
+hash = "f432d8e8143ce53dca9066a224b6a53824b13ea01ec4ff85cb91337a6d8ab939"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/sniper_semi_clockwork/sniper_semi_clockwork_put_away.ogg"
+hash = "6af84c4b9d313d0ce80c2229dd2aa78d37e85656777f831ef747554413c2d886"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/sniper_semi_clockwork/sniper_semi_clockwork_reload.ogg"
+hash = "9f7c356315cfa3b9fb3e0150fcfc91045eb81a9889a32d326d1e0e99736fd9de"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/sniper_semi_clockwork/sniper_semi_clockwork_shoot.ogg"
+hash = "5a6e4b6deb0cfaf1de9b8c95c61f67bb20bfa64a0ec88fd544b527d365ab6335"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/sniper_semi_clockwork/sniper_semi_clockwork_silence.ogg"
+hash = "5dca160aa078cea68fc5449a8bb3b204294e8d85d00b2e55e5863efe27e7fdb2"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/special_melee_atomic/special_melee_atomic_draw.ogg"
+hash = "be8c9b11a6de24d8f35f56916c9c34d63c76d0242388239b6ec30ca440a03c18"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/special_melee_atomic/special_melee_atomic_inspect.ogg"
+hash = "014e54021310692f586b8f6902f3d666b323e1de5bcd9f62e2231304b90d5f99"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/special_melee_wrench/special_melee_wrench_draw.ogg"
+hash = "be8c9b11a6de24d8f35f56916c9c34d63c76d0242388239b6ec30ca440a03c18"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/tacz_sounds/special_melee_wrench/special_melee_wrench_inspect.ogg"
+hash = "014e54021310692f586b8f6902f3d666b323e1de5bcd9f62e2231304b90d5f99"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/ammo/slot/gas_pistol_ammo.png"
+hash = "5df0a34817328e7f76c21882ee95da7fc275441ff210c0a73b736a7e06a306ad"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/ammo/slot/melee_weapon.png"
+hash = "4434d41873f84cbf03d7626a3f4bb51523b4a347186c94b4415d3e366d33a1c1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/ammo/slot/rbapb.png"
+hash = "a59ce7fb6289aa778ff8564fd1054965c609170054d7f82c7c948ba16865486d"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/ammo/slot/slap.png"
+hash = "7043d24041e31ea7f7063d457e12aa5386a7d10831442cd7dd6410755f61cf68"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/a_pattern.png"
+hash = "521ffb87e7dadfa59bc4cbaf9d78f121401986270f58f65b2c50770ef0e1a82e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/extended_mag_ca_1.png"
+hash = "53e05313b3eb43026750e9e89178ffd8796e6df023b607b2915b1f4621687599"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/extended_mag_ca_2.png"
+hash = "dcdbdc720ab4c2785c565c6d0798bd83f1ecd26d623878c42c801322ca2de6f2"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/extended_mag_ca_3.png"
+hash = "c04a43f61bceedf0db836f2b736289f01eb8a8164bae547b3c031f1563e54409"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/grip_gantry_shaft.png"
+hash = "9c63b009ddaa37db009bb75019df64c9742e6684d6b10abec71e64acf3df86f1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/grip_pipe.png"
+hash = "9f167c5bc90850a7ea0284d94ffee751ed6649f6191c790c83975a415030187d"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/grip_wooden.png"
+hash = "be48a950f566a95951aee6a6be8c67b62a573b14f1d068cc7b885ef8025c3b26"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/muzzle_pipe.png"
+hash = "de439a0fe07c6bab637841dfc9a477d9270c22878baf0308da61c9012d6c90c5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/muzzle_refit_bigger_cylinder.png"
+hash = "0c9f96297af66f7f44ece4f7ff4efa3a67d279c403acf7f92e7b125f91d90ca8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/muzzle_refit_brass_retractor.png"
+hash = "6641b85004c68dd1bcbeea5c1aa5fb565c394ad3eba6d2e2389b514e21a8ad1e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/muzzle_refit_energy_blade.png"
+hash = "21c7d2872d962639b06ab7e6406381f4083457e52058166273612abef3a3f59c"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/muzzle_refit_iron_spike.png"
+hash = "9076a9255e665f89678982af316e581a5bd5bb6e3e597b8fb8c1361132c454a9"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/muzzle_refit_lava_perfusion_bottle.png"
+hash = "e83842701ac58c06d78b0b19268306f9713c08f6567be933afc51e36f1ea4767"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/scope_pipe.png"
+hash = "5b09e5c3d6317ccc4b7d2a62b3724352302eef4e257d43e8e3f50a5f461ae411"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/scope_telephoto.png"
+hash = "1070848e24167e445d85154384d07a59ba520b56aa6009c55ccbf59e88a6c875"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/sight_medium_distance.png"
+hash = "b67976bad2507cd35c8872c5673c3a025090d2dce5712ebcd5e306816d3177ef"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/sight_reflex.png"
+hash = "aa5ee88ada2aceb7262a5278a8b76a168acac1e23288132c51413e465651d694"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/sight_standard.png"
+hash = "be70397c3935b2cd4f52935d80d400fb47586e01e768226b6df062fe1d0b4dc3"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/template_1.png"
+hash = "c9cc985b62bdd34f49803ca45bd9d12882cadddb43143b049caea7a7bfef7bc5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/template_2.png"
+hash = "af93642171a32eaba330783ca87e85aa2e614ddc26b5b6446c9e91cb985978e6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/slot/template_3.png"
+hash = "0527ef403777036b9b8bbba15f260b9c0e0a2bbe1577b580448d5e0bf67a5311"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/grip_gantry_shaft.png"
+hash = "63bced7defc5e17e99f8f541ee5fbd4d5c45e7a561a664e800d3972848305405"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/grip_pipe.png"
+hash = "f039412d54f943c0ca4d856631def193380c59c3070c75ff06cd4b96ecd42b00"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/grip_wooden.png"
+hash = "fbd9da86883c228f0d3496c2ed6c68fa5b6de781a2e9648f68b75fbe04922c8e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/muzzle_pipe.png"
+hash = "f039412d54f943c0ca4d856631def193380c59c3070c75ff06cd4b96ecd42b00"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/muzzle_refit_bigger_cylinder.png"
+hash = "cf5a68d4a57876847e330f2e429cd3bf9c7599c588e579de40540e4c7c61a8b5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/muzzle_refit_brass_retractor.png"
+hash = "cdb1f3f40dda107aef2a5a89ae165e1e36c551d2023321bbf3ae2c54f1cb674e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/muzzle_refit_energy_blade.png"
+hash = "9281695d91fd03d3c05fe52936e35576d861d043e2036a9ab36f3522eef4b81e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/muzzle_refit_iron_spike.png"
+hash = "7a3aa9c59ffd7147db2467b499860dc76c9a6813f3367060b205bd26cd12545a"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/muzzle_refit_lava_perfusion_bottle.png"
+hash = "c9a253afa49c00e6a3db1d6c2b533dda70a2138f315c206f92a36c1963d438c5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/scope_pipe.png"
+hash = "344b6183432df74fe983a2de9f17e9d7d1e17d1a3904a72d7e633917f4931f6e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/scope_telephoto.png"
+hash = "2333e3c34b5272be48e6cba28626c51167094b258ce8e304332139a95f5547e3"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/sight_medium_distance.png"
+hash = "1e419b380b3a69143b880b617331456dfff6883d8a81ad2675648cb160047c10"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/sight_reflex.png"
+hash = "08a5bc912e6d596ea932327490ebb2472702009aa534a413a53b0bb34f899eb8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/attachment/uv/sight_standard.png"
+hash = "b387832370bb2e2ac5aef4dd2f52963776b3621b2a5373568048c0e302c941c6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/mg_platemag_flywheel.png"
+hash = "86283134ee9bcece991f28af1df815907a8677c7b0e485dffb2b2360767fbd73"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/pistol_auto_stress.png"
+hash = "7e1ac8a9f7b29e3abcea3064d3bd174c8f2a81fc016b678315b314d06ec25824"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/pistol_revolver_torque.png"
+hash = "541710792517997a66339b06a7acb32c0c84e78d2939bf05072ec805bd2b9d1f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/rifle_assult_crane.png"
+hash = "68e99700a2c551d58e5d3fb73f6b34ae50815e8ec2e54828f6f155953be711a1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/shotgun_db_stone.png"
+hash = "3449743c96eda71face7d313a5b0da7687b65745052336aaf6028ac53c14a135"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/shotgun_pump_bearing.png"
+hash = "2d6b24ac634fbab865549a92ee620a64c4cd8aa2b0ed5b5c799683f7aa926072"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/smg_auto_crank.png"
+hash = "78f7e4ef81780adee7e57d83576aa25c8ed598e0be6bab0766e20b1f402e3174"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/sniper_semi_clockwork.png"
+hash = "1cbe8b7bdb1efd3575c7bbdf7b7603d9cd52a5edd0df33cc76bf6f39aa761b96"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/special_melee_atomic.png"
+hash = "220d7db066acaa92cf92becce49f4bc55058631ea33c2f0e5323dfd93f6489eb"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/hud/special_melee_wrench.png"
+hash = "2176fe0d5528d961404fc2683e232d31a2bd7d05b803c110a99ce53d24a5be88"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/lod/pistol_revolver_torque_lod.png"
+hash = "027822e99841da81be4f8368386c24b5d3ff36d43656d0672a7e586ea738fe71"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/lod/shotgun_pump_bearing_lod.png"
+hash = "057ffded6f23ffdca46a64545eae7bf36b992f71f256e43c91ce383390ac05e2"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/lod/smg_auto_crank_lod.png"
+hash = "a3e752a63fa8ff38834dd594944c0a069380d0a32757d5c97b47832601fa65b5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/a_pattern.png"
+hash = "521ffb87e7dadfa59bc4cbaf9d78f121401986270f58f65b2c50770ef0e1a82e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/mg_platemag_flywheel.png"
+hash = "3eb6d8ded5d7a887d2455048f7d8341fda0512ed123293bce50dac1a13e9d5c4"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/pistol_auto_stress.png"
+hash = "f3b491a91b1f4ff9b2f4edd51185c983b58de85393b463e1c695f6e62d9e2c68"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/pistol_revolver_torque.png"
+hash = "772326cd259f106485dee90c57b1d7c46a3c35f529a7fb89dc9f969657c3847a"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/rifle_assult_crane.png"
+hash = "954cf2c200c3767cb1d8e6d7632fa10d6e50173580000f2cd85019b050d9f2f8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/shotgun_db_stone.png"
+hash = "cc8670faab5ce187d011d719c2f0c50ac28ad76de3c9be0e69339994005aabee"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/shotgun_pump_bearing.png"
+hash = "220afea4dd83ce6676bd0e53543e8ce927b18026816c5f7e9fac1f423be0d189"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/smg_auto_crank.png"
+hash = "5d5bd9584684b50ab042bbb240b8817765fbc69ea6fcc7ebcdfcac2e13a5251b"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/sniper_semi_clockwork.png"
+hash = "076062456c7b55301689319c670ed77b4018f9ae95071a39adcafe14562d875f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/special_melee_atomic.png"
+hash = "a92f82403ca207aa0837af8af58c49926d9a634872ef9149ccc4332165047dd2"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/slot/special_melee_wrench.png"
+hash = "af21b69bebd83dfa605ba601914a34d25c39da9535c05eb82d3e9665d059a0ea"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/mg_platemag_flywheel.png"
+hash = "0e7179368af141a32d4fe622230e800ff1f699872b78838f09c7eb09f389e402"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/pistol_auto_stress.png"
+hash = "19f92172408c45c30d5abccb025e6660f49d4faec1e608f352c7beb18820eac1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/pistol_revolver_torque.png"
+hash = "ae97e37bd67d611381f0cbbce96ec213fd8adcce5b7d97280fdb3e9e8d2193fe"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/rifle_assult_crane.png"
+hash = "7e9bfdc859f9adf4d03657aabab1f22574bff8058cd610c0affcede7aa4b2dd9"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/shotgun_db_stone.png"
+hash = "8eb6c6a3b7034eddfa8e9943a9bdba8b76ee56915ad75fd9cb550d57023b92f7"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/shotgun_pump_bearing.png"
+hash = "468b39bf817a7a3cb2a3aff0bb70d5e07e964ca3d12cd2e5ad52d68d118121ea"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/smg_auto_crank.png"
+hash = "0afaa75f899b17991f27d45904bf2414081534ddc36f73dc779435e217c6f30e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/sniper_semi_clockwork.png"
+hash = "9a35f404e0dc64c58d9677c3d1bfd135a058b769d049d5e965cf78fcf7446c3b"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/special_melee_atomic.png"
+hash = "69f1547ddce6566b43048aeb31f475590787a380d761b863a11fac2020499fc4"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/gun/uv/special_melee_wrench.png"
+hash = "c3364e2b4a4136a65151a98b073b0ab2b9fbfb826df0127e1cdbe4243b38112e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/assets/create_armorer/textures/shell/slap_shell.png"
+hash = "30043d2e68c37eeb1b32fdafd5b6a33ddffad5c15af2b991c5fab6edb5063f7a"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/extended_mag_ca_1_data.json"
+hash = "d69b15f07900465038ac9a98c2c54d86478af13fbf087d6a5a94b9baa7ae8eb7"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/extended_mag_ca_2_data.json"
+hash = "0a33aa1270cb176ed0c25614c998b8f0c528e09c6faae1825977968a82881b77"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/extended_mag_ca_3_data.json"
+hash = "6e83231b12e55ba2d97188256761fadf97be0dae64c6e6f35564a698fb3beecd"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/grip_gantry_shaft_data.json"
+hash = "63d4936ab76086e80fed3ffe299680331e6ecfb533f6d84603459a379cf6a395"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/grip_pipe_data.json"
+hash = "ec83e5c71356d29a3d275918ffa2ba0097c7511bad585f85f9aa0ab3ea308ed1"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/grip_wooden_data.json"
+hash = "c5acc63162895eee59603f891fa122bd3eec59c1c7e0a5047001e45756c1e864"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/muzzle_pipe_data.json"
+hash = "643d16e7d96c48613c43643b0a95cae4583e2667a2e59c163f4a9989982f4999"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/muzzle_refit_bigger_cylinder_data.json"
+hash = "dc97c132e5aad39f3a9b3af9ea6edf0ce17d8aa7cbcf1f17d90a737f09822136"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/muzzle_refit_brass_retractor_data.json"
+hash = "4a6d7972518385562f5af3faa0f820fb0e2058e95d38a3f7035aa637a5cdc698"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/muzzle_refit_energy_blade_data.json"
+hash = "29c9fea2a35d79c4deb2476bb6d14881b59df30c848d4980fb6483f9352432a6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/muzzle_refit_iron_spike_data.json"
+hash = "29c9fea2a35d79c4deb2476bb6d14881b59df30c848d4980fb6483f9352432a6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/muzzle_refit_lava_perfusion_bottle_data.json"
+hash = "1e30f29accc9ec1e4442f2e3957a7804c2c02b912804f19e51bb4afd6494c402"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/scope_pipe_data.json"
+hash = "abd723da4a3e19a9a52e0bc4c5e167dffe71dd16fc48e6836ae42840e1ea79ae"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/scope_telephoto_data.json"
+hash = "34b97257f690b84b1c85a180cce69f6cb608b54d3d12b449125c3d5fd158ead6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/sight_medium_distance_data.json"
+hash = "30132cffd0836c423a529d17c62c617e8b828252a5e9cfcdc45d26c67a5fae0f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/sight_reflex_data.json"
+hash = "28bdf470b583841c0a557162975299426414e930d88730dd5d601eaba67efde0"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/attachments/sight_standard_data.json"
+hash = "edcd2fd135bbc6e628d523862a9a00c74ccdd8d67ff8115a2b4b99fc6648e4a9"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/mg_platemag_flywheel_data.json"
+hash = "6adef4bfa0ffad738ee2c64ea785fb4efa14aeb4d888fa252616806be12f3fae"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/pistol_auto_stress_data.json"
+hash = "12b24f3782c3ba139f873b0b853744bb91bb2d1f69e1699cb1a53971a9e5711d"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/pistol_revolver_torque_data.json"
+hash = "b2a0aa553d3d33d73eedb1e80a655a40e8e4bab2691312f5f47c1a5649df76eb"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/rifle_assult_crane_data.json"
+hash = "56abb1e8c762832be13e267126534b6ea4ae6b6ff5d49aa97ab0bfad265ee587"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/shotgun_db_stone_data.json"
+hash = "22bde3c7d36555546d7def57167e07066fed09a0b40f9572dcf6d047cb4dc6b0"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/shotgun_pump_bearing_data.json"
+hash = "59ab3dac16ba3db2e1bb92c511f69fb89cc6015e10712334e2e2d214a11f1b2b"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/smg_auto_crank_data.json"
+hash = "712b631ce35b943a45c5a9562cacf1051c41490cb4d5a45935047a169a470874"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/sniper_semi_clockwork_data.json"
+hash = "ae3d66b2ebab341052e86fb812c05de071073682d5b9154abfd0f5b2d9f84a34"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/special_melee_atomic_data.json"
+hash = "972abe3db7f99b82b5ed51ac252a335e5235af1ebea6b1a945f67e7bb653f626"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/data/guns/special_melee_wrench_data.json"
+hash = "972abe3db7f99b82b5ed51ac252a335e5235af1ebea6b1a945f67e7bb653f626"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/ammo/gas_pistol_ammo.json"
+hash = "3ddcdd2e222f3b183916719eb99f8d982d580d358630caace1b97612ddd20fd9"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/ammo/melee_weapon.json"
+hash = "e7a1a0d5cb627018496486c2e5af4565112b638d9809c163399e03528818b692"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/ammo/rbapb.json"
+hash = "7a4ec5613a3856cdbad47fa38181481a7a53401f5521988ba8496a3718d3994e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/ammo/slap.json"
+hash = "888d945d7ac1707a0b64ba7659bddc872b609af2134bdc92ed011eff831c94a8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/extended_mag_ca_1.json"
+hash = "cf4f8e5b9e054d734ff759851ae410ae20e3e4a8445af52d09ff09ed64817af4"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/extended_mag_ca_2.json"
+hash = "60f4dc6bc331dbaca3a5694285e1cc02652a6b4be540131cb840deb0d3117bb4"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/extended_mag_ca_3.json"
+hash = "c5cfab7622abc7d4985c1b90d1c997336c3ab98dd4b3893ba828aadf07e99eca"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/grip_gantry_shaft.json"
+hash = "f105eb478235d335e919bcc5985c392396cc6268190e616af77fe74400322ae6"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/grip_pipe.json"
+hash = "692007e9861e05a27539481aaa58ecdab46b143935618583b48d99f40cada6d5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/grip_wooden.json"
+hash = "3848bd4cbc9306530dbe38b1577c54b56ebd491a6b28977a27a9b58e9cb2b171"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/muzzle_pipe.json"
+hash = "5823c189de7c8186f10a368a2b351031e6639a916b2de1b54c07316f9a6c77ee"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/muzzle_refit_bigger_cylinder.json"
+hash = "d71902d8cb29c5a23539d48655c904728ccfed0513e97b6daf995199b75ae88e"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/muzzle_refit_brass_retractor.json"
+hash = "c67dd53b9b3c12b2b2eeadc5909365b76f5e09017bde72b5573000623f644663"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/muzzle_refit_energy_blade.json"
+hash = "db13fd3ae2bcc0ec3e0a89ea842f4199773ad2371b1c778a699f86d9ea6796c0"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/muzzle_refit_iron_spike.json"
+hash = "729b9059999ab8dfbf60093662a1e80840fe1c4f236ded796766698df99ca3de"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/muzzle_refit_lava_perfusion_bottle.json"
+hash = "3406bb58218a604563b003b9107ffbb7ef47a71caa673aa7f2bf92587b6860a3"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/scope_pipe.json"
+hash = "1a45acc846212e6ffba2e931e0a2a0a93a1b6fa09abfc4989976176b98681e6f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/scope_telephoto.json"
+hash = "3c0703bb62ed488796c5194bf0eb283e1b628b61a8422d525bbfb66f11e59588"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/sight_medium_distance.json"
+hash = "f5debbf59855f0c64565c9196b8424c2686640d50ab8b5385ad88c3c3f1504d7"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/sight_reflex.json"
+hash = "2d3309acf2e129a518d86487199ed50511c9dda31faa4c004cfaf631e92ac6a5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/attachments/sight_standard.json"
+hash = "ae262fa4ab4f3cd8f21d137b2322944e6df52af12ae69ec03e6eb503f836466f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/mg_platemag_flywheel.json"
+hash = "369ca9daedbbc0974592ba49a0bd6604d6dbc82cadd1487c4f30c73d6f0bdfd2"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/pistol_auto_stress.json"
+hash = "80a0183277abe4ff8575db33cb4640d56aa70feb6a9d64bc2699d17e44d16dce"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/pistol_revolver_torque.json"
+hash = "9661080cc45c53a1913bb719e6e97303439edb56b95ab3433f32142f37f04891"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/rifle_assult_crane.json"
+hash = "96c2258cc659dc0bf4202310f469df08d4adb68d00e5daebcbf5748e7d2f3ed3"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/shotgun_db_stone.json"
+hash = "bc83aef85090b5f09d1c0102eddc08aeae51a9c1eb4e0b15c01315811a2afde8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/shotgun_pump_bearing.json"
+hash = "cfd5c1f842b6478d0132a786c68b3c15317eaf6afbc86d81b34aa3bdd9d28947"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/smg_auto_crank.json"
+hash = "a5931efaf0250b9e2bcf0185e9d37ebc3e6f530928feceade3c9cd53a4bc85b8"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/sniper_semi_clockwork.json"
+hash = "3a7dc5e80dbe09c01b805928c44cb64ceff328cddda1b79d16d03f65a9d814f5"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/special_melee_atomic.json"
+hash = "a0640976870615f0cf87599c6f305e0a79177dbbac1d2b173cd769143106d503"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/index/guns/special_melee_wrench.json"
+hash = "29dc797e8b37ad9f6a9f7e687641b66efefab26e2211526d40af1212f5622110"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/mg_gatling_metal_storm.json"
+hash = "c2302f1adec980fe3c5c0789542dcd0ebadd711487359e23b8ba53fd97a90920"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/mg_platemag_flywheel.json"
+hash = "f2a145f55d3d6134862fe069d324f80bbc404ee690d0b94c6d8f78159cb87738"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/pistol_auto_stress.json"
+hash = "24e11a098a55250716ffbccfc60fac0967b88f89a41506d290ef093732a7f745"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/rifle_assult_crane.json"
+hash = "4f85d9a8c44d3d1e845fb921935e0bb535aba7439e9de7bcfb499a2d76e73407"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/shotgun_pump_bearing.json"
+hash = "2d194b1a33a6eb1a40aa91098453b9664c75bfeb0299b04991f4114ebb71d667"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/smg_auto_crank.json"
+hash = "7798d2af1ed21ee00bcecb95978de627149779548ab8f45dd038e9a467b95c9c"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/sniper_semi_clockwork.json"
+hash = "4ac37e4f809406ae50563d3086b31c201f64361f808053f738b1c915b5f70d23"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/special_melee_atomic.json"
+hash = "c549eba3dc5fcd670ce80e19e1bf6cbb62fc49ee5812113a334eb0b3b28e78f3"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/allow_attachments/special_melee_wrench.json"
+hash = "eeee32a4b018024fce1f61b495fabbec5db63477f5f69589c522dd23e895a02f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/create_armorer/tacz_tags/attachments/create_armorer_extended_mag.json"
+hash = "f8bc541e977d1b921c55a1237646ce3e8eb649b72da2f7dbf5ba6619b56a9a57"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/emxarms/tacz_tags/attachments/grip.json"
+hash = "58b5ebe911ab2339ef4385dfb7bfe654468afd83fda4005050dc39fb6d394f8f"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/emxarms/tacz_tags/attachments/muzzle.json"
+hash = "f711d0b0a7007e731cf30d5639d84b668e4bc08480a9f5ed21c0559308cce3ef"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/emxarms/tacz_tags/attachments/scope.json"
+hash = "95424c62797370d073510c21ef333fa2488078401dcb0ca6e9f8fb045b320d92"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/tacz/tacz_tags/attachments/grip.json"
+hash = "2060350d0046b89563da4382feea4a8e4c9d0c974e97c4c7c496d1f2fa7d09bf"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/tacz/tacz_tags/attachments/scope.json"
+hash = "4ce117beed212bf3b223d77abd511af84b581bd5541077f86e53c68f4123cb32"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/data/tacz/tacz_tags/attachments/scope_sniper.json"
+hash = "6c2f61abc98704fa350b33a432ccfbb4f46db7c06b705d0dcd5e3acb31d87cbb"
+
+[[files]]
+file = "tacz/Create Armorer-v1.1.4-for114+/gunpack.meta.json"
+hash = "f1bb30b39c67a179693130a4a21f5d4c37ab81dbd5846d048c05232817c9f2e6"
+
+[[files]]
+file = "tacz/tacz-pre.toml"
+hash = "8f7d8bda47e6a49b0612a1be6317cfdfa0bee993381053036c3f12ae69816432"
 
 [[files]]
 file = "unsup.ini"
