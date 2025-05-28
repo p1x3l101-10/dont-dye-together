@@ -1429,6 +1429,16 @@ hash = "e8235c32512a00f5968c2083f1ed05175f9d7f3a8c551bfb5707739365700692"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "57c0f350262f81f6768226f833a7bc3d6d9d6342c4e2c77a0f477043483c42b9"
+metafile = true
+
+[[files]]
+file = "mods/almost-unify-everything.pw.toml"
+hash = "9f54fb535c90936437384f97a8cf75924bce62cc99338523e4710e2b5d21c6aa"
+metafile = true
+
+[[files]]
 file = "mods/annoying-stuff-remover.pw.toml"
 hash = "313b45bedb51bdd852e645d2918d0b79d26ee4a1564bb93c117fa1b205575ac2"
 metafile = true
