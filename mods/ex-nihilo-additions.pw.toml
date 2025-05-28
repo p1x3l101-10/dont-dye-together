@@ -1,0 +1,13 @@
+name = "Ex Nihilo: Additions"
+filename = "exnihiloadditions-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DkBT4izI/versions/9pyRe2Vs/exnihiloadditions-1.1.5.jar"
+hash-format = "sha512"
+hash = "b08a03eced9277b1ccb77b7eea7cd5bd1721cd81bea6a57a259154d64f3c7bd4bc856291e06efcf60b595479d81d1edddbf6db587526ea29198f4a96834693b9"
+
+[update]
+[update.modrinth]
+mod-id = "DkBT4izI"
+version = "9pyRe2Vs"

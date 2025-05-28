@@ -1664,7 +1664,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3533fa9bbfa93f4acbe47179632d0a6add6a0528d648d83eb4d337a632aba112"
+hash = "3afd17e47ffde236c82d70bb36feb74bf0b405be3ea8a23e06599ef40fcc999d"
 metafile = true
 
 [[files]]
@@ -1995,6 +1995,31 @@ metafile = true
 [[files]]
 file = "mods/endremastered.pw.toml"
 hash = "79bd2ac188e7ad4b6f3775115cc9cc6be2611447aeebe74cf809fa82cc3a22b3"
+metafile = true
+
+[[files]]
+file = "mods/ex-compressum.pw.toml"
+hash = "5a7363ab262de59903e8fdefbc53eb0430f8ef38c375303c77d8f86091e93c2a"
+metafile = true
+
+[[files]]
+file = "mods/ex-machinis.pw.toml"
+hash = "ee5c7f7f104e574bce6aac102940d73090d769692e98a86c45d99c64468627b3"
+metafile = true
+
+[[files]]
+file = "mods/ex-nihilo-additions.pw.toml"
+hash = "8f53b320295e6da68225d9dc0bd75fe479bfd356e4b95c9014b7cd06fe7832a6"
+metafile = true
+
+[[files]]
+file = "mods/ex-nihilo-extras.pw.toml"
+hash = "a9f44f377135f148203df9dab19cae6529bf0352462915956a908341ddb55efd"
+metafile = true
+
+[[files]]
+file = "mods/exnihilosequentia.pw.toml"
+hash = "bfead07ba28cab628e78a79531f225f6b4796db709ffcc30eca001df11e449f4"
 metafile = true
 
 [[files]]

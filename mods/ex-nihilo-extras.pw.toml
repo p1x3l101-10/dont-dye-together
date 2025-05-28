@@ -1,0 +1,13 @@
+name = "Ex Nihilo Extras"
+filename = "exnihiloextras-forge-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/df69gHGo/versions/HRX5nFcv/exnihiloextras-forge-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "7b10e5e676c67823389159712f2d714a145a317287ec63dbb6c8290752cc73b16bf972e679f8e1e5fe5fdd8eec97720c152156cb9c0bc47a02217201906d31a7"
+
+[update]
+[update.modrinth]
+mod-id = "df69gHGo"
+version = "HRX5nFcv"
