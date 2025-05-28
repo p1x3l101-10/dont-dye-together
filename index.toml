@@ -1783,11 +1783,6 @@ hash = "e578c8ca5b9bcdbaf0795345b9d734282c975950a570cd122574a861853ccff5"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "60c57fba5a86f856ca3acfff232cf70d1c510f863faa2bc063b7c7ab3d3a8cab"
-metafile = true
-
-[[files]]
 file = "mods/crawl-on-demand.pw.toml"
 hash = "71978099bab5a59af99ad64f1d684ee7c89262795a538ce9b91d9e2456971d05"
 metafile = true
