@@ -1439,6 +1439,11 @@ hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
 
 [[files]]
+file = "mods/advancementjs.pw.toml"
+hash = "f617d09a937f40ba9b8570ed4bac4383cf8160be22d0c9be459e2c5b75e1b1cd"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "684c63b15476444b176e31db9a029a7a29aca70bbbfb285873ab4ed5b8d498b7"
 metafile = true
@@ -1544,6 +1549,11 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
+file = "mods/capejs.pw.toml"
+hash = "43c43e03cd94150bf8d4b0c8672142f0f5eca011033ba719304ca918e7371920"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "7955bc3fb582973a7cdabd0a484e6180b92562bde7d50b9e73afc253f29e472b"
 metafile = true
@@ -1566,6 +1576,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "d20aa1357dbffc463c8060b0ec6d8f102e39b932e161be20297486a6a7cba25c"
+metafile = true
+
+[[files]]
+file = "mods/configjs.pw.toml"
+hash = "6bc214e2144c633c076f6d6f22346d9da034397f691dc1ec915ac8211ad33f50"
 metafile = true
 
 [[files]]
@@ -1879,8 +1894,13 @@ hash = "3b621f7fccbead88d76c7ef652323e985755409c7b8928e39716895eeb87216a"
 metafile = true
 
 [[files]]
+file = "mods/geckojs.pw.toml"
+hash = "6f751d4e024f2d7be7ad2d980777744dcd477fcd6a26ddd60d7e6276d0af5736"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1f2d8a91236ec59005b96ac888c16aa07b5d0401737794391d0cd84f2cd95837"
+hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
@@ -1974,6 +1994,21 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "e9ea701c9fc9bb54d1bd3b6998403a229f896449c0d15b5df23dc46e20ac5092"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-diesel-generators.pw.toml"
+hash = "6e0c24f27956ffe1552b2b4390d5d2458ed3c94ef3dd181192d878553730112f"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
 file = "mods/lead-apple.pw.toml"
 hash = "c02b75a8eaf11e56934fe661e3ecc4daa8a99031cfd16c2846e3c2eb75eb388c"
 metafile = true
@@ -2051,6 +2086,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "4aaafc28f1959e47cb995170b3a2d32a8a227deadaf06e2eac1612b4d6db7c62"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "a5d778139d22ab0993dc8c7dcea99902c31da3f5ef7f6936e5c29e4cb159c174"
 metafile = true
 
 [[files]]
@@ -2159,6 +2199,11 @@ hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
 file = "mods/scannable.pw.toml"
 hash = "2b558db23b1ffc61a99361d953d2ca178da67ef7ca3da16ceaf6a113c19ed8ac"
 metafile = true
@@ -2236,6 +2281,16 @@ metafile = true
 [[files]]
 file = "mods/the-zoomify-mod.pw.toml"
 hash = "7841b29ae067b60912700a63aa8756f9e898db11eec1e955f0785dfdf59fa9ce"
+metafile = true
+
+[[files]]
+file = "mods/theurgy-kubejs.pw.toml"
+hash = "6562eb76a51a6b60657f44b0ecd2d2e65ec7fe8b46ac77496475f6bfc9af2b32"
+metafile = true
+
+[[files]]
+file = "mods/theurgy.pw.toml"
+hash = "7e43f89bd5b2eae0ec70c6fccfb4175b42beefb69c409aaf2ef381c5f40be748"
 metafile = true
 
 [[files]]
