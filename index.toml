@@ -90,7 +90,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "23159b1ed8215bf862ac954057c7d969bb2579cca29222ef09634f6dba5b8f56"
+hash = "2f698c330537990a0f51368bf3ce7fd9a833eab997a6f8ce837c03098b510a8d"
 
 [[files]]
 file = "config/appleskin-client.toml"
