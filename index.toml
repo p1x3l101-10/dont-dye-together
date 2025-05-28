@@ -1021,6 +1021,11 @@ file = "config/paxi/datapacks/.keep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/paxi/datapacks/coal-to-ad-astra-oil.pw.toml"
+hash = "63fbdf69de4f997743954643cbfacfaa8fe2fdf60a22646b6830f4eb6fe4e01e"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/removeSpawnBooks/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -1417,6 +1422,11 @@ hash = "86ead787811e9e6962332152d669603052cd513f2a72e8dbdcc0579e0a571b25"
 [[files]]
 file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "e9933e720510cf05b480c3e1df69af285805c5192df0dac2f255772cc46b47d4"
+
+[[files]]
+file = "mods/ad-astra-oil-well-yeeter.pw.toml"
+hash = "528609ec9c11eea59a277bd64c32614027b97aa2acbdcc366c0cdd57fbaab4da"
+metafile = true
 
 [[files]]
 file = "mods/ad-astra-tools.pw.toml"

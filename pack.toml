@@ -6,10 +6,13 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e28005450abc83c6392fbc3990b5651f3229a31875852ea7a558f7ff255abe61"
+hash = "96f394b788a4c43facf5b041dd60762bd57e84621f1745fda6798a2d27054984"
 
 [versions]
 forge = "47.4.0"
 lwjgl3 = "3.3.1"
 minecraft = "1.20.1"
 unsup = "1.1.3"
+
+[options]
+datapack-folder = "config/paxi/datapacks"

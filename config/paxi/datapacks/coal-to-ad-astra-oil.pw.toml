@@ -1,0 +1,13 @@
+name = "Coal to Ad Astra Oil"
+filename = "coaltoadastraoil.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7YK8MF9d/versions/Idb7UKay/coaltoadastraoil.zip"
+hash-format = "sha512"
+hash = "52f4c64e3fc54cc8192ec082947c6f7186b3a128ab8bac7640a26abd106221d09e6211392f650c304b3b5f455258427d9e1d8cce56be48ec1bc757be6fb316e7"
+
+[update]
+[update.modrinth]
+mod-id = "7YK8MF9d"
+version = "Idb7UKay"

@@ -1,0 +1,13 @@
+name = "Ad Astra Oil Well Yeeter"
+filename = "oil_well_yeeter-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a0085f796dcb2ffb11388f8094eb95fed062a8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5714712
+project-id = 1098031
