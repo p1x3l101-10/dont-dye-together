@@ -2094,7 +2094,7 @@ hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "dd2c4cabb189a14ab9de0c0e145fa33c7f44f8f33687dc787a487cae94a1253f"
+hash = "089a47f6f6d06a7b95930f9c4c6a34f01a074fb999e6d1ffc02637b3ede50061"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
