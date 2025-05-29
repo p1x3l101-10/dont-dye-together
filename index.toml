@@ -1010,7 +1010,7 @@ hash = "c31c9ea258764811c73095428ec0c20efc27e3d6dd4807ea335996b3aef7ce72"
 
 [[files]]
 file = "config/iceandfire-client.toml"
-hash = "159260e7a82ecd58ab0e08a6f5dd38960eacfcfbd456df8a19d5de433b2ce696"
+hash = "2951cb48c8ceb7c4ab70652af11efc6f7fdfa65237a718697c4282026cd5fa1e"
 
 [[files]]
 file = "config/iceandfire-common.toml"
