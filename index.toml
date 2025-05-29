@@ -1603,11 +1603,6 @@ hash = "d7a30358cb8314c296fec14e4ea74b8301edf093d6054dafac121e8fe9ac434f"
 metafile = true
 
 [[files]]
-file = "mods/advancementjs.pw.toml"
-hash = "f617d09a937f40ba9b8570ed4bac4383cf8160be22d0c9be459e2c5b75e1b1cd"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "684c63b15476444b176e31db9a029a7a29aca70bbbfb285873ab4ed5b8d498b7"
 metafile = true
@@ -1713,11 +1708,6 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
-file = "mods/capejs.pw.toml"
-hash = "43c43e03cd94150bf8d4b0c8672142f0f5eca011033ba719304ca918e7371920"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "7955bc3fb582973a7cdabd0a484e6180b92562bde7d50b9e73afc253f29e472b"
 metafile = true
@@ -1740,11 +1730,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "d20aa1357dbffc463c8060b0ec6d8f102e39b932e161be20297486a6a7cba25c"
-metafile = true
-
-[[files]]
-file = "mods/configjs.pw.toml"
-hash = "6bc214e2144c633c076f6d6f22346d9da034397f691dc1ec915ac8211ad33f50"
 metafile = true
 
 [[files]]
