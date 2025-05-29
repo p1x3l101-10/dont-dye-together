@@ -1588,6 +1588,10 @@ file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "e9933e720510cf05b480c3e1df69af285805c5192df0dac2f255772cc46b47d4"
 
 [[files]]
+file = "kubejs/server_scripts/hexcasting.js"
+hash = "13ca776c9e1552844781e0516f84bf745fdf81b670406f6b4e7f332f5c0dcf97"
+
+[[files]]
 file = "mods/ad-astra-oil-well-yeeter.pw.toml"
 hash = "528609ec9c11eea59a277bd64c32614027b97aa2acbdcc366c0cdd57fbaab4da"
 metafile = true
