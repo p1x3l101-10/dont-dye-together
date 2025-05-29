@@ -1706,6 +1706,18 @@ hash = "63fbdf69de4f997743954643cbfacfaa8fe2fdf60a22646b6830f4eb6fe4e01e"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/dimension/twilightforest_orbit.json"
+hash = "0bcdb4f57f1d0366c403c9f4814e75cd4cfbf8bcb27700ac0f0d2f69709ac9a3"
+
+[[files]]
+file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/twilight_forest.json"
+hash = "6301b4f8841fa4344a265f925b8d41239e8ca09f5d9f8d8089c88d00e9620b51"
+
+[[files]]
+file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/twilightforest_orbit.json"
+hash = "3a346306be1415c6819b4604f2d17377c6b04d178cb089e9e64857c45c919add"
+
+[[files]]
 file = "config/paxi/datapacks/removeSpawnBooks/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -2062,7 +2074,7 @@ hash = "77e7aacadc5d425ebe3f19b78bb8af526a589134877c8406244a52108c4697a0"
 
 [[files]]
 file = "config/twilightforest-common.toml"
-hash = "ae4d9b6a2f63f37de7630a0bc4333e3ab682a6fa713347dae899ffe512a6b9f5"
+hash = "69eda38957a245267d42b72334d0c465cafa5bbf10d0df4fb80a9b9a6c3261d7"
 
 [[files]]
 file = "config/veggiesdelight-common.toml"
