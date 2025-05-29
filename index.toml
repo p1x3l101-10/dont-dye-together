@@ -1706,28 +1706,32 @@ hash = "63fbdf69de4f997743954643cbfacfaa8fe2fdf60a22646b6830f4eb6fe4e01e"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/dimension/end_orbit.json"
-hash = "5ed9b5bcfc9ddec94090dc3b89241d124398aa9a58808ff7324def0f550d00b0"
+file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension/end_orbit.json"
+hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
 
 [[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/dimension/twilightforest_orbit.json"
-hash = "0bcdb4f57f1d0366c403c9f4814e75cd4cfbf8bcb27700ac0f0d2f69709ac9a3"
+file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension/twilightforest_orbit.json"
+hash = "8a629f8e60cd0cc047555266ee55f7c48714693530cb75a760bbbdc0377e3fdb"
 
 [[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/end.json"
-hash = "4b996c1e8dffafa03e73016cd821f10c95d8eb9f72427ee5fffa41c2d11021e9"
+file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/end.json"
+hash = "788dc04915180343d93d70314099f53a1b44d0dcac34d5e8b6bb4f06614257ab"
 
 [[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/end_orbit.json"
-hash = "e62bebbd50309ada55ed737f16f542caa2bf54213f5e3aaba4ea9ab816e9739f"
+file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/end_orbit.json"
+hash = "c121e84e469152965ebac91958b3bc29ee2f12903e5054636399120e3d1b1f4e"
 
 [[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/twilight_forest.json"
-hash = "6301b4f8841fa4344a265f925b8d41239e8ca09f5d9f8d8089c88d00e9620b51"
+file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/twilight_forest.json"
+hash = "2aa46005f22697c7e116f47e4a35d7942a34a933621a381cdd6fdfe51e57b6cd"
 
 [[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/twilightforest_orbit.json"
-hash = "3a346306be1415c6819b4604f2d17377c6b04d178cb089e9e64857c45c919add"
+file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/twilightforest_orbit.json"
+hash = "ddfc537c02f0a166460f81a5ad4b2ce2848c9b5d7c8b4e1ac7ac1675cd08748f"
+
+[[files]]
+file = "config/paxi/datapacks/modpack_tweaks/pack.mcmeta"
+hash = "82fde6036b49f9653b329d5dcba924f838643859f7a8e8c97303d334fbf20427"
 
 [[files]]
 file = "config/paxi/datapacks/removeSpawnBooks/data/hexcasting/advancements/grant_patchi_book.json"

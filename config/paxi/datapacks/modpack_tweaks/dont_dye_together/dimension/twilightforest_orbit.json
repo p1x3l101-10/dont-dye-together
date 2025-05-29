@@ -1,5 +1,5 @@
 {
-  "type": "dont_dye_together:end_orbit",
+  "type": "modpack_tweaks:twilightforest_orbit",
   "generator": {
     "type": "minecraft:noise",
     "biome_source": {
