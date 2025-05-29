@@ -1,0 +1,13 @@
+name = "Create: Tutorial books"
+filename = "create_tutorial_books-1.0.7-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1TEk6reR/versions/nrf2YS8C/create_tutorial_books-1.0.7-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8c97b2a41f2d4f837eaad609180af4c0eafcac52498d99ad02c356c59d43651f00bc1453903284b3b1aacdb7c3576a84634a7048f730049f7a6818d5dc3fab7e"
+
+[update]
+[update.modrinth]
+mod-id = "1TEk6reR"
+version = "nrf2YS8C"

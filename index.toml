@@ -2572,8 +2572,18 @@ hash = "f7ba3ad55e874535b6fa42eeccca3045dc447d93667e5fe84c6d6e9821d8bfd1"
 metafile = true
 
 [[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "2d519117992fc8bf34a5ac854bf68e7d8926b799ebe61e7f33cccd06a5b72201"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "f010014d53f9fda730c975dbac1f213fd5090efc66e5d00d64268297e8c2d91e"
+metafile = true
+
+[[files]]
+file = "mods/create-tutorial-books.pw.toml"
+hash = "582905e88c2414cfc61c345960cda6aa48310606968249cbf9e7f3af1c7877e2"
 metafile = true
 
 [[files]]
