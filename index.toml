@@ -1637,6 +1637,11 @@ hash = "313b45bedb51bdd852e645d2918d0b79d26ee4a1564bb93c117fa1b205575ac2"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
 metafile = true
@@ -2424,6 +2429,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "9c460fa08c4ab88bb2c55a84f3243ab0e478b56a538d932dbbe989c4c9c748a1"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
