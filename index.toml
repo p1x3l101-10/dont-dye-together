@@ -2242,7 +2242,7 @@ hash = "49b41d5e78996c4746d2a896c8b81891610ef2328e05184c69ab66730d1f873b"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
-hash = "8e08017a13c97ebeea76f1d95df716319e2b188b1afd2005d84a87e0436f8a1c"
+hash = "f59de95ae16736765dd61df2cccf6fc9e6e110f823b26a95d1d4ee363d3cd5ee"
 
 [[files]]
 file = "defaultconfigs/travelersbackpack-server.toml"
@@ -2562,6 +2562,11 @@ hash = "6f65c645f80f1a94d42fd69bb420d9d7a4a35ccef19d8af48533efb5a276e12e"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
+metafile = true
+
+[[files]]
 file = "mods/crushed-astra.pw.toml"
 hash = "14416d372f8eefb280a2ae1e515eb5b6dd08517ef494cd20cfdcdd7281681bdb"
 metafile = true
@@ -2684,6 +2689,11 @@ metafile = true
 [[files]]
 file = "mods/endremastered.pw.toml"
 hash = "79bd2ac188e7ad4b6f3775115cc9cc6be2611447aeebe74cf809fa82cc3a22b3"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
 
 [[files]]
