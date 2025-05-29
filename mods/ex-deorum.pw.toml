@@ -1,0 +1,13 @@
+name = "Ex Deorum"
+filename = "exdeorum-1.45.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WP0FLyzv/versions/hyCAP2Vb/exdeorum-1.45.jar"
+hash-format = "sha512"
+hash = "6705873b5dadfc1359ab7789bd2b1fb40c464900e87286ab3140feb81e06cd745e1084310f3570b8f46d06e7d8f874f4484efcaa020b3210d1d284a078097af8"
+
+[update]
+[update.modrinth]
+mod-id = "WP0FLyzv"
+version = "hyCAP2Vb"

@@ -1998,18 +1998,13 @@ hash = "5a7363ab262de59903e8fdefbc53eb0430f8ef38c375303c77d8f86091e93c2a"
 metafile = true
 
 [[files]]
-file = "mods/ex-nihilo-additions.pw.toml"
-hash = "8f53b320295e6da68225d9dc0bd75fe479bfd356e4b95c9014b7cd06fe7832a6"
+file = "mods/ex-deorum.pw.toml"
+hash = "486e921e08c3c5acc3f3b414fb2c495b7eebc534dca0de538a707b65e3e95842"
 metafile = true
 
 [[files]]
-file = "mods/ex-nihilo-extras.pw.toml"
-hash = "a9f44f377135f148203df9dab19cae6529bf0352462915956a908341ddb55efd"
-metafile = true
-
-[[files]]
-file = "mods/exnihilosequentia.pw.toml"
-hash = "bfead07ba28cab628e78a79531f225f6b4796db709ffcc30eca001df11e449f4"
+file = "mods/ex-machinis-divitiae-deorum.pw.toml"
+hash = "9bb7ea6b1bf7129b402ed4712375c69ab7b1cc2250bb0112b843f62635f366f6"
 metafile = true
 
 [[files]]
