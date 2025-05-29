@@ -1659,7 +1659,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3afd17e47ffde236c82d70bb36feb74bf0b405be3ea8a23e06599ef40fcc999d"
+hash = "495f83e693dcc0a378757200394ca1cb284cc51fce3c64d8e0d5e37e2eac7b85"
 metafile = true
 
 [[files]]
@@ -2015,6 +2015,11 @@ metafile = true
 [[files]]
 file = "mods/flightassistant.pw.toml"
 hash = "634d75dd0e39db9c5c255758c44482faa038610c875d79c2442b819858881c8c"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "5a978c4b0c4a90eeae86c8b0a4ce6724a77bae5c4f1c0b809d8fdb86b3ead6d9"
 metafile = true
 
 [[files]]
