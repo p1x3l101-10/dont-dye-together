@@ -1798,11 +1798,6 @@ hash = "07a0c3e5b7e81ea093ffc86422ecb6b4a1d3aa13b6d36efb66af02c3c1413088"
 metafile = true
 
 [[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "810118ff44d55d15dbc39c3d86074b3eefe2f1f5fbaa4fe2e19c2f7462a43816"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
 metafile = true
