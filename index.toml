@@ -98,7 +98,7 @@ hash = "56840e4c6a265049bce2846b6c11d0267a6fafa1b72a75b9d7b9a94dc55c5022"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "7b78aadde067ed6ac31b87a0a28702c8d782a0dbc45a55fd7ab678772de3d15e"
+hash = "5e9f9f1022e1707ed6b1930508384572fe42c659e331bfa8fe2e84f6aa2fb246"
 
 [[files]]
 file = "config/apotheosis/ench.cfg"
@@ -1994,7 +1994,7 @@ hash = "3ecfa54cbc0af2455ec7bd01670da92972d0ef341b442ea303242fb95bad7883"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "d180f1d14f5e848b68bf798aa6c46efb99074d15ae7c4532490e786f4049347c"
+hash = "b065935b9b28e4ac6c81c0e303a63056270893de9cb80ef8d7731d41e657e2e7"
 
 [[files]]
 file = "config/tempad-client.jsonc"
