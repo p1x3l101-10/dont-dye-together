@@ -1155,6 +1155,11 @@ hash = "160d46fa02e12609a01a731a4e78b08f77a24a3cc75c6e352faf802ea6e3b637"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/noendportaltint.pw.toml"
+hash = "2c16293f39b70dae8316a1860e1c95adc07424433fd9ef02598f2f182855492c"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "fbb4644fe0733d7c9662931679559ad5bd6b09c616fec2e46c6aeb328cb053f9"
 metafile = true
