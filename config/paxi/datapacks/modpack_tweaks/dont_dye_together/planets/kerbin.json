@@ -1,0 +1,11 @@
+{
+  "dimension": "modpack_tweaks:kerbin",
+  "gravity": 9.807,
+  "orbit": "modpack_tweaks:kerbin_orbit",
+  "oxygen": false,
+  "solar_power": 16,
+  "solar_system": "ad_astra:proxima_centauri",
+  "temperature": 15,
+  "tier": 5,
+  "additional_launch_dimensions": []
+}
