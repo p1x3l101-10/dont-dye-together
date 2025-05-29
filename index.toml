@@ -1706,8 +1706,20 @@ hash = "63fbdf69de4f997743954643cbfacfaa8fe2fdf60a22646b6830f4eb6fe4e01e"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/dimension/end_orbit.json"
+hash = "5ed9b5bcfc9ddec94090dc3b89241d124398aa9a58808ff7324def0f550d00b0"
+
+[[files]]
 file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/dimension/twilightforest_orbit.json"
 hash = "0bcdb4f57f1d0366c403c9f4814e75cd4cfbf8bcb27700ac0f0d2f69709ac9a3"
+
+[[files]]
+file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/end.json"
+hash = "4b996c1e8dffafa03e73016cd821f10c95d8eb9f72427ee5fffa41c2d11021e9"
+
+[[files]]
+file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/end_orbit.json"
+hash = "e62bebbd50309ada55ed737f16f542caa2bf54213f5e3aaba4ea9ab816e9739f"
 
 [[files]]
 file = "config/paxi/datapacks/removeSpawnBooks/data/dont_dye_together/planets/twilight_forest.json"
@@ -2231,6 +2243,10 @@ hash = "86ead787811e9e6962332152d669603052cd513f2a72e8dbdcc0579e0a571b25"
 [[files]]
 file = "defaultconfigs/travelersbackpack-server.toml"
 hash = "e9933e720510cf05b480c3e1df69af285805c5192df0dac2f255772cc46b47d4"
+
+[[files]]
+file = "kubejs/server_scripts/endcake.js"
+hash = "cffb3fd6020ebb3becdd59f618a556a7407917d9728d215e23ba21ab9dd5b300"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting.js"
