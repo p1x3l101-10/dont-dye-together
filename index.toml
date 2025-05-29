@@ -93,6 +93,42 @@ file = "config/almostunified/unify.json"
 hash = "2f698c330537990a0f51368bf3ce7fd9a833eab997a6f8ce837c03098b510a8d"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "56840e4c6a265049bce2846b6c11d0267a6fafa1b72a75b9d7b9a94dc55c5022"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "7b78aadde067ed6ac31b87a0a28702c8d782a0dbc45a55fd7ab678772de3d15e"
+
+[[files]]
+file = "config/apotheosis/ench.cfg"
+hash = "557cc1b6ba1369f5d2459054cc2b9e9f91c58b9cdecb0a3023a911b435b1a9c8"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "508a0444001af9db1ffcaed0f6eadd5c6c81aadb17037629b329d9c9bd02ff75"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "dea4d260e6eac868297c0f9cd80545fd6b54f7344c678b89edda980a3fc5e8cf"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "c8c756a58a2a493cfb41f57d2f5721da905fa09fe30aaccdd30b257fe7d58eb4"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "41cbb8ec035cdefaf47ca7ca71187b41eb8ce67905f825cc05e3c8dd8ba2702e"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "40913dd340992cb232ed886157673decf3a02a0faa28bb05caf55906da4f7f79"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "9c06164bad9a22d779a4986dc231071e7a9d3bc8f1d7d67fa277999e510d2a78"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
@@ -147,6 +183,10 @@ hash = "c9bf01d54002b04516573e1d445456601bcd444f883c42463a3ffc18cfb65fd7"
 [[files]]
 file = "config/astralzinc-common.toml"
 hash = "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6"
+
+[[files]]
+file = "config/attributeslib.cfg"
+hash = "d263933ee4b13ea18ca743e8648d0cf2bc0f69a7d8c3f0e55829d9597d8c0c62"
 
 [[files]]
 file = "config/balm-client.toml"
@@ -261,6 +301,14 @@ file = "config/betterwitchhuts-forge-1_20.toml"
 hash = "7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8"
 
 [[files]]
+file = "config/blueprint-client.toml"
+hash = "bfcfb80974100b4371be80105488e537c066cd3651d35d977a91e158e23cad60"
+
+[[files]]
+file = "config/blueprint-common.toml"
+hash = "54b999cd4b8859787eec9d1b8df99b5e318030961fe7bf444dc31727de8a69f6"
+
+[[files]]
 file = "config/bocchud.json"
 hash = "af2244af135e4966553b1deb163d04c67df94ab60abdf6e3f08f92284c6bdeb1"
 
@@ -281,6 +329,14 @@ file = "config/bocchud/mc.piplup.pp.ua_dim_minecraft_the_nether.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
+file = "config/bonsaitrees3-client.toml"
+hash = "70eef75b7b268732ccef084a6c37fe9f452f002b460c9db81866979fd5aa8ba9"
+
+[[files]]
+file = "config/bonsaitrees3-common.toml"
+hash = "6969d1271a24c244c1b3b7d5a59a4002fd1d69a7cfce9c6f7c998b0aa925d4b7"
+
+[[files]]
 file = "config/brutalbosses.json"
 hash = "39e43acceffd0ea5a1d750b4d76d4d1cebacb73d74be551c99709190889e7753"
 
@@ -295,6 +351,14 @@ hash = "663bbc78c38223eef07d838082ce941b877f143ce54489aa544ef4bf90228f8c"
 [[files]]
 file = "config/chiselsandbits-common.toml"
 hash = "948c4b2f1a557ca6f8ffa2bcd8913a3be616353cbbb4443923c990c6e032dc0d"
+
+[[files]]
+file = "config/citadel-common.toml"
+hash = "0a41518641bbb4133fc61b934e8663ae5271ffd8190a281e5b35d1efd97fb3e3"
+
+[[files]]
+file = "config/clickmachine.cfg"
+hash = "7e01626d260a6a33067cd256ff41e43387b39ee762d5ed01a05b0a4862eb1222"
 
 [[files]]
 file = "config/copycats-client.toml"
@@ -375,6 +439,10 @@ hash = "1d28b40d466308be422d511bcd662b26807a9616144055591ccabb53b42fad92"
 [[files]]
 file = "config/createappliedkinetics-common.toml"
 hash = "8bb1193b928cd05b4a56bb42b717633369fcb53b5730175c69ef11c80f3689ad"
+
+[[files]]
+file = "config/createcobblestone-common.toml"
+hash = "fcefd09e5d24b65014d3bdb1bafdbe8ae08fbf22dc5d30b46db8df01c734f600"
 
 [[files]]
 file = "config/createdieselgenerators-client.toml"
@@ -541,12 +609,328 @@ file = "config/endrem.toml"
 hash = "e8b023a7ff16b2e42c0021a51f87b1bcb036925bc71b6a4ef233b5289f960e58"
 
 [[files]]
+file = "config/excompressum-common.toml"
+hash = "354b3676965af19e55dc9efde81c738ce6a39e6c125db7eed2bc25f3b900650a"
+
+[[files]]
+file = "config/exdeorum-client.toml"
+hash = "af245dbbf9a6b5aa49732f18e4460eacd7a0988db9d544b2aa660110df01928c"
+
+[[files]]
+file = "config/exdeorum-common.toml"
+hash = "a5230c61e92cb28e95ff84807d21c1e13aeed5cc751963555848902bf5c30838"
+
+[[files]]
+file = "config/exdeorum/compost_colors/ad_astra.txt"
+hash = "318c07c0ae7d1e5275ae1d2ed3f0c1731ba46c8af0474eef0678344712bf360d"
+
+[[files]]
+file = "config/exdeorum/compost_colors/ad_astra_tools.txt"
+hash = "1207b6d7b80c676d7f20c6009d1e19bdf3d20c521dabd4cfe86f64c536ce4886"
+
+[[files]]
+file = "config/exdeorum/compost_colors/ae2.txt"
+hash = "e056b6931628ce2f7f2d5bdb2f65d2296dc606570167f6a76c855a67aec67935"
+
+[[files]]
+file = "config/exdeorum/compost_colors/ae2wtlib.txt"
+hash = "eb1f06a5451b24198a2c36ac70588af4b1c1cbb98ccf5a6f41f6eabcc03120db"
+
+[[files]]
+file = "config/exdeorum/compost_colors/apotheosis.txt"
+hash = "5fb49bf5b66475a49b9da312e7758da1d6894bda1a80148cf2d6df3d24abb2b4"
+
+[[files]]
+file = "config/exdeorum/compost_colors/artifacts.txt"
+hash = "d0dc1fe01c7489d1c0337c583972c3a7ddf8e2788d5e2bb83f395f7f5e921d74"
+
+[[files]]
+file = "config/exdeorum/compost_colors/astolfoforge.txt"
+hash = "87c8cee33fd6e9cf49796e2c08b748d26ea2b97b53d20e41148ce508dc2935af"
+
+[[files]]
+file = "config/exdeorum/compost_colors/chiselsandbits.txt"
+hash = "7f8e90906b1a198efcc502bfd8ce2d64da502c1978f69b0fafb700e7a713812a"
+
+[[files]]
+file = "config/exdeorum/compost_colors/citadel.txt"
+hash = "cf15bd2d6d36c27d0b6c916d6a89037bf014afa8160234975f230f9883cffe9c"
+
+[[files]]
+file = "config/exdeorum/compost_colors/cosmeticarmoursmod.txt"
+hash = "b5666ac52938f18b7e7f81e776666064b2ed6604123d3e1fc700b7ab7c9e012a"
+
+[[files]]
+file = "config/exdeorum/compost_colors/cosmeticweaponsmod.txt"
+hash = "7f0aa34f48ad774715f15eca32a426883647efc95d32b9c6b0eda01d6b2ed475"
+
+[[files]]
+file = "config/exdeorum/compost_colors/create.txt"
+hash = "40631c5d43e497e86d4945de998e7acc63aa50107573be9e1be963c9d3bf1533"
+
+[[files]]
+file = "config/exdeorum/compost_colors/create_crush_everything.txt"
+hash = "89cc9ff9c091a77452fddc6b93a6cb610da0aa8cf35b2384c8a208e28e4315d6"
+
+[[files]]
+file = "config/exdeorum/compost_colors/create_enchantment_industry.txt"
+hash = "7ee314a904c97ed22faf321f0a0072a1cfa6e49d88664a6b1fc0f7e8c927c142"
+
+[[files]]
+file = "config/exdeorum/compost_colors/create_factory_logistics.txt"
+hash = "3f98275c4da24b96668b9ffe127fa331daa664cf0acea733dcf47de515cc5b28"
+
+[[files]]
+file = "config/exdeorum/compost_colors/create_sa.txt"
+hash = "cb4d51501171c05039ca7330eb4be26297f2bc15ef345a327ca02dfa9e115b16"
+
+[[files]]
+file = "config/exdeorum/compost_colors/create_wizardry.txt"
+hash = "10b74d7ba4e09a03ea5aed796aac71693c801c564268ec40c3dd80a68e0a2750"
+
+[[files]]
+file = "config/exdeorum/compost_colors/createaddition.txt"
+hash = "b1d05252734799da79d62dbaca7bafe5b6030ff9870ad3bba92b93428533eb62"
+
+[[files]]
+file = "config/exdeorum/compost_colors/createappliedkinetics.txt"
+hash = "80371f124104ffd9439f3b99ce35eee8c18c215d7b1ca5b684d93c1a5072feab"
+
+[[files]]
+file = "config/exdeorum/compost_colors/createdieselgenerators.txt"
+hash = "540545c78f626b97923a0c09ad7bf09fe9b11d895433ff4deea52016c06ee7bc"
+
+[[files]]
+file = "config/exdeorum/compost_colors/createimmersivetacz.txt"
+hash = "f80749389a2805d3f24a4f9c123b46aafc660996a96dd27846423d6f1618c6ed"
+
+[[files]]
+file = "config/exdeorum/compost_colors/createoreexcavation.txt"
+hash = "caef20d82ae1fcf3d30c9102ed4a2ff6eac218a21f30b39b4d58c40b328c0431"
+
+[[files]]
+file = "config/exdeorum/compost_colors/crushedastra.txt"
+hash = "74ac038ddde7b86f357a6efa57a9e4cac766eca9cbb108ed6c952cfb20764df5"
+
+[[files]]
+file = "config/exdeorum/compost_colors/doggytalents.txt"
+hash = "f2eb9c58ef6e656ef2e79075618b3be465a9326c3cd4bfb53987354f892c485b"
+
+[[files]]
+file = "config/exdeorum/compost_colors/easy_mob_farm.txt"
+hash = "9a4bc80aa7aff0fbf51a8600eb8c13c1ab01251b8f6b76d89dadbd58ad6e4c12"
+
+[[files]]
+file = "config/exdeorum/compost_colors/eccentrictome.txt"
+hash = "11c848952360771cf35937460953fdb919894e3675575cfe88dd4f9dc3a7cb33"
+
+[[files]]
+file = "config/exdeorum/compost_colors/endersdelight.txt"
+hash = "62fa53fc22733b2c128752c4b717cd58cd57017dc0a70171c1d0ce0c14c6823b"
+
+[[files]]
+file = "config/exdeorum/compost_colors/endrem.txt"
+hash = "ebc17903597a7d4297505bdccb77a3bbadd381bb19efac0b51fcef56fb53645d"
+
+[[files]]
+file = "config/exdeorum/compost_colors/excompressum.txt"
+hash = "c4f5a4dcea269a58d6ba5a6e23d4e02238f88ad0a92a4c21c16cc3ef021e1b98"
+
+[[files]]
+file = "config/exdeorum/compost_colors/exdeorum.txt"
+hash = "bd1c8504b20233098e10f43b78cbd1cb85b017955c5920a2dcecdcc8534ab297"
+
+[[files]]
+file = "config/exdeorum/compost_colors/exmachinis.txt"
+hash = "71cfd839aa47b3563a8d9f5be30810fa18c450cb31f4a302ee2b0c238f580f7f"
+
+[[files]]
+file = "config/exdeorum/compost_colors/farmersdelight.txt"
+hash = "ea256ce2cf5d8aef51d1e8c455e3a1836a96e809f9e5a25c677c46b064171148"
+
+[[files]]
+file = "config/exdeorum/compost_colors/gateways.txt"
+hash = "9756344555d178398c2c7721b537fc007bae10f6b5526dc23f61b0f033c1f501"
+
+[[files]]
+file = "config/exdeorum/compost_colors/hexcasting.txt"
+hash = "d7a06457dbec4fc51d90eb82ae8762728d130c5985156649ad646d20b5b21705"
+
+[[files]]
+file = "config/exdeorum/compost_colors/hostilenetworks.txt"
+hash = "772362e7af49b22566d6ad1e6b4ef2b7f154a446696f6441968c84bcaa5dc456"
+
+[[files]]
+file = "config/exdeorum/compost_colors/ice_and_fire_delight.txt"
+hash = "6234f44bc0539c6929e5b248fbf57ed524e5bec86ed4719d83aa57e1b4644962"
+
+[[files]]
+file = "config/exdeorum/compost_colors/iceandfire.txt"
+hash = "a1b22b0948d5892ac0014922763354bb5c134953259dba55f6399a7f347b9609"
+
+[[files]]
+file = "config/exdeorum/compost_colors/immersive_aircraft.txt"
+hash = "8b96e88a86e3f6a271ff6df16e86aaf22394d7528157d52a18a5db363eceb729"
+
+[[files]]
+file = "config/exdeorum/compost_colors/irons_spellbooks.txt"
+hash = "f2728eac97874ac838ffee64d846e2fb6edcff50ae4a569ce9e043f08d4d5845"
+
+[[files]]
+file = "config/exdeorum/compost_colors/lead_apple.txt"
+hash = "466519d1b7a05f0e2ee0c3d319fdb6c6d7189367d20b4fe2560cc3cdd09799aa"
+
+[[files]]
+file = "config/exdeorum/compost_colors/lemoned.txt"
+hash = "d230777f093194cc8747dd2dd3c558df47d753fdb69c5f364d45f0ba5794db50"
+
+[[files]]
+file = "config/exdeorum/compost_colors/mahoutsukai.txt"
+hash = "90bd31dd4aa6a17526797e5578b78c8aef13da2716881a5b56939a558e26d7b4"
+
+[[files]]
+file = "config/exdeorum/compost_colors/man_of_many_planes.txt"
+hash = "ee10ecd93d7ca1f363384bc8166c2a6ea3de066e87b7b1d3030e80e2a3856b22"
+
+[[files]]
+file = "config/exdeorum/compost_colors/megacells.txt"
+hash = "3c882cab6edf40291c4d87e7cfd19eac66f99bf7b66cc34e23d0be2ce3c75c9f"
+
+[[files]]
+file = "config/exdeorum/compost_colors/mekanism.txt"
+hash = "2aab35437424bda818249777384403c69ff7dc79facefa15e88deccd899fe024"
+
+[[files]]
+file = "config/exdeorum/compost_colors/mekanismgenerators.txt"
+hash = "6d1e458d19d430b954eab3279b2bc550db64742980b4f7761fffe4b5b747c73e"
+
+[[files]]
+file = "config/exdeorum/compost_colors/miners_delight.txt"
+hash = "ab32e86ea21133352d8a47189731c5931ceea1a1eba4721a0132651e3bc04f7f"
+
+[[files]]
+file = "config/exdeorum/compost_colors/modonomicon.txt"
+hash = "609be0ff05a75ec971aa81fbf3a339c0fdf2ba9f744746a8df349c55c4a2ba7a"
+
+[[files]]
+file = "config/exdeorum/compost_colors/mynethersdelight.txt"
+hash = "9ac63d2e7cd8f07dfbea7a04b749e2eb8aac8437bd7b4d265db3529bf191a164"
+
+[[files]]
+file = "config/exdeorum/compost_colors/mythicalmetals.txt"
+hash = "dceb331708d686fb92367601d921a24e4a513f847b0cf54308a1fe06aea35166"
+
+[[files]]
+file = "config/exdeorum/compost_colors/nameless_trinkets.txt"
+hash = "3b578612dc8ec881ee1b8e5024553bb8322855940a4ac7a95f6680c18bf05714"
+
+[[files]]
+file = "config/exdeorum/compost_colors/patchouli.txt"
+hash = "de3afbe92225503e9766347cbaf0e0c023ac067ebf2070f70d3df60efb8b534b"
+
+[[files]]
+file = "config/exdeorum/compost_colors/portable_blueprints.txt"
+hash = "bd156e4877d2cfdbe4ad86ba1efc1bd572a475b21e54986a1e8c3e994ac99191"
+
+[[files]]
+file = "config/exdeorum/compost_colors/relics.txt"
+hash = "4d4428ca160d0d84acb49b2a6f4c4db9c1e50cb9e64375860c0794481bb025b8"
+
+[[files]]
+file = "config/exdeorum/compost_colors/scannable.txt"
+hash = "5225af807d955a6bf80c7b81ff8e3f9d6e2b474923a925d3ceedfab4a061254b"
+
+[[files]]
+file = "config/exdeorum/compost_colors/simplehats.txt"
+hash = "fdcb1ca5f1cfd85cb65f589c34c29dfa6c44cae5262e7df7e1d784c8337840ee"
+
+[[files]]
+file = "config/exdeorum/compost_colors/simplyswords.txt"
+hash = "36cb4f59be3c1437e6702dfe2fbd2783b9d988abc7acf8c6101d59e9b4d1bcb2"
+
+[[files]]
+file = "config/exdeorum/compost_colors/solcarrot.txt"
+hash = "98e25498b10b5d7fb0f6b0d81260423943731ea7e286d01caec572649e2f97e3"
+
+[[files]]
+file = "config/exdeorum/compost_colors/storagedrawers.txt"
+hash = "32e9cc8b4d936192d2c9408a26d606b599eee0847464df75cc6fdda28363761c"
+
+[[files]]
+file = "config/exdeorum/compost_colors/tacz.txt"
+hash = "de340d9ad686a4e3e1866598fa262fac84df394c6f83034a7ea25864310a82de"
+
+[[files]]
+file = "config/exdeorum/compost_colors/tconstruct.txt"
+hash = "aa05172f42caeee572ee6830835e80255b8f37e7b9fbf0a846d2198522684587"
+
+[[files]]
+file = "config/exdeorum/compost_colors/tempad.txt"
+hash = "0112002580b7ec8c20b3dcc55548131e295b3478c8b8e46adafb1906717a6278"
+
+[[files]]
+file = "config/exdeorum/compost_colors/theurgy.txt"
+hash = "4d8511baeb79c401aa1f58726c1d38ffef9bcdac740074b4d8d506f2528f0378"
+
+[[files]]
+file = "config/exdeorum/compost_colors/tinkersjewelry.txt"
+hash = "00a771104dde1f1213ded262d794e243286948b5d7dbd08f06d70a4d62b43a6e"
+
+[[files]]
+file = "config/exdeorum/compost_colors/tis3d.txt"
+hash = "486ac3abbf8dfd58f2f17e8c5b5f8724ab1f005cc3f017fe88c2e91ebbbb0cf4"
+
+[[files]]
+file = "config/exdeorum/compost_colors/touhou_little_maid.txt"
+hash = "12538dbf5b0632778bb9504fea5f57603be59ed72955845734391661b9505bef"
+
+[[files]]
+file = "config/exdeorum/compost_colors/travelersbackpack.txt"
+hash = "b21c4029dafbee9cb4882d8cf1b494250733694d643917ec459a7012d40d2a9a"
+
+[[files]]
+file = "config/exdeorum/compost_colors/trinketsandbaubles.txt"
+hash = "ea6c3ca578eb35a6b295c360d55055542ed094cdd8ed2c753bb2324f83498de2"
+
+[[files]]
+file = "config/exdeorum/compost_colors/twilightforest.txt"
+hash = "d07ba679e6f52a1dda3bd6f6b789baa9a79dabf4f7cdb64f4fdb0b0f3f258977"
+
+[[files]]
+file = "config/exdeorum/compost_colors/veggiesdelight.txt"
+hash = "02b72023eb4ad029ab529cb11e7b6d849652343f3cae3d3d228912387328f903"
+
+[[files]]
+file = "config/exdeorum/compost_colors/wands.txt"
+hash = "762ece11efde444c1c33eebdef095063c6cd8a676bff2689eb36873e104d204b"
+
+[[files]]
+file = "config/exdeorum/compost_colors/waystones.txt"
+hash = "332598dbbd14e227b837dfe2b5b3543d2e6c72670db72b32e49091deaa22780a"
+
+[[files]]
+file = "config/exdeorum/compost_colors/witherstormmod.txt"
+hash = "727f6eef1e9fb28b6bc73bc0a62913c27b070fc75b418846a0fdbe4701385f8f"
+
+[[files]]
+file = "config/exdeorum/compost_colors/yungscavebiomes.txt"
+hash = "3325740f27e6c8677c4fb0dff397f06973b4614165c2374311e402246b7abeed"
+
+[[files]]
 file = "config/fallingtrees_client.json"
 hash = "999a84563549e098978ef10d8cc7e3fc5f71145d44095097625154b4de8e73c8"
 
 [[files]]
 file = "config/fallingtrees_common.json"
 hash = "7e55389203c18572491a025db2392fc67ebb4e167a1c617679445210aa88757a"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "76aecd29d065d018c440e93bb107cfbf9793ca73b55e12afab63b17bce25dfb2"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -579,6 +963,10 @@ hash = "1ed9280977d03a3e6d0661ae5c7217b49a4c40e255c88c6811b12b1b28f69ea5"
 [[files]]
 file = "config/forge-client.toml"
 hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
+
+[[files]]
+file = "config/forgivingvoid-common.toml"
+hash = "7d89ab5e6b687ba5fce5f496c2c2a4d7cd2d35075a7755aa9eb3cbffbf6915ba"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -617,6 +1005,182 @@ file = "config/hextweaks.json"
 hash = "466a145e9d94fef2ed66f6620491ad910888e861916894fdd1beab06e37a08bd"
 
 [[files]]
+file = "config/hostilenetworks.cfg"
+hash = "c31c9ea258764811c73095428ec0c20efc27e3d6dd4807ea335996b3aef7ce72"
+
+[[files]]
+file = "config/iceandfire-client.toml"
+hash = "159260e7a82ecd58ab0e08a6f5dd38960eacfcfbd456df8a19d5de433b2ce696"
+
+[[files]]
+file = "config/iceandfire-common.toml"
+hash = "084377f5a7cfbf86d39118eb94334da66a4de11fbd4f1e07e0b88e40bce54db3"
+
+[[files]]
+file = "config/iceandfire/amphithere_biomes.json"
+hash = "8c44f2cf4903712ff88743373cd6893b31226af031f9822ec63ae337abdbb4b0"
+
+[[files]]
+file = "config/iceandfire/cockatrice_biomes.json"
+hash = "d01094612d9d8a48e99809522ff7e009bc1ec7e03a57e0f5f8c9cd51ef44b0bb"
+
+[[files]]
+file = "config/iceandfire/cyclops_cave_biomes.json"
+hash = "0ec4ed27179c0a74651de2fe91cc17024ca05bd598b7f8043ebb794ad6d16a3a"
+
+[[files]]
+file = "config/iceandfire/deathworm_biomes.json"
+hash = "119e3398276786acafe198ebf3fd62d62e0e62e544ec74980c32bf0356c6f0c9"
+
+[[files]]
+file = "config/iceandfire/desert_myrmex_biomes.json"
+hash = "119e3398276786acafe198ebf3fd62d62e0e62e544ec74980c32bf0356c6f0c9"
+
+[[files]]
+file = "config/iceandfire/fire_dragon_biomes.json"
+hash = "0366d55cbee86bf899cd68bee919b8b07f0925a44943a1fab08ffb89505fbeb7"
+
+[[files]]
+file = "config/iceandfire/fire_dragon_cave_biomes.json"
+hash = "0366d55cbee86bf899cd68bee919b8b07f0925a44943a1fab08ffb89505fbeb7"
+
+[[files]]
+file = "config/iceandfire/fire_dragon_skeleton_biomes.json"
+hash = "119e3398276786acafe198ebf3fd62d62e0e62e544ec74980c32bf0356c6f0c9"
+
+[[files]]
+file = "config/iceandfire/fire_lily_biomes.json"
+hash = "0a1b2ea4da236463e214dd7eed0a7837df420c3957ad61434d65995111a67b9a"
+
+[[files]]
+file = "config/iceandfire/forest_troll_biomes.json"
+hash = "071e4cf9db64d5771b17d2487d8229562311c584ce56a824abb478f2cc00a911"
+
+[[files]]
+file = "config/iceandfire/frost_lily_biomes.json"
+hash = "91d500462895af7576de5eb64efd00faed857504f9eefe56cfa418a28ae34001"
+
+[[files]]
+file = "config/iceandfire/gorgon_temple_biomes.json"
+hash = "0ec4ed27179c0a74651de2fe91cc17024ca05bd598b7f8043ebb794ad6d16a3a"
+
+[[files]]
+file = "config/iceandfire/graveyard_biomes.json"
+hash = "44810e5361d38ad87b5028ffaf139832bcbce16c55898de796e79dd86b99d7ab"
+
+[[files]]
+file = "config/iceandfire/hippocampus_biomes.json"
+hash = "e33237977094c9d26012e2a1883c75ff7062ca16d43f2c9a66f4ceb5d92d2fc0"
+
+[[files]]
+file = "config/iceandfire/hippogryph_biomes.json"
+hash = "8a199a14a2abf91b76855781bd37ed146491e896fd05ba714a806bc47b2c1657"
+
+[[files]]
+file = "config/iceandfire/hippogryph_black_biomes.json"
+hash = "c482e650dee2fc71d0ba8726ebea20d78b9e345865449c57d5717ed55af05b37"
+
+[[files]]
+file = "config/iceandfire/hippogryph_brown_biomes.json"
+hash = "a05e7cbe7541bff74314da9b23976b072e727387185840645e60f5eb98e989be"
+
+[[files]]
+file = "config/iceandfire/hippogryph_chestnut_biomes.json"
+hash = "88466c293acef0b7725de96c7d21747948769d2e6b33e952d4c204472c898ecd"
+
+[[files]]
+file = "config/iceandfire/hippogryph_creamy_biomes.json"
+hash = "dd16c76d368fd696927c4d5b5cee80f682c0e7fe057af1a93e6cc9059b5abaab"
+
+[[files]]
+file = "config/iceandfire/hippogryph_dark_brown_biomes.json"
+hash = "a77dad8b397928fb3b1d9b249b586b8103f866790d215b9bed549add0fa6f3db"
+
+[[files]]
+file = "config/iceandfire/hippogryph_gray_biomes.json"
+hash = "dbb0b4d04fe34c05a26f26df87d21967a4f6090670cfd6194e6de9badf254a1b"
+
+[[files]]
+file = "config/iceandfire/hippogryph_white_biomes.json"
+hash = "172c79ed677b97663434c8bd90311802556489bcb8afb5fe246f5c8cac840ea4"
+
+[[files]]
+file = "config/iceandfire/hydra_cave_biomes.json"
+hash = "ae56c23cf566a2fd020dfa6dd2acbbc4ca7770ee98223fd293b0bd0290fd816a"
+
+[[files]]
+file = "config/iceandfire/ice_dragon_biomes.json"
+hash = "31c08e6b056b55ed9afc91ab57f11c8e0806f9d5859886445de0acf5fd35035b"
+
+[[files]]
+file = "config/iceandfire/ice_dragon_cave_biomes.json"
+hash = "31c08e6b056b55ed9afc91ab57f11c8e0806f9d5859886445de0acf5fd35035b"
+
+[[files]]
+file = "config/iceandfire/ice_dragon_skeleton_biomes.json"
+hash = "91d500462895af7576de5eb64efd00faed857504f9eefe56cfa418a28ae34001"
+
+[[files]]
+file = "config/iceandfire/jungle_myrmex_biomes.json"
+hash = "8c44f2cf4903712ff88743373cd6893b31226af031f9822ec63ae337abdbb4b0"
+
+[[files]]
+file = "config/iceandfire/lightning_dragon_biomes.json"
+hash = "65ba1662b1a2c9b6f97c6a0f108ee1d1d0e928226d7fc1a05634e0a55329bbbf"
+
+[[files]]
+file = "config/iceandfire/lightning_dragon_cave_biomes.json"
+hash = "65ba1662b1a2c9b6f97c6a0f108ee1d1d0e928226d7fc1a05634e0a55329bbbf"
+
+[[files]]
+file = "config/iceandfire/lightning_dragon_skeleton_biomes.json"
+hash = "d01094612d9d8a48e99809522ff7e009bc1ec7e03a57e0f5f8c9cd51ef44b0bb"
+
+[[files]]
+file = "config/iceandfire/lightning_lily_biomes.json"
+hash = "d01094612d9d8a48e99809522ff7e009bc1ec7e03a57e0f5f8c9cd51ef44b0bb"
+
+[[files]]
+file = "config/iceandfire/mausoleum_biomes.json"
+hash = "183480a63bca5a487b31b28b0ec742fb21f3115a6a1de2f38f0f6daf81d46e3e"
+
+[[files]]
+file = "config/iceandfire/mountain_troll_biomes.json"
+hash = "a05e7cbe7541bff74314da9b23976b072e727387185840645e60f5eb98e989be"
+
+[[files]]
+file = "config/iceandfire/ore_gen_biomes.json"
+hash = "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402"
+
+[[files]]
+file = "config/iceandfire/pixie_village_biomes.json"
+hash = "f363deb6b29d728bacaaf301fa456a393f8ce0498bde963884368956eb42ffdb"
+
+[[files]]
+file = "config/iceandfire/sapphire_gen_biomes.json"
+hash = "91d500462895af7576de5eb64efd00faed857504f9eefe56cfa418a28ae34001"
+
+[[files]]
+file = "config/iceandfire/sea_serpent_biomes.json"
+hash = "e33237977094c9d26012e2a1883c75ff7062ca16d43f2c9a66f4ceb5d92d2fc0"
+
+[[files]]
+file = "config/iceandfire/siren_biomes.json"
+hash = "e33237977094c9d26012e2a1883c75ff7062ca16d43f2c9a66f4ceb5d92d2fc0"
+
+[[files]]
+file = "config/iceandfire/snowy_troll_biomes.json"
+hash = "7b0d7d7459b06d0f5a01e0d3cb803d534f9b654ad3b4d9e336f0f50fbe06f4d7"
+
+[[files]]
+file = "config/iceandfire/stymphalian_bird_biomes.json"
+hash = "ae56c23cf566a2fd020dfa6dd2acbbc4ca7770ee98223fd293b0bd0290fd816a"
+
+[[files]]
+file = "config/iceandfire/wandering_cyclops_biomes.json"
+hash = "46fb4b80eb9d9667223509ea17aa4b5aa65851f3cb09c09886d6b9dde1a63601"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
@@ -627,6 +1191,10 @@ hash = "7e934f3c7ff3beaeb73d7242b68467fc62b779827c9cd3a79736fe79c93d4aec"
 [[files]]
 file = "config/inline/client-config.toml"
 hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
+
+[[files]]
+file = "config/irons_spellbooks-client.toml"
+hash = "caffa7c0a2593e7b4a165e8b540b4ab236a75c4ddab74c7bb56cf210c1662f43"
 
 [[files]]
 file = "config/iswydt.json"
@@ -685,6 +1253,10 @@ file = "config/leavesbegone-server.toml"
 hash = "5461ea48b86cd51ac9a218ac6a7ecc32cf4c4fb0acc70c68de4329766027ca15"
 
 [[files]]
+file = "config/lexiconfig.toml"
+hash = "fea8c9d171d2e4f1d336b483cebcafa519ace35918b4d873b3a84d1b9c14a494"
+
+[[files]]
 file = "config/lootintegrations.json"
 hash = "dd3c6a38c7c4992bb3c0bd41cccacab7c8d2e8b4297630e5b36a24e7d15a099c"
 
@@ -703,6 +1275,10 @@ hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 [[files]]
 file = "config/mahoutsukai-client.toml"
 hash = "8afbeb48cf77bda81a5aceeef89aae3594463735c5f9a64105d9d864e369f415"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
 
 [[files]]
 file = "config/megacells.json"
@@ -1413,6 +1989,14 @@ file = "config/tacz-common.toml"
 hash = "424206898579a76a44e57c9b23d24e5e441c3bf1e22e1944dfaef4794a5bf68f"
 
 [[files]]
+file = "config/tconstruct-client.toml"
+hash = "3ecfa54cbc0af2455ec7bd01670da92972d0ef341b442ea303242fb95bad7883"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "d180f1d14f5e848b68bf798aa6c46efb99074d15ae7c4532490e786f4049347c"
+
+[[files]]
 file = "config/tempad-client.jsonc"
 hash = "d56d8431a85eeabaa8007550f4557112b813922a9036414cb6eea11fefd753ae"
 
@@ -1427,6 +2011,10 @@ hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 [[files]]
 file = "config/theurgy-client.toml"
 hash = "7d5cc00c70fa3acd9620729c2a4d0812de7472ec70884be58bfe4dda8ea629fc"
+
+[[files]]
+file = "config/tinkersleveling-common.toml"
+hash = "943ec0e303c92cfdb8c979b053ddcc1de6b8e74ebe27593c12b82cc7063cb4a1"
 
 [[files]]
 file = "config/tis3d-client.toml"
@@ -1475,6 +2063,46 @@ hash = "77e7aacadc5d425ebe3f19b78bb8af526a589134877c8406244a52108c4697a0"
 [[files]]
 file = "config/twilightforest-common.toml"
 hash = "ae4d9b6a2f63f37de7630a0bc4333e3ab682a6fa713347dae899ffe512a6b9f5"
+
+[[files]]
+file = "config/veggiesdelight-common.toml"
+hash = "31d249708bc2999f486e89315f4e7f58a6ff59485f9301a85f257ce5342bcc86"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "fed7f3f88669d6a58dd87f374617203abb8545f1ffd0d6c714a46056724c93cd"
+
+[[files]]
+file = "config/veinmining-common.toml"
+hash = "c493a98b3c92e0f7439306ea7fccc127d9f14aa3dfae7ad6264eccbcb49a14c8"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "1d5376cd81dc771256a70ef2e01a8dc11823a4848c9d243adf129a2fb8b093be"
+
+[[files]]
+file = "config/vminus-common.toml"
+hash = "8b63280c0b50e9dec13f6612940e1c849f3a6cf0d9091dfaf76645f96e0ba31a"
+
+[[files]]
+file = "config/voicechat-client.toml"
+hash = "366f0ef6b5ef068aa1e5ef636fa2ec723803b8bcf1b200f958ac99ec21edde72"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "dd2c4cabb189a14ab9de0c0e145fa33c7f44f8f33687dc787a487cae94a1253f"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "113c58beef075e2ea9af1491fa2a35b12419806462dd91c5436ad3677e4d1b4b"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+hash = "33afebdb8ef07a3d774086931dec8d899f4da7aeba5b448fd4eee540ba5e02a2"
 
 [[files]]
 file = "config/wands.json"

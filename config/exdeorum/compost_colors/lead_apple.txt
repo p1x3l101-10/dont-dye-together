@@ -1,0 +1,11 @@
+// Compost colors for lead_apple. You may add your own colors, change existing ones, or remove colors that aren't needed.
+brass_apple, #ffbe78
+burntapple, #322f33
+copperapple, #e6966e
+deshapple, #c26b4a
+iron_apple, #c9c9c9
+lead_apple, #aacddc
+osmium_apple, #a4bbe1
+tinapple, #e8eaee
+uranium_apple, #bbfbab
+zinc_apple, #9ec9b2

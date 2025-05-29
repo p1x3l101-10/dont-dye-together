@@ -1,0 +1,4 @@
+// Compost colors for astolfoforge. You may add your own colors, change existing ones, or remove colors that aren't needed.
+astolfo_flower, #ffffff
+astolfo_item, #ffede6
+monster_white, #ffffff

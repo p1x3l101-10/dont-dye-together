@@ -1,0 +1,5 @@
+// Compost colors for lemoned. You may add your own colors, change existing ones, or remove colors that aren't needed.
+lemon, #ffff0c
+lemon_seeds, #fffab8
+lemon_slice, #ffff7a
+lemonade, #ffff83

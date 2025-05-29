@@ -1,0 +1,3 @@
+// Compost colors for create_wizardry. You may add your own colors, change existing ones, or remove colors that aren't needed.
+conjuration_contraption, #b2d6ff
+unfinished_conjuration_contraption, #b2d7ff

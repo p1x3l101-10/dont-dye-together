@@ -1,0 +1,7 @@
+// Compost colors for createimmersivetacz. You may add your own colors, change existing ones, or remove colors that aren't needed.
+gunpowder_bucket, #a1a1a1
+nitropowder_bucket, #aca7a5
+pneumatic_pistol_casing, #9b755c
+rimmed_blunt_ap_casing, #aa8362
+slap_casing, #a27a5c
+twelve_gauge_shell, #b47fa5
