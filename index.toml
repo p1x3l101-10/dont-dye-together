@@ -1998,11 +1998,6 @@ hash = "5a7363ab262de59903e8fdefbc53eb0430f8ef38c375303c77d8f86091e93c2a"
 metafile = true
 
 [[files]]
-file = "mods/ex-machinis.pw.toml"
-hash = "ee5c7f7f104e574bce6aac102940d73090d769692e98a86c45d99c64468627b3"
-metafile = true
-
-[[files]]
 file = "mods/ex-nihilo-additions.pw.toml"
 hash = "8f53b320295e6da68225d9dc0bd75fe479bfd356e4b95c9014b7cd06fe7832a6"
 metafile = true
