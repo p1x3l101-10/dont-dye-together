@@ -1688,6 +1688,11 @@ hash = "8a8d5173c74824a1ae312d7a22e3fc6a5a3312e48f034f2be83ee345e749eda3"
 metafile = true
 
 [[files]]
+file = "mods/bonsai-trees.pw.toml"
+hash = "694d0fe5649b4ab9d79467c39afaad93d346f9654be4d26215debef08363d5fb"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
@@ -2170,6 +2175,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "2fe035d044b3e5dce762b626a79c01071cb0da962d138b75a604c979fbe8a7aa"
+metafile = true
+
+[[files]]
+file = "mods/libnonymous.pw.toml"
+hash = "f0965cdc5cdb353d94bf0ad135e716c3c1e54cc389255b0be8830de07b95a4ba"
 metafile = true
 
 [[files]]
