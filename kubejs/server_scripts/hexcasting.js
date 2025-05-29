@@ -2,9 +2,9 @@ ServerEvents.recipes(event => {
     event.shaped(
         Item.of('hexcasting:charged_amethyst'),
         [
-            'AAA',
-            'AAA',
-            'AAA'
+            'A  ',
+            '   ',
+            '  A'
         ],
         {
             A: 'minecraft:amethyst_block'
