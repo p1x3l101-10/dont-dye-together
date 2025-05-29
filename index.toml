@@ -369,6 +369,10 @@ file = "config/copycats-common.toml"
 hash = "621a81b4af985c6995e125a9f7fdf175378202f3341ada18c7a59bf9a03230e1"
 
 [[files]]
+file = "config/copycats-server.toml"
+hash = "619c20b9ffa6c656e1885224c9ea1b3e377f140fce3814e6602d1e82f9621224"
+
+[[files]]
 file = "config/cosmeticarmorreworked-client.toml"
 hash = "000b9988ecbe8b294dc3577d1867b09954e237775b3a252af45df0b4cb2c591c"
 
@@ -417,6 +421,10 @@ file = "config/create-common.toml"
 hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "c5b566c826e784aee195d0b9213936668d65ecdd43b466cfc7f72230ecf19c25"
+
+[[files]]
 file = "config/create-stuff-additions.toml"
 hash = "634d2da58fa62a816f7c8bc56d728a0e40df826071ce6f005feb2a2bf9f5927d"
 
@@ -453,12 +461,20 @@ file = "config/createdieselgenerators-common.toml"
 hash = "aad3293f3638d91d66fc1225a2f0678dca4801784fd17d43e6920e3d588e8f76"
 
 [[files]]
+file = "config/createdieselgenerators-server.toml"
+hash = "6f89d13e05d3b479d1141f29abb647f3340c5abdadfaa100e193268550005ef3"
+
+[[files]]
 file = "config/createimmersivetacz-common.toml"
 hash = "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6"
 
 [[files]]
 file = "config/createoreexcavation-common.toml"
 hash = "dcd212e6fc8f5a0ec5f7be4c8f4cf7916ddf4bb4c0d082401ed7dda4371055ca"
+
+[[files]]
+file = "config/createoreexcavation-server.toml"
+hash = "a9cd7df3eec259be31fa36c303215275bd21c2cc61f3bf2f6f12f79716b8603f"
 
 [[files]]
 file = "config/cupboard.json"
@@ -471,6 +487,10 @@ hash = "3903cd1fcf402a8c155f21bb581eb78d26e067537cb8af0b24bb8b8be63b3b30"
 [[files]]
 file = "config/curios-common.toml"
 hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "c6b3ceb80bb8fba4e7956961abc063e76eb399a098d4227061afd540c1c3a72f"
 
 [[files]]
 file = "config/de/mari_023/ae2wtlib.json5"
@@ -505,8 +525,24 @@ file = "config/doggytalents-client.toml"
 hash = "1e8374cf7bcb2f5b595f027cf90e068f845717577ec2b1ebde871fb73ce5d688"
 
 [[files]]
+file = "config/doggytalents-dog_custom_skins.toml"
+hash = "fae80e24738b0f12d073938fd82d40c2a783bf590775e5807035a0b6d37bace8"
+
+[[files]]
 file = "config/doggytalents-dog_custom_skins_client.toml"
 hash = "8278a95f30d689fd673b21857d3f7e1895e3afa10911f34657c4daf6e395a1cf"
+
+[[files]]
+file = "config/doggytalents-respawn_tags_to_remove.toml"
+hash = "dacc2354c4e1457b0ba0b4e407b310fd94f65a048f5d64f726c3e70426321db5"
+
+[[files]]
+file = "config/doggytalents-server.toml"
+hash = "562b1168958ad0947cc165beae005d7614a2ace52feb311d14f6d0b6d6950453"
+
+[[files]]
+file = "config/doggytalents-talents.toml"
+hash = "fb4e2314bcbe6c0759e88523b882b19356f48bfac4cade115c7d5bcb6c686100"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -553,8 +589,16 @@ file = "config/easy_mob_farm/requires_killed_by_player.cfg"
 hash = "71da31f1c3ddf5e7692c901fcb475ae9d47f602aca2b6ce8b78b9ecf0be2398f"
 
 [[files]]
+file = "config/easy_piglins-server.toml"
+hash = "07b7089cfd22bfa6396fde7cc40ec3456f7bdf22726260ef1c8ee9d9d18bcab2"
+
+[[files]]
 file = "config/easy_villagers-client.toml"
 hash = "ad9dd91707cff2cace17bc6cdde229e8cc98488016d18078d95bc33f01610568"
+
+[[files]]
+file = "config/easy_villagers-server.toml"
+hash = "2f15b29e6f1ee5ac3e7cc7e70a0bcf5ffe26d137a4bee4ce917d0e6bc267251b"
 
 [[files]]
 file = "config/easyanvils-client.toml"
@@ -965,12 +1009,24 @@ file = "config/forge-client.toml"
 hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
 
 [[files]]
+file = "config/forge-server.toml"
+hash = "56196ac767c162f0c40e1d1bdcd088c94fd558302532927da36d57b96294f8f7"
+
+[[files]]
 file = "config/forgivingvoid-common.toml"
 hash = "7d89ab5e6b687ba5fce5f496c2c2a4d7cd2d35075a7755aa9eb3cbffbf6915ba"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "34b2ef94b8ca13619e341ca9250bfda910d5b7ab454de589cb8bc226383e795e"
+
+[[files]]
+file = "config/ftbchunks-world.snbt"
+hash = "61e38d9ca9c596bbde8ff9e6aa048cc8143666c885eca5315c2a6586979e71b6"
+
+[[files]]
+file = "config/ftbultimine-server.snbt"
+hash = "aec5fc83dc4fc68eac187ece56b73922b2a4ba8703d768f4a4b857b5b4f0d0db"
 
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
@@ -995,6 +1051,10 @@ hash = "17031e67a6bd3e638a3247663b774e47ce8d0b69ff6f1772aca7d3e371a1758b"
 [[files]]
 file = "config/hexcasting-common.toml"
 hash = "5684dc1338494ca6ca7628cde1333f0dffa4e1648b454099de60d454fd75457a"
+
+[[files]]
+file = "config/hexcasting-server.toml"
+hash = "f23caeeda0f4326a1bea28a9709adeae822402cb6f228b9e811ee3e5cb5afdda"
 
 [[files]]
 file = "config/hexparse-common.toml"
@@ -1245,6 +1305,10 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "120729e7eace8e127c304f8208fc3886901ab6465240f9b0fc3dd8309c81d2ea"
 
 [[files]]
+file = "config/journeymap-server.toml"
+hash = "5fb156cda3c472d60eca6603589468873c5e1d0f6676009d4333793af6ae5855"
+
+[[files]]
 file = "config/leavemybarsalone-client.toml"
 hash = "9dfbbd0cc7639bb797cd4b529434e4cb8cdabb8e34f6dc579429fb48427198b0"
 
@@ -1275,6 +1339,10 @@ hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 [[files]]
 file = "config/mahoutsukai-client.toml"
 hash = "8afbeb48cf77bda81a5aceeef89aae3594463735c5f9a64105d9d864e369f415"
+
+[[files]]
+file = "config/mahoutsukai-server.toml"
+hash = "01ab07a10bf25826ca3a16efa5b43900b9088b41bbf873ce7b4515930eb3d584"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -1777,6 +1845,10 @@ file = "config/pehkui-common.toml"
 hash = "e9a129d0a2dbf13d36d4f3e47ae3b2b01d32a9e872a771633bf356d9cdebc895"
 
 [[files]]
+file = "config/pehkui-server.toml"
+hash = "49b41d5e78996c4746d2a896c8b81891610ef2328e05184c69ab66730d1f873b"
+
+[[files]]
 file = "config/piggyback.toml"
 hash = "1cb16145c2bcb0e027f9a6401540948cce3f77391f3a42f8422b266ebefec510"
 
@@ -2001,6 +2073,10 @@ file = "config/solcarrot-client.toml"
 hash = "90b11bf7fe7bbf30c05728f2d4bdc51d49138c30359feb6261c6e7f5f04245ee"
 
 [[files]]
+file = "config/solcarrot-server.toml"
+hash = "f59de95ae16736765dd61df2cccf6fc9e6e110f823b26a95d1d4ee363d3cd5ee"
+
+[[files]]
 file = "config/storagedrawers-client.toml"
 hash = "9278e868cee8fe35e0c0bae950a26329d85580d91841b42ea1b0d04fb4d0ad2f"
 
@@ -2071,6 +2147,10 @@ hash = "ecf2fb6c4e15acc95e87006e591a2a7c36cbca1fc3ae73571fe91948f0ba4dd4"
 [[files]]
 file = "config/travelersbackpack-common.toml"
 hash = "733353e0636d3d789a432d75cd7165afee007fd6a4bd7fe8793ad5087104300a"
+
+[[files]]
+file = "config/travelersbackpack-server.toml"
+hash = "e9933e720510cf05b480c3e1df69af285805c5192df0dac2f255772cc46b47d4"
 
 [[files]]
 file = "config/trinketsandbaubles-common.toml"
@@ -2167,86 +2247,6 @@ hash = "08ad7492a4046dc82c3bfed73734f89dc0cd32a74ea75feab27af7dc65e5983a"
 [[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
-
-[[files]]
-file = "defaultconfigs/copycats-server.toml"
-hash = "619c20b9ffa6c656e1885224c9ea1b3e377f140fce3814e6602d1e82f9621224"
-
-[[files]]
-file = "defaultconfigs/create-server.toml"
-hash = "c5b566c826e784aee195d0b9213936668d65ecdd43b466cfc7f72230ecf19c25"
-
-[[files]]
-file = "defaultconfigs/createdieselgenerators-server.toml"
-hash = "6f89d13e05d3b479d1141f29abb647f3340c5abdadfaa100e193268550005ef3"
-
-[[files]]
-file = "defaultconfigs/createoreexcavation-server.toml"
-hash = "a9cd7df3eec259be31fa36c303215275bd21c2cc61f3bf2f6f12f79716b8603f"
-
-[[files]]
-file = "defaultconfigs/curios-server.toml"
-hash = "c6b3ceb80bb8fba4e7956961abc063e76eb399a098d4227061afd540c1c3a72f"
-
-[[files]]
-file = "defaultconfigs/doggytalents-dog_custom_skins.toml"
-hash = "fae80e24738b0f12d073938fd82d40c2a783bf590775e5807035a0b6d37bace8"
-
-[[files]]
-file = "defaultconfigs/doggytalents-respawn_tags_to_remove.toml"
-hash = "dacc2354c4e1457b0ba0b4e407b310fd94f65a048f5d64f726c3e70426321db5"
-
-[[files]]
-file = "defaultconfigs/doggytalents-server.toml"
-hash = "562b1168958ad0947cc165beae005d7614a2ace52feb311d14f6d0b6d6950453"
-
-[[files]]
-file = "defaultconfigs/doggytalents-talents.toml"
-hash = "fb4e2314bcbe6c0759e88523b882b19356f48bfac4cade115c7d5bcb6c686100"
-
-[[files]]
-file = "defaultconfigs/easy_piglins-server.toml"
-hash = "07b7089cfd22bfa6396fde7cc40ec3456f7bdf22726260ef1c8ee9d9d18bcab2"
-
-[[files]]
-file = "defaultconfigs/easy_villagers-server.toml"
-hash = "2f15b29e6f1ee5ac3e7cc7e70a0bcf5ffe26d137a4bee4ce917d0e6bc267251b"
-
-[[files]]
-file = "defaultconfigs/forge-server.toml"
-hash = "56196ac767c162f0c40e1d1bdcd088c94fd558302532927da36d57b96294f8f7"
-
-[[files]]
-file = "defaultconfigs/ftbchunks-world.snbt"
-hash = "61e38d9ca9c596bbde8ff9e6aa048cc8143666c885eca5315c2a6586979e71b6"
-
-[[files]]
-file = "defaultconfigs/ftbultimine-server.snbt"
-hash = "aec5fc83dc4fc68eac187ece56b73922b2a4ba8703d768f4a4b857b5b4f0d0db"
-
-[[files]]
-file = "defaultconfigs/hexcasting-server.toml"
-hash = "f23caeeda0f4326a1bea28a9709adeae822402cb6f228b9e811ee3e5cb5afdda"
-
-[[files]]
-file = "defaultconfigs/journeymap-server.toml"
-hash = "5fb156cda3c472d60eca6603589468873c5e1d0f6676009d4333793af6ae5855"
-
-[[files]]
-file = "defaultconfigs/mahoutsukai-server.toml"
-hash = "01ab07a10bf25826ca3a16efa5b43900b9088b41bbf873ce7b4515930eb3d584"
-
-[[files]]
-file = "defaultconfigs/pehkui-server.toml"
-hash = "49b41d5e78996c4746d2a896c8b81891610ef2328e05184c69ab66730d1f873b"
-
-[[files]]
-file = "defaultconfigs/solcarrot-server.toml"
-hash = "f59de95ae16736765dd61df2cccf6fc9e6e110f823b26a95d1d4ee363d3cd5ee"
-
-[[files]]
-file = "defaultconfigs/travelersbackpack-server.toml"
-hash = "e9933e720510cf05b480c3e1df69af285805c5192df0dac2f255772cc46b47d4"
 
 [[files]]
 file = "kubejs/server_scripts/endcake.js"
@@ -2799,6 +2799,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
+metafile = true
+
+[[files]]
+file = "mods/global-server-config.pw.toml"
+hash = "c4b391ce90073709174f6da82a0d22ac32d4ac53b4aa536309742c9d94d409d7"
 metafile = true
 
 [[files]]
