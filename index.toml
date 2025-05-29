@@ -2032,6 +2032,11 @@ hash = "51af4a776fd62c9349329b2b13e0c29f80f5d728bba7afce35e512dcf6f10beb"
 metafile = true
 
 [[files]]
+file = "mods/figurasvc.pw.toml"
+hash = "e341a6a6e00cb81bd5b9e16af4b93940e921409e9341c26d986732dfe6641827"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "6c0878da1c77010a82d253bd6ec8ac3aecb39fa730c39f8a69ebbecba18397c1"
 metafile = true
@@ -2199,6 +2204,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "2fe035d044b3e5dce762b626a79c01071cb0da962d138b75a604c979fbe8a7aa"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
 
 [[files]]
@@ -2402,6 +2412,11 @@ hash = "afe530f500b2a09b034b65c94e71aa3efd36e03951dc4201b51411acdc4e22f2"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "34e036f376828c9ddb96fdd42f11603dca88a735bf59ae8f609850aea3a67d68"
+metafile = true
+
+[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "3366f09a8766737bf373e8db92e304be79378c90d198af89a048aa97340a66a5"
 metafile = true
@@ -2534,6 +2549,11 @@ metafile = true
 [[files]]
 file = "mods/twerk-crop-growth.pw.toml"
 hash = "2d4398c52d6ef49c330ccc6eaa19be7b5f7e796a076625f9941a37f3ce7299ab"
+metafile = true
+
+[[files]]
+file = "mods/vibrative-voice.pw.toml"
+hash = "5194dedc1d09130cf3635ea8f32e8d95ce0615d08d9c60006ec94e512a01eb46"
 metafile = true
 
 [[files]]
