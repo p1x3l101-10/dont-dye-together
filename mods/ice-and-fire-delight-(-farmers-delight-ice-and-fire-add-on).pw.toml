@@ -1,0 +1,13 @@
+name = "Ice and Fire Delight ( Farmer's Delight & Ice and Fire Add-on)"
+filename = "ice_and_fire_delight-1.1.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/35MH7Q1p/versions/mTDoejmF/ice_and_fire_delight-1.1.5-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "356af9d1789c3db4af2efdd1efc3ea2b04763ec9b8733b1979c6ad533023e2882ff34412f90deae40f8af22827a46edee264ed95870147c5f31bbec2cbc3a5cd"
+
+[update]
+[update.modrinth]
+mod-id = "35MH7Q1p"
+version = "mTDoejmF"

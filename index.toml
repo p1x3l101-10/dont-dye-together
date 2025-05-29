@@ -1742,6 +1742,11 @@ hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "c122e1213dd6d4004e263a2b36dea1e701c9e2179c9496b279bc07e4e533f263"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -1859,6 +1864,11 @@ metafile = true
 [[files]]
 file = "mods/create-waystones-recipes.pw.toml"
 hash = "a6eef0e06f73c29b012b85d69f696b974404ddb3b32efaa60de509a802f411b4"
+metafile = true
+
+[[files]]
+file = "mods/create-wizardry.pw.toml"
+hash = "55e67c679e9822614a6e27896561ad7da6e1372a53876fdf497a971794f0eb3a"
 metafile = true
 
 [[files]]
@@ -1992,6 +2002,11 @@ hash = "885b411d5b49cb42c72510a507e1ac8fbfb8d87b8b86b11e756141aabfcfb24b"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "fa850261b29dc5a7668db0b23c5d23a3f7034097124240289fa7bc805fbc1b5e"
+metafile = true
+
+[[files]]
 file = "mods/endremastered.pw.toml"
 hash = "79bd2ac188e7ad4b6f3775115cc9cc6be2611447aeebe74cf809fa82cc3a22b3"
 metafile = true
@@ -2019,6 +2034,16 @@ metafile = true
 [[files]]
 file = "mods/faewulfslib.pw.toml"
 hash = "4c45739548b38570fb490eaeae37c1c6ef90ba657c18138554a0230ac7f9c455"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-compat.pw.toml"
+hash = "fb239dd1128b43d8a3bb07c93d7217800acb99d0c361adf62729d9a868c44870"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
 
 [[files]]
@@ -2132,6 +2157,16 @@ hash = "aad1b0679d0811905beac3ac404e4104015249c513714ac1bf71f37417e43cb3"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-delight-(-farmers-delight-ice-and-fire-add-on).pw.toml"
+hash = "cb120b8ec7d687451a5230851180f821bc164a2ae3e8a9beb3b205cb19038a05"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "3e8cbae6a944592a6485b8c5e62b0794fe950ba8a6b155302d08f4205b9ad9b3"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c0452b2f93522355316fb71583e6d4bb3c44aeada9d20eb8fb7b71bc8d7114c0"
 metafile = true
@@ -2154,6 +2189,16 @@ metafile = true
 [[files]]
 file = "mods/ioticblocks.pw.toml"
 hash = "fcc06536bbba1f535850aa6c53f53f36d8c7ee4f281998c8ce3e4f8a0e658400"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "d8c354de7ab3aef949b8f8598ae57f07f1a38711d99588f27b93c1af93a14fba"
+metafile = true
+
+[[files]]
+file = "mods/isskjs.pw.toml"
+hash = "0f5a3a59db917b1ce62cc1341bd9fa6e24427c32869978429e35b98a8c3e23dd"
 metafile = true
 
 [[files]]
@@ -2207,6 +2252,11 @@ hash = "2fe035d044b3e5dce762b626a79c01071cb0da962d138b75a604c979fbe8a7aa"
 metafile = true
 
 [[files]]
+file = "mods/lemoned-(farmers-delight).pw.toml"
+hash = "500b750bbe9ca8dfcebc87c4a2537b45d1456478f3ae15fa704a367b6f51e227"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "471f6366615d29246e35c3193359ea479925ad98eb2beb1d59f0647f9896df3d"
 metafile = true
@@ -2247,6 +2297,11 @@ hash = "5484199188faa47cc9183f2c0bbe1af916f2d923b042807a13e37c52d75c0063"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "15aa420ec9cf1482e0bcce52197f1f7f6208a3fead0dfabbdf655e122494040f"
+metafile = true
+
+[[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
 metafile = true
@@ -2272,6 +2327,11 @@ hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
 metafile = true
 
 [[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
+metafile = true
+
+[[files]]
 file = "mods/mini-clock-tower.pw.toml"
 hash = "4c4bf1478401c08cca0381fcac772581442767cf7cc0fe451ed8808878ee296a"
 metafile = true
@@ -2294,6 +2354,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "63721f91e34bd6cdbbfa0c22b6d868e4dbb3c33d683e0dabef2cd79fd2000b4c"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "019b1fc9ddc90219203532bf68538e1f1b2487599c6c9b9a3a074df0abd66b48"
 metafile = true
 
 [[files]]
@@ -2363,7 +2428,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "d33813498ae4394e3cf2dfafc8c4713f894f36e7d6bc74c3c5d3ef517863f3a3"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
@@ -2502,6 +2567,26 @@ hash = "9f929b5bf57a5983fca9def659ef87ef7cca7e8a2f3727c4d3139dc1ed9cbf90"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5faff2689a31c0e16d05b9b4cc359394ff4b398b194cb0d1334753d1216c8d85"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jewelry.pw.toml"
+hash = "7b548c054dbd372a255f8cc77e5faf3e06f1f9293d0be7b1359e74e9bec06a80"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-tool-leveling-2.pw.toml"
+hash = "64a5a25d8b3a4f13bbaf72f6fe861f6131289de3ae48519d1d96e02b1be38af7"
+metafile = true
+
+[[files]]
+file = "mods/tinkers_vein_miner.pw.toml"
+hash = "c69e35a2b19e0c15c93cf86afb6700713d095a7f1d5282e618fae03305870233"
+metafile = true
+
+[[files]]
 file = "mods/tis-advanced.pw.toml"
 hash = "44b4f8bf0a8c39fdfa56a03ab8facbbca41bcbfbf5ac96243d1f947d019d3564"
 metafile = true
@@ -2552,8 +2637,23 @@ hash = "2d4398c52d6ef49c330ccc6eaa19be7b5f7e796a076625f9941a37f3ce7299ab"
 metafile = true
 
 [[files]]
+file = "mods/veggies-delight.pw.toml"
+hash = "197d53fd0c171ef70111b252b0685c7fc6bc8145f1d4dea969940d7db1f67083"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "9995c722c5e91bfa41786168d0079ffd7dd885547995feca54e8790807886603"
+metafile = true
+
+[[files]]
 file = "mods/vibrative-voice.pw.toml"
 hash = "5194dedc1d09130cf3635ea8f32e8d95ce0615d08d9c60006ec94e512a01eb46"
+metafile = true
+
+[[files]]
+file = "mods/vminus.pw.toml"
+hash = "1bb99f86c3352e98cddc7609347eee315fa387d84b5148166505ad212408d116"
 metafile = true
 
 [[files]]

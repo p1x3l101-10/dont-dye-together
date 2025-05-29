@@ -1,0 +1,13 @@
+name = "Lemoned (Farmer's Delight)"
+filename = "lemoned-1.0.1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mMWP2E2k/versions/EKHnzO6k/lemoned-1.0.1-1.20.jar"
+hash-format = "sha512"
+hash = "3bed88532dfd30aa02ff81d2e880af99261b9058fba9bcb110d9fc72b8bd2714aa1a6665b389cc7193c4350acdd1b45bf0b778a29b93f577a678e261945625c7"
+
+[update]
+[update.modrinth]
+mod-id = "mMWP2E2k"
+version = "EKHnzO6k"

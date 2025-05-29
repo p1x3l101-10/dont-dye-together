@@ -1,0 +1,13 @@
+name = "Veggies Delight (A Farmer's Delight Add-on)"
+filename = "veggiesdelight-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/emQ94xri/versions/rJ2dIeVK/veggiesdelight-1.7.2.jar"
+hash-format = "sha512"
+hash = "0f870a09a0fc5e7f612700c4bd6872f8f377ec6f249cc2ae56c2852b5506bfda411ad45f342aedf37da13ef9176e6445657b4ab6d771c6159ca24982250bc152"
+
+[update]
+[update.modrinth]
+mod-id = "emQ94xri"
+version = "rJ2dIeVK"
