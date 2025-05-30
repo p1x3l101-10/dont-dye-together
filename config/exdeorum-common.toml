@@ -6,7 +6,7 @@
 	#If the Void World type is selected, whether the Nether world generation is overridden to a void world. Changes take effect after reopening the world.
 	void_nether_generation = true
 	#If the Void World type is selected, whether the End world generation is overridden to a void world. Changes take effect after reopening the world.
-	void_end_generation = true
+	void_end_generation = false
 
 	#For recipes automatically added by Ex Deorum for other mods, some mods may add two of the same item (ex. Tin Ore). When Ex Deorum adds a recipe for those kinds of items, you may choose which item of the two (or more) is chosen as the crafting result.
 	[common.preferred_tag_items]
