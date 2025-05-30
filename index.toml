@@ -2005,6 +2005,106 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/dye_scroll_dye.mcfunction"
+hash = "02736469dc40c194432eafb070d6b1651de00bb242acc320531d01d1e5d28baa"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/load.mcfunction"
+hash = "44e86224817df9bc74dfbcd2c84bbe560bffc6f9fb1286a400db806667aafda3"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/scroll_decrement.mcfunction"
+hash = "c6b86ccfd60035c2f8ff332a8bcd946821ee34738626b3e40ac7abd802530931"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/scroll_dye_check.mcfunction"
+hash = "a66d2ac46fccf946efdc33386532f7273816ddf43961c1ca5200857b6302d8f4"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/scroll_dye_step.mcfunction"
+hash = "80935045f908e3fe81c99a3fe5f84254ab5acc093b20b2371f3a27955ce10fd1"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/scroll_find.mcfunction"
+hash = "566cc5798f6ebda7ae24e1040d0783bd9db50b761f7fa781aa74b6ca08f0d2c7"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/scroll_find_2.mcfunction"
+hash = "65d4904e3ee55cdde45216d50acb53102c8692bd55b815a56a2380cf73833009"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/scroll_undye_check.mcfunction"
+hash = "d1f60379ec2ec2f7a6d732c48747130391f4cc869195b4510e0411915788494e"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/scroll_undye_step.mcfunction"
+hash = "2ec2944f17bb9b9611af1c274a4eb6a1ee41f6478a5c93d384443bf98d368eb0"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/tick.mcfunction"
+hash = "7686053b845c72c0235a0514ad185b6f2de1df7bc934472e836afb3d69d3ae40"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/hexscrolldye/functions/undye_scroll_undye.mcfunction"
+hash = "7e0f8c06bd54e47fb95cf8cba1e4301f430a34344e83d11a5a287ccaafaefeb7"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/minecraft/tags/functions/load.json"
+hash = "4f3b80e1aed73e1fdfbd7f06115ea706bb73d8eee38d958e25bd60e3e3d8443b"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/data/minecraft/tags/functions/tick.json"
+hash = "65bb49fd90f4e01f0c54fd98f87ef6b8ef72e12a04d31eb66c407c341847b4e5"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/pack.mcmeta"
+hash = "17389fefd4e618b28ae1345067e9eb586a3481cd389c2537105e4b83561b9765"
+
+[[files]]
+file = "config/paxi/datapacks/HexScrollDye/readme.md"
+hash = "742d2afa37b5b682a91e5d37552f5e52e019dadfb7f9ec89b83ad71c15093ab5"
+
+[[files]]
+file = "config/paxi/datapacks/InformationTrinkets/data/trinkets/entities/enable_slots.json"
+hash = "8b6a76a52fd97196f9fc199c3e1d45885aec16421fd3f233739954f8214b7588"
+
+[[files]]
+file = "config/paxi/datapacks/InformationTrinkets/data/trinkets/slots/head/information.json"
+hash = "dbbf0e5767dcf58b0ce5caebab13d24523e9793472e0a8d3cfa8b8f159d33f54"
+
+[[files]]
+file = "config/paxi/datapacks/InformationTrinkets/data/trinkets/tags/items/head/information.json"
+hash = "87ccae38d3cb57d6a18db07ef03b5434efd9073c02a6de0a952fd9cbded64b1e"
+
+[[files]]
+file = "config/paxi/datapacks/InformationTrinkets/pack.mcmeta"
+hash = "ebb74be8181cf20e1372c321643060060399df1209a6307d4b59aa4693f46066"
+
+[[files]]
+file = "config/paxi/datapacks/StairsTags/data/minecraft/tags/blocks/mineable/axe.json"
+hash = "9d98d713b1e77e513f603c484fac9592488fdc373054bab341040162713c264d"
+
+[[files]]
+file = "config/paxi/datapacks/StairsTags/data/minecraft/tags/blocks/stairs.json"
+hash = "9d98d713b1e77e513f603c484fac9592488fdc373054bab341040162713c264d"
+
+[[files]]
+file = "config/paxi/datapacks/StairsTags/data/minecraft/tags/blocks/wooden_stairs.json"
+hash = "9d98d713b1e77e513f603c484fac9592488fdc373054bab341040162713c264d"
+
+[[files]]
+file = "config/paxi/datapacks/StairsTags/data/minecraft/tags/items/stairs.json"
+hash = "9d98d713b1e77e513f603c484fac9592488fdc373054bab341040162713c264d"
+
+[[files]]
+file = "config/paxi/datapacks/StairsTags/data/minecraft/tags/items/wooden_stairs.json"
+hash = "9d98d713b1e77e513f603c484fac9592488fdc373054bab341040162713c264d"
+
+[[files]]
+file = "config/paxi/datapacks/StairsTags/pack.mcmeta"
+hash = "3188d0e9645b1baf044fbeb5daff39c3fa86090a286debf34484e175d23cabb2"
+
+[[files]]
 file = "config/paxi/datapacks/coal-to-ad-astra-oil.pw.toml"
 hash = "38c5e2afe8f4d9c5980056d9c6ced0fe115f96689cc36ea224277e6788fdb036"
 metafile = true
@@ -2016,6 +2116,34 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/resourcepacks/.keep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/paxi/resourcepacks/InformationTrinkets/assets/trinkets/lang/en_au.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/InformationTrinkets/assets/trinkets/lang/en_ca.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/InformationTrinkets/assets/trinkets/lang/en_gb.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/InformationTrinkets/assets/trinkets/lang/en_nz.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/InformationTrinkets/assets/trinkets/lang/en_us.json"
+hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/InformationTrinkets/assets/trinkets/textures/gui/slots/information.png"
+hash = "de9cf3470feefbe80c904591f81e797349583d6a3030cc937f7e63231a874f6c"
+
+[[files]]
+file = "config/paxi/resourcepacks/InformationTrinkets/pack.mcmeta"
+hash = "b7fb8bdc9be0349564d9b2fa221f9f5a2e421178d4f24c896d4e8138885899a8"
 
 [[files]]
 file = "config/paxi/resourcepacks/NoEndPortalTint.zip"
@@ -3845,6 +3973,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "c5a8c1e71082b0f5cc03cd3d6044090434f858f33f5e16664217cd53c30f57fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-staves.pw.toml"
+hash = "f9d5ef1381670f32e34531883fafe1f516bddf35c038c0b88450f0cd475bb0c4"
 metafile = true
 
 [[files]]

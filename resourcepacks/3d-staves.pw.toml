@@ -1,0 +1,13 @@
+name = "3D Staves"
+filename = "3DStaves_120.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dnJyF4iU/versions/onIKQP8S/3DStaves_120.zip"
+hash-format = "sha512"
+hash = "46e74c9ce53de51ed87e49911a163f8103757ff8be1fb9518e8c53d43c5c4941ee9c247b23b1727dad8f6350152da6ab2742bddc1b7be56b6862406dbf7308b4"
+
+[update]
+[update.modrinth]
+mod-id = "dnJyF4iU"
+version = "onIKQP8S"
