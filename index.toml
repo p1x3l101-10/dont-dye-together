@@ -3172,6 +3172,11 @@ hash = "1290dafea5f85e79f46a3478d5278ee4020d8400d85b45448ac548952e1d1e25"
 metafile = true
 
 [[files]]
+file = "mods/hah!-ueuh.pw.toml"
+hash = "50d3bb4eb1bd90c72b1734664b36a6fcb218e282c1e5e5becebfda7105f337b8"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
