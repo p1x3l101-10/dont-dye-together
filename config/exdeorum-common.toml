@@ -4,7 +4,7 @@
 	#Whether the Void World type is set as the default world preset in world creation screen and server.properties.
 	set_void_world_as_default = true
 	#If the Void World type is selected, whether the Nether world generation is overridden to a void world. Changes take effect after reopening the world.
-	void_nether_generation = true
+	void_nether_generation = false
 	#If the Void World type is selected, whether the End world generation is overridden to a void world. Changes take effect after reopening the world.
 	void_end_generation = false
 

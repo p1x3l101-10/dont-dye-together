@@ -830,7 +830,7 @@ hash = "af245dbbf9a6b5aa49732f18e4460eacd7a0988db9d544b2aa660110df01928c"
 
 [[files]]
 file = "config/exdeorum-common.toml"
-hash = "6ef9888668ea16e0f798141a30e8351003eaa9a33e7699592c2ce242822c3446"
+hash = "7cec8a24b7e3a3774eaecc0b6bafa8dec6d2d3e41fab0793e5190276db0b4bc2"
 
 [[files]]
 file = "config/exdeorum-server.toml"
