@@ -3248,6 +3248,11 @@ hash = "7420d7862342154a20762e289b21c97fbca7ceb1747a1d3234f2e0ccd4754cf3"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "97c5e1b61bfd1a812718baa7657ccf20691697ef8a1be47972a230c209c4077c"
+metafile = true
+
+[[files]]
 file = "mods/jei-multiblocks.pw.toml"
 hash = "e11f2f853cfa0e9f6159fe2bb65daadf44c37bea979b6a2c2903f37c0cf1834e"
 metafile = true
@@ -3575,6 +3580,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "40acb60d80375a9e40ab7421826e6c92e6042ce31a52dc71ced4a02716ce195d"
+metafile = true
+
+[[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "61536e0b3e31e29036f423b59a532dc3b2aa7ee591fb112a5e8110e07be08edf"
 metafile = true
 
 [[files]]
