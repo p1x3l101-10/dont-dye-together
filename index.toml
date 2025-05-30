@@ -3207,11 +3207,6 @@ hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
 metafile = true
 
 [[files]]
-file = "mods/hexweb.pw.toml"
-hash = "0d1b4cd6e139f5c1db24d0a4584aa6b01beb89a967b45c513d19150a6c9cd202"
-metafile = true
-
-[[files]]
 file = "mods/hostile-neural-networks.pw.toml"
 hash = "d8f52c6109108160c9ca80ae2d1fd03f3b27f4a3196c62ba805928b66482be5b"
 metafile = true
