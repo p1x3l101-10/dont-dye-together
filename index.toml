@@ -2839,11 +2839,6 @@ hash = "332b3fe58216103687fa7386f9441c53d3e69910657e879d52db9845618b450e"
 metafile = true
 
 [[files]]
-file = "mods/create-netherless.pw.toml"
-hash = "2de88ed2cabe2c5b1ba3b2ba8d9ac974728384234b200cd922c1356faf740909"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "4c7efc1bdf4a1f03eb138d85655f3921e32dd4396849b54270b0142780856c82"
 metafile = true
