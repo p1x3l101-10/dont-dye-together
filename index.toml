@@ -2513,20 +2513,28 @@ file = "kubejs/data/dont_dye_together/dimension/kerbin_orbit.json"
 hash = "5ed9b5bcfc9ddec94090dc3b89241d124398aa9a58808ff7324def0f550d00b0"
 
 [[files]]
+file = "kubejs/data/dont_dye_together/dimension/nether_orbit.json"
+hash = "12e3cb4caa5e3036e4b5b604183ead5025cceef3dd653c7f317750ab344a8f62"
+
+[[files]]
 file = "kubejs/data/dont_dye_together/dimension/twilight_forest_orbit.json"
 hash = "36979a885f89f7b054aff11d8b38834577526fee8e5b928c0a4df6c204a467ef"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension_type/end_orbit.json"
-hash = "8db7b7e4a48b62b32173a485ec241d8d32c4d0e35eafe2e998ff2fcf334c91de"
+hash = "aad79c524c8d18767c9adb6652b70a51f50c724ce203a357ad893b6a0fe41b78"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension_type/kerbin_orbit.json"
-hash = "dd2ade44711a8e3ffcc8b4ab922c6186b92bb66fd18137c41ad095fe2c6ca769"
+hash = "031deff0a085e08ac8321763f12a56d57a3e5cc8aaa719413c122cc74222bd63"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/dimension_type/nether_orbit.json"
+hash = "c05d65073bc9fdc05fbeb2410c77d72859365444c53b643485b802def639208b"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension_type/twilight_forest_orbit.json"
-hash = "f8eca3dbf01d9a2203a597f2bbf5dc50de00dde7e418bf72709a81ef19adcade"
+hash = "a82c776a4918bafd82f32137c6551e16fc5b7d817426b4846ac647ded41b3de6"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/end.json"
@@ -2543,6 +2551,14 @@ hash = "17ea9e650f8bea42a7d8801704144ee1c583442382aa20de54a6eeaa2a7f6485"
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/kerbin_orbit.json"
 hash = "adc8f4997055bd64080cede6f3c93fcf712cccbbf394e9887f1c90202e72ce65"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/planets/nether.json"
+hash = "8e4a59068eb708440a4c008d9bc90016e9336f735c3aa3e00ff8332e2234c058"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/planets/nether_orbit.json"
+hash = "e4b990a4239d141cf105ff620fb50c17bbfd35973fa3386411b1cf0c68e29e57"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/twilight_forest.json"
@@ -3440,6 +3456,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "816c4af5ac97051e4fdd9101bde0568afb762d55d9370e917cfc717e463192e1"
+metafile = true
+
+[[files]]
+file = "mods/nomoreportals.pw.toml"
+hash = "253107fafcc9ccc52c39c07278f8ccdfe0ffa0d6924886b0c97b8e0bb970e01c"
 metafile = true
 
 [[files]]
