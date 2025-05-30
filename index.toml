@@ -2038,8 +2038,8 @@ file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dim
 hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension/twilightforest_orbit.json"
-hash = "8a629f8e60cd0cc047555266ee55f7c48714693530cb75a760bbbdc0377e3fdb"
+file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension/twilight_forest_orbit.json"
+hash = "fa52d5f2f20633d2e100b9535fe9de4c625c983a3e095fff9decadf1314fbeb4"
 
 [[files]]
 file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension_type/end_orbit.json"
@@ -2050,8 +2050,8 @@ file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dim
 hash = "dd2ade44711a8e3ffcc8b4ab922c6186b92bb66fd18137c41ad095fe2c6ca769"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension_type/twilightforest_orbit.json"
-hash = "1ecb1afe64b207e2cb2ad50a7177398eee4aa214c0c6561b90ebf1c03a6822ed"
+file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension_type/twilight_forest_orbit.json"
+hash = "f8eca3dbf01d9a2203a597f2bbf5dc50de00dde7e418bf72709a81ef19adcade"
 
 [[files]]
 file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/end.json"
@@ -2071,11 +2071,11 @@ hash = "0e73dd64a89266bf6bd6128e0032ad6d76b0cde5b14c381980ad973cfc9f7994"
 
 [[files]]
 file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/twilight_forest.json"
-hash = "2aa46005f22697c7e116f47e4a35d7942a34a933621a381cdd6fdfe51e57b6cd"
+hash = "1ad9734c9a0c3860d23eec3f8957e5f2412f44b478abe2e4bf865352c20c185a"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/twilightforest_orbit.json"
-hash = "ddfc537c02f0a166460f81a5ad4b2ce2848c9b5d7c8b4e1ac7ac1675cd08748f"
+file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/twilight_forest_orbit.json"
+hash = "8f0364112d74e79098c3583587670fba32186ac056f505d85d6b66dd5c0ec4d8"
 
 [[files]]
 file = "config/paxi/datapacks/modpack_tweaks/pack.mcmeta"
