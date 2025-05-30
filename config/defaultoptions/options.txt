@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -34,16 +34,16 @@ gamma:1.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:2
 particles:0
 maxFps:120
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"true"
-resourcePacks:[]
-incompatibleResourcePacks:[]
+renderClouds:"false"
+resourcePacks:["tacz_resources","vanilla","mod_resources","Twilight JAPPA Pack 1.0.0.zip","better-hex-particle-v0.1.0.zip","NoEndPortalTint.zip"]
+incompatibleResourcePacks:["NoEndPortalTint.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -85,10 +85,10 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
-soundCategory_weather:1.0
-soundCategory_block:1.0
+soundCategory_weather:0.29225352112676056
+soundCategory_block:0.5563380281690141
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
