@@ -1,5 +1,5 @@
 {
-  "type": "dont_dye_together:nether)orbit",
+  "type": "dont_dye_together:nether_orbit",
   "generator": {
     "type": "minecraft:noise",
     "biome_source": {

@@ -2514,7 +2514,7 @@ hash = "5ed9b5bcfc9ddec94090dc3b89241d124398aa9a58808ff7324def0f550d00b0"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension/nether_orbit.json"
-hash = "12e3cb4caa5e3036e4b5b604183ead5025cceef3dd653c7f317750ab344a8f62"
+hash = "70c4739f01f6f05fd92fd868b3ec97accf785cc6f9a9c4a3f3b45eb74b610017"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension/twilight_forest_orbit.json"
