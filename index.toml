@@ -3006,11 +3006,6 @@ hash = "4c7efc1bdf4a1f03eb138d85655f3921e32dd4396849b54270b0142780856c82"
 metafile = true
 
 [[files]]
-file = "mods/create-paper-line.pw.toml"
-hash = "f81b0fa06c9f42262f78301df6e64c0e87fab36651f66405a0f8466866a9aa88"
-metafile = true
-
-[[files]]
 file = "mods/create-recycle-everything.pw.toml"
 hash = "cc6bdb5f85f8773aaf1ea925ea53fbd06f4957974b5efea6f64886119229677a"
 metafile = true
