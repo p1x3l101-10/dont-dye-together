@@ -1,7 +1,7 @@
 {
   "dimension": "twilightforest:twilight_forest",
   "gravity": 9.807,
-  "orbit": "modpack_tweaks:twilight_forest_orbit",
+  "orbit": "dont_dye_together:twilight_forest_orbit",
   "oxygen": true,
   "solar_power": 16,
   "solar_system": "ad_astra:solar_system",

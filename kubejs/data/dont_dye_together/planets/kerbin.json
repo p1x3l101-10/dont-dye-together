@@ -1,7 +1,7 @@
 {
-  "dimension": "modpack_tweaks:kerbin",
+  "dimension": "dont_dye_together:kerbin",
   "gravity": 9.807,
-  "orbit": "modpack_tweaks:kerbin_orbit",
+  "orbit": "dont_dye_together:kerbin_orbit",
   "oxygen": false,
   "solar_power": 16,
   "solar_system": "ad_astra:proxima_centauri",

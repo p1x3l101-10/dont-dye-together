@@ -1,5 +1,5 @@
 {
-  "type": "modpack_tweaks:end_orbit",
+  "type": "dont_dye_together:end_orbit",
   "generator": {
     "type": "minecraft:noise",
     "biome_source": {

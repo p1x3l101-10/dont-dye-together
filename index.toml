@@ -2502,7 +2502,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension/end_orbit.json"
-hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
+hash = "5ed9b5bcfc9ddec94090dc3b89241d124398aa9a58808ff7324def0f550d00b0"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension/kerbin.json"
@@ -2510,11 +2510,11 @@ hash = "f95bceb8b88faba74bc8b7938c2611ea48a2395bc253efecc122bbdd50b26044"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension/kerbin_orbit.json"
-hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
+hash = "5ed9b5bcfc9ddec94090dc3b89241d124398aa9a58808ff7324def0f550d00b0"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension/twilight_forest_orbit.json"
-hash = "fa52d5f2f20633d2e100b9535fe9de4c625c983a3e095fff9decadf1314fbeb4"
+hash = "36979a885f89f7b054aff11d8b38834577526fee8e5b928c0a4df6c204a467ef"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/dimension_type/end_orbit.json"
@@ -2530,27 +2530,27 @@ hash = "f8eca3dbf01d9a2203a597f2bbf5dc50de00dde7e418bf72709a81ef19adcade"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/end.json"
-hash = "788dc04915180343d93d70314099f53a1b44d0dcac34d5e8b6bb4f06614257ab"
+hash = "4b996c1e8dffafa03e73016cd821f10c95d8eb9f72427ee5fffa41c2d11021e9"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/end_orbit.json"
-hash = "5fe088acc089a38a5b441d696ff1b8dc022a225310d4c71fb1d5efc2f0d69a15"
+hash = "26e49e35b79ae65df9ae80edf65ae5b7e5afe54c0ab0a1e80aa6bbbbd6a970d0"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/kerbin.json"
-hash = "081626b5d6176bff89fb391c6044e27cdccb1979f28a427d78e7a80f85ab5f13"
+hash = "17ea9e650f8bea42a7d8801704144ee1c583442382aa20de54a6eeaa2a7f6485"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/kerbin_orbit.json"
-hash = "0e73dd64a89266bf6bd6128e0032ad6d76b0cde5b14c381980ad973cfc9f7994"
+hash = "adc8f4997055bd64080cede6f3c93fcf712cccbbf394e9887f1c90202e72ce65"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/twilight_forest.json"
-hash = "1ad9734c9a0c3860d23eec3f8957e5f2412f44b478abe2e4bf865352c20c185a"
+hash = "e2a2dba4f28e06d49dcaf67b6a13d8e61e9feea21a8adec5c076538818323c9f"
 
 [[files]]
 file = "kubejs/data/dont_dye_together/planets/twilight_forest_orbit.json"
-hash = "8f0364112d74e79098c3583587670fba32186ac056f505d85d6b66dd5c0ec4d8"
+hash = "5e2e455e62183793f826008d08e4738734d306b04dd4bf48295761729315935a"
 
 [[files]]
 file = "kubejs/data/hexcasting/advancements/grant_patchi_book.json"
