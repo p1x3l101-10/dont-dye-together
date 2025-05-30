@@ -834,7 +834,7 @@ hash = "6ef9888668ea16e0f798141a30e8351003eaa9a33e7699592c2ce242822c3446"
 
 [[files]]
 file = "config/exdeorum-server.toml"
-hash = "0eccb4b66d88902d93cf38808e9443affe441e643e07c23359fa146a1482accf"
+hash = "fa0978e0859fc740c6347c982f42cc4c6e9c0a7b42ac571b8e0c8f5d72b28b92"
 
 [[files]]
 file = "config/exdeorum/compost_colors/ad_astra.txt"

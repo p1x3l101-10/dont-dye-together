@@ -2,16 +2,16 @@
 #Server configuration for Ex Deorum
 [server]
 	#Whether players in a void world start out with a torch or not.
-	starting_torch = true
+	starting_torch = false
 	#Whether players in a void world start out with a full wooden watering can.
-	starting_watering_can = true
+	starting_watering_can = false
 	#Whether players can use multiple sieves in a 3x3 or larger area at once.
 	simultaneous_sieve_usage = true
 	#The range from which simultaneous sieve usage can reach. 1 means a maximum of 3x3 sieves at once, 2 means a maximum of 5x5, 3 means maximum of 7x7 simultaneous sieves, and so on.
 	#Range: 0 ~ 6
-	simultaneous_sieve_range = 2
+	simultaneous_sieve_range = 6
 	#Whether machines/fake players can interact with the Sieve. Keep in mind, the intended automation method is to use the Mechanical Sieve.
-	automated_sieves = false
+	automated_sieves = true
 	#Whether machines/fake players that interact with the Sieve can sieve in a 3x3 or larger. This option does nothing if automated_sieves is set to false.
 	nerf_automated_sieves = true
 	#Whether players can use multiple compressed sieves in a 3x3 or larger area at once.
@@ -20,7 +20,7 @@
 	#Range: 0.0 ~ 1.0
 	barrel_progress_step = 0.004
 	#Whether Witch Water forms dirt when water flows into it, allowing for a dirt version of a cobblestone generator.
-	witch_water_dirt_generator = false
+	witch_water_dirt_generator = true
 	#Whether Witch Water forms netherrack when lava flows into it, allowing for a netherrack version of a cobblestone generator.
 	witch_water_netherrack_generator = true
 	#The ID of the default tree feature to use when generating a spawn island (or when useBiomeAppropriateTree is true and the biome has no tree set). By default, minecraft:oak_tree_bees_005 is used.
@@ -51,5 +51,5 @@
 	#Whether barrels fill up with rain water while it is raining and the barrel is exposed to the sky.
 	barrels_collect_rain_water = true
 	#Whether wooden crucibles fill up with rain water while it is raining and the barrel is exposed to the sky.
-	crucibles_collect_rain_water = true
+	crucibles_collect_rain_water = false
 
