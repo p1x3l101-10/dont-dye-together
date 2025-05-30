@@ -322,7 +322,7 @@ hash = "7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "1dcef1097c8c147d53ffa9e99e391c1bec55fde717ae54969de6f231c2a4d840"
+hash = "39c7b6469d0eb0237f06b653f3be2c09f0b7062598f3a6520250bc1a1182f8e5"
 
 [[files]]
 file = "config/bluemap/maps/world.conf"
@@ -3377,11 +3377,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "ff3c572cc8a57df72f4a9ee7aa06388bec703a7f9bf08068a62fe3221efe3e80"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tfmg-compat.pw.toml"
-hash = "840f0bff6dc00ec948e8ca7b16e80f1477e6ada8497148b3637a3d1644612445"
 metafile = true
 
 [[files]]
