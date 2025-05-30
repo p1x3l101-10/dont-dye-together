@@ -3033,11 +3033,6 @@ hash = "06801914f33ae07a006f295821b0c887fdd9218d95051863d553fb6c4c193678"
 metafile = true
 
 [[files]]
-file = "mods/ex-compressum.pw.toml"
-hash = "720cb48f57723677c865e7ddf2c708115ed371c5b6efd8210e72499e58b55da6"
-metafile = true
-
-[[files]]
 file = "mods/ex-deorum.pw.toml"
 hash = "7f97804bb557195dced127bb7bf60d28f212bcb406a2672ca7a5c9c5958cd880"
 metafile = true
