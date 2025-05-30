@@ -2537,6 +2537,11 @@ hash = "9db1d07d933d009dd6b53c1558e6859cbaf9fe1032203d5ed5cade028110c045"
 metafile = true
 
 [[files]]
+file = "mods/create-immersive-unnecessary-shaft.pw.toml"
+hash = "46d8c28022f698e48f7e4dd8783ff51f54334f92c20f5098da79d2fdd8c136f2"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "7b0520d720e6e432f7c824a1221eaf68e9902134649c3a49d494500eab270f27"
 metafile = true
@@ -2742,6 +2747,11 @@ hash = "79bd2ac188e7ad4b6f3775115cc9cc6be2611447aeebe74cf809fa82cc3a22b3"
 metafile = true
 
 [[files]]
+file = "mods/engineered-schematics.pw.toml"
+hash = "473d66b1139d12a1c5aa79be90059ba44f8120d5f15480171da7876116196471"
+metafile = true
+
+[[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
@@ -2927,6 +2937,11 @@ hash = "112b7ecb7395f31da8d5fba23018685f5c5e29579ed74dd16e3c0e9cf8ba997c"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+metafile = true
+
+[[files]]
 file = "mods/improved-grindstone.pw.toml"
 hash = "b05fd43d111239280d2d9bf0221fbe3006e25aa11a84f9717b0ed0821a4a7a92"
 metafile = true
@@ -2954,6 +2969,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "7420d7862342154a20762e289b21c97fbca7ceb1747a1d3234f2e0ccd4754cf3"
+metafile = true
+
+[[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "c80339cef8764c7472cb967a3a948f4a3e1a1c242a7f42b19a5d5a9488a38637"
 metafile = true
 
 [[files]]
@@ -3104,6 +3124,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "a5d778139d22ab0993dc8c7dcea99902c31da3f5ef7f6936e5c29e4cb159c174"
+metafile = true
+
+[[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
 metafile = true
 
 [[files]]
