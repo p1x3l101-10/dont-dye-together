@@ -15,5 +15,4 @@ ServerEvents.recipes(event => {
             B: "minecraft:dragon_breath"
         }
     );
-    event.recipes.create.milling('hexcasting:amethyst_dust', 'minecraft:amethyst_shard');
 })
