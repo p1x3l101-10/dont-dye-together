@@ -2853,7 +2853,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-recycle-everything.pw.toml"
-hash = "7dfcd5388dd332b3a4558a50e8e65b1d8af7e47f3b09f8ece9636769b305b94c"
+hash = "5ba59835286752fa16084431141870eb42f2f72f4cce67ffa7abece535ebf2a7"
 metafile = true
 
 [[files]]
