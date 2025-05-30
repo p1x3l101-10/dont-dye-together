@@ -3483,7 +3483,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "30f9191894628677b8f6fb18dcaa01c38775094ea2e826bffcf64349dffc1bdd"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
@@ -3524,6 +3524,16 @@ metafile = true
 [[files]]
 file = "mods/portable-blueprints.pw.toml"
 hash = "bd5947dfb5751ab882ed81c463a8048ff525f36116b1d6371bdbdcaed44b03c8"
+metafile = true
+
+[[files]]
+file = "mods/psi.pw.toml"
+hash = "722e808a461af791c664dcc460d9e557f54ab7298cb9a4b8ff8732912550027b"
+metafile = true
+
+[[files]]
+file = "mods/psiutils.pw.toml"
+hash = "bd700db1b114b270d19289af75c9fc4b94b60683d1f5050da839802d321f06ce"
 metafile = true
 
 [[files]]
