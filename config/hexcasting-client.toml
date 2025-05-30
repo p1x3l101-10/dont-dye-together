@@ -8,5 +8,5 @@ invertAbacusScrollDirection = false
 #Range: 0.5 ~ 1.0
 gridSnapThreshold = 0.5
 #Whether you click to start and stop drawing instead of clicking and dragging
-clickingTogglesDrawing = false
+clickingTogglesDrawing = true
 

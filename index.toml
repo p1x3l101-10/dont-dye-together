@@ -1250,7 +1250,7 @@ hash = "457065ff782312882911238da0ce9c4681fd8ce3b4882128728211366579735a"
 
 [[files]]
 file = "config/hexcasting-client.toml"
-hash = "17031e67a6bd3e638a3247663b774e47ce8d0b69ff6f1772aca7d3e371a1758b"
+hash = "d31c9ef0675cd4c36c8a18182e7b12ea2e92fc89bfa0c6ab15d3f2c5c9c029c8"
 
 [[files]]
 file = "config/hexcasting-common.toml"
