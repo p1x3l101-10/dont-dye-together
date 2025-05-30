@@ -3117,11 +3117,6 @@ hash = "634d75dd0e39db9c5c255758c44482faa038610c875d79c2442b819858881c8c"
 metafile = true
 
 [[files]]
-file = "mods/forgiving-void.pw.toml"
-hash = "5a978c4b0c4a90eeae86c8b0a4ce6724a77bae5c4f1c0b809d8fdb86b3ead6d9"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "03f7752451607782320f763df5e220f29640bcf98f3ad9f503b55ac57e6f009d"
 metafile = true
