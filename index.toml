@@ -2173,6 +2173,11 @@ hash = "23cc23553e51fffdf63bd3702c2ac6aff7f307bd7a368521710fb62c5a36641f"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/voidcosmos.pw.toml"
+hash = "fc7b70fe2b140fe90be2b6a3d23c3dc4b50bd107d0b5bd9b70473a2b3bb6262b"
+metafile = true
+
+[[files]]
 file = "config/pehkui-client.toml"
 hash = "b99f791974a57bce18a9c3bde4b416de180f24df878e985336814e6be4615e0d"
 
@@ -3063,6 +3068,11 @@ metafile = true
 [[files]]
 file = "mods/customizable-farlands.pw.toml"
 hash = "64a02919619b34cb4507593c854f8c706981cc0d1929873acfd00cb2cd482794"
+metafile = true
+
+[[files]]
+file = "mods/daycounter.pw.toml"
+hash = "effd7a3321b9a4b9fb36600ae6eca20802aa4247a137b37ad659350db2265ed1"
 metafile = true
 
 [[files]]

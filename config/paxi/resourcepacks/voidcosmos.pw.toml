@@ -1,0 +1,13 @@
+name = "VoidCosmos"
+filename = "intelstellar space by koto(1.0).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N6o3j6s3/versions/SS2i1Xy1/intelstellar%20space%20by%20koto%281.0%29.zip"
+hash-format = "sha512"
+hash = "88df3c143bf9e47731057296ea9b76d2a69c14534267c5af62db098d2a219a65461270e91c7140e14119cfa34e44c64274090dc4ce00d82f2aa6a798ce3bc4c2"
+
+[update]
+[update.modrinth]
+mod-id = "N6o3j6s3"
+version = "SS2i1Xy1"
