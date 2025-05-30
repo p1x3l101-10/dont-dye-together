@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/j3FONRYr/versions/fTl6NfPL/Structory_Towers_1.20.x_v1.0.7.jar"
-hash-format = "sha512"
-hash = "b3a04babcdac8c66f974d10b9ec0beee2d9ba33c34144adfe9dbf80ee7cdb64e1e598168160aa10778975f6e5c3dc4bba396a2520ee609793714f22bb320ebc6"
+hash-format = "sha256"
+hash = "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/7JLj0L0Y/versions/hxoA5Orl/farlands-1.0.0.jar"
-hash-format = "sha512"
-hash = "0823734751ba4111fa7d3ba8e0fbe9e0628ebde5ee3e30006f83cbbf2cf132c677d7b76eb90f562b1a5728b4861338ba784a6d9bc0cb6371bce1904fda3c4b4c"
+hash-format = "sha256"
+hash = "4df9526d97a26f61deb46cae3aed91aebb11da1e1633b344edd5a9699889de31"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "Nameless Trinkets-1.20.1-1.9.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "a4715048f2970e2f3960213bacfaed6297c15dee62f2e0826610a76382c027a7a483c00018e831e3639a51f9d8a85c570c3553cd4b6ec0bfbc3a53028049c865"
+hash-format = "sha256"
+hash = "1a29bcdd7d0f489c795aa17718134dd105cb04fb3028ffb7d4e0813f6226d868"
 mode = "metadata:curseforge"
 
 [update]

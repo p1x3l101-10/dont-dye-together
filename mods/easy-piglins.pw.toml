@@ -3,8 +3,8 @@ filename = "easy-piglins-forge-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "caa60901fce35f7ad93c27098d7a848eaead97b5d12c26f334497e108917ef6e1452c024e33902396e6617e9ace8bb631bb7170f1d8939abbed454856db791fb"
+hash-format = "sha256"
+hash = "e31aa09272e7fa29b004a3d163c328589f9f4b65a55d1ff72a8c2a2d9cf46bc6"
 mode = "metadata:curseforge"
 
 [update]

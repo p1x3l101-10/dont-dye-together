@@ -3,8 +3,8 @@ filename = "create_recycle_1.0.2_forge_1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "782e0f16459df7d73706d7730393536ff95661e7fc1438f0ea7d0a660b37e06f978b3b0b11f7378cd440a32ebd881306dba8a2d37f1562f8227a242aefc9f94f"
+hash-format = "sha256"
+hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
 mode = "metadata:curseforge"
 
 [update]

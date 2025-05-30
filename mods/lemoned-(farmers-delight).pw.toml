@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mMWP2E2k/versions/EKHnzO6k/lemoned-1.0.1-1.20.jar"
-hash-format = "sha512"
-hash = "3bed88532dfd30aa02ff81d2e880af99261b9058fba9bcb110d9fc72b8bd2714aa1a6665b389cc7193c4350acdd1b45bf0b778a29b93f577a678e261945625c7"
+hash-format = "sha256"
+hash = "9acdb7e915877f96e1db6405d42f961c9a26222126aa26221f9844c0d1d35fe3"
 
 [update]
 [update.modrinth]

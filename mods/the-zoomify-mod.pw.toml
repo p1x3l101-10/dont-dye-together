@@ -3,8 +3,8 @@ filename = "zoomify-1.20.x-1.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha512"
-hash = "a0246d2359df18f82d66dbf14f1b1c9c8aa444cc84c5c56c0bcc81c09b427320d29babbfd4c205f13425d10d3f0f7a6a64859546bf2d8b8374b9d3facb235414"
+hash-format = "sha256"
+hash = "99d3e7104a0118b39a46f125253bd94c312e29d08ef6ba455ea57b486e8e504a"
 mode = "metadata:curseforge"
 
 [update]

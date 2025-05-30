@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/emQ94xri/versions/rJ2dIeVK/veggiesdelight-1.7.2.jar"
-hash-format = "sha512"
-hash = "0f870a09a0fc5e7f612700c4bd6872f8f377ec6f249cc2ae56c2852b5506bfda411ad45f342aedf37da13ef9176e6445657b4ab6d771c6159ca24982250bc152"
+hash-format = "sha256"
+hash = "c0cb329396208da1643d412f99a31eac9f471fa2677be094bb2f331fab32ac15"
 
 [update]
 [update.modrinth]

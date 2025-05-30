@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NVz9DXUE/versions/gUYdFkI7/chineseflyingislandtower-1.1.0-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "e6a7f3c40888021dcf90cb5580dbe63d2ec6b407268be99373f219f76172bd03c15cf4108de819f5ecd949391080e776a83f1caab80b5fc6c93fe5f0598f379a"
+hash-format = "sha256"
+hash = "63ff07727552a9ded844560fd779b5e99e511bf9ea9121c4ff7b7029607c073a"
 
 [update]
 [update.modrinth]

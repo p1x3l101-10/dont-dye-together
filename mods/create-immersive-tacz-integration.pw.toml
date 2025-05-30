@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/X2ZdQA3m/versions/Xrt3jnMH/createimmersivetacz-1.1-1.20.1.jar"
-hash-format = "sha512"
-hash = "037ea64a802c69ae50218e02f8d23c5cf34c8bff660305add9618cfddcd605092747ef73341c08dbb0b67dadb56289fc06911c6b1afc03878d35d494269cd429"
+hash-format = "sha256"
+hash = "1830cbfa59ab1604662b389333573258d6b4d7f79d7874d90aa15db44b25e4cc"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PgQH7uEu/versions/SezzPMO6/hah_ueuh-1.0.6-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "439c10d350c3756f161a19ba242a88a9e29532b27dc448d566e8249ec8be736704d12c4d0c1397d982dfe7697df3d725a1a712671892e60ea325aa28c3a76ad7"
+hash-format = "sha256"
+hash = "f7cf31b525f308efae2b6a565b700b0a694db3e499af2e77d0ab7c65d907d35e"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "mahou_tsukai_combat-1.0.2-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "88022bdc13e645f40ed7284f494e6525edaa781535771fd241574a30723bb78a75cc29980955dba89dcc93226981b7c3b15048929253910115a5ee88c918cc3e"
+hash-format = "sha256"
+hash = "77f089349b62761200703b96a11fdc2907a3abc9ad31b8fe5a582cc8af73730f"
 mode = "metadata:curseforge"
 
 [update]

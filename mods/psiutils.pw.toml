@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/PwZn5epo/versions/3lONWXe9/psionicutilities-1.20-1.4.jar"
-hash-format = "sha512"
-hash = "e47874ac5952e51defdade78e4f674971b998d176beb6940bdd5cab937b454d047d03bbe0a4d14f34bd404da51bc597b8176d36528ec08fc80beaa9152dbafed"
+hash-format = "sha256"
+hash = "9228530a7b0ea453b7aaac60f707d1e977e70bfb9d2beca5e0cbca3792900215"
 
 [update]
 [update.modrinth]

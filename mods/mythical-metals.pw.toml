@@ -3,8 +3,8 @@ filename = "mythicalmetals-1.02.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "252951f7ab4546ebaae0f3fbed08182d9beda7a3eff1270c53474f32dbc00a579323931389720fed7052ac744f37310c91fc7fe4044e919f4936225ec009f34f"
+hash-format = "sha256"
+hash = "2530ad68a84adb4ae420e1c0fe9859a36da80acbead034d780b55e0ea837aca8"
 mode = "metadata:curseforge"
 
 [update]

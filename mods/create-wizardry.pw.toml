@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/BUK0p8gn/create_wizardry-0.2.3-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "c6bff500864f9818fb94b66363ea6240230fbec62fc5ec87bb17254b9b459034e3357b387e2ccb1f7ad140e6f040de5b4345cd593263df8743d37e23ee9ccf9f"
+hash-format = "sha256"
+hash = "e302f5b4974b147dfd7e2d5aa5c2c31271378e20d106fa239d404d851f87d21d"
 
 [update]
 [update.modrinth]

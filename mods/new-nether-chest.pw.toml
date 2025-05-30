@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bHJp2GRg/versions/pg7wiIfo/NetherChested-v8.0.4-1.20.1-Forge.jar"
-hash-format = "sha512"
-hash = "1ea89f3ae0a23aed205076789b6e99bc9fc204d6fd49f0f03f363a3f5c717a968a7cea5c7b197de17ba370a8575076c7637b0882bae75df333d6ed2bf98e9ce6"
+hash-format = "sha256"
+hash = "44c49244b9f3c01bd419d4909787c131c8cd892245f33e0fed55cbde10fda025"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/BmMCoIaA/versions/d0CoIPvO/astralzinc-0.1-1.20.1.jar"
-hash-format = "sha512"
-hash = "c79e25461eca4ed8a55d55b984f7174ade79ab7d715caefcea4643e92a7f24e39ec738c1d320ce2f000000f50e9b69d5604418732fe548afe2c0cb740034b1a7"
+hash-format = "sha256"
+hash = "1c950fa10504110152ffb1b9c041ee4ddfe4e8819a2f7c511ea325c6b9aacc84"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "jousting-1.20.1-v1.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "c7ad09647f99359a511a9bb78c12e9d29fe064afcddcb599c385fc050dae84abc4069b079bd43c3a31a7acce31ba89a4075894f4b53fd273613591e5a1c791f1"
+hash-format = "sha256"
+hash = "cba7db795dcd6b7cf9b5669d57091564a11890d99c6b30c2b675ca0beddb4fcd"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wQpKGqNJ/versions/8qDfChgt/create_waystones_recipes-1.0.1.b.jar"
-hash-format = "sha512"
-hash = "ba845ce81c4e53ca09f82b8c002cd19a10683ff8c538d2c714b0fc28ba0303ad6caedf0e7f82ee726734b5b732d94cb4513b1eb42da974981c1b81c17d57e9b7"
+hash-format = "sha256"
+hash = "43df7eafeb4ad892a59fbf4a85fe5500a7043c80d44c1dc9d2bfd836324a3b97"
 
 [update]
 [update.modrinth]

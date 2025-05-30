@@ -3,8 +3,8 @@ filename = "simplehats-forge-1.20.1-0.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "5f2cf4278290a9b8893ed540eddc1e04059946aef633d611ec8d74201cf4c3b0917719f824b9463967c575c473e94a8dceef8ee6822639c094b25c50f6cac6dc"
+hash-format = "sha256"
+hash = "86758bd8151a2b8ee95151abdc442250fe359c63aa1702cee2b71ce086a32a93"
 mode = "metadata:curseforge"
 
 [update]

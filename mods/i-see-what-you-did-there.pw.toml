@@ -3,8 +3,8 @@ filename = "iswydt-1.0.5-1.20.1-FORGE.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "951f9f391ad6e46e2f8e022ea33485eaadfd062e16e2f2ccb0b55eb757579273cb777acf9e706162149e1e72e1c5962a55b997e0118e0a669a8768a8a0f66d4e"
+hash-format = "sha256"
+hash = "7aea894d09ebb9833e7eefe5a93e1494d7e08e2ad52a79f8e8386fb9880ab8e8"
 mode = "metadata:curseforge"
 
 [update]

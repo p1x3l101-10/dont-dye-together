@@ -3,8 +3,8 @@ filename = "grindenc-forge-1.20.x-v2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "37f8bfabda389519b8ec1e4132b80c0e0fc902de0c0d121c44988b31b164779582b7f95ef73ea99baa8fb2a808c78f7cdc27ebe09ed49c1d58d7912819bbdb69"
+hash-format = "sha256"
+hash = "13db172a7f06f912a1e4ac04dfe9ee2daea3325b3418adf0a775025c23081295"
 mode = "metadata:curseforge"
 
 [update]

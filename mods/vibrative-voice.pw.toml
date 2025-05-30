@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wa9vzNNU/versions/c1nQyYLn/VibrativeVoice-forge-1.20.1-1.2.0.jar"
-hash-format = "sha512"
-hash = "6d15dcb3eaaa38cc41635ec732ec732111d6348dda9b90142e6c30a136cc6102afe2f52575086fe86b1f471a0254486046e40487840e6991f984bca666c3ff67"
+hash-format = "sha256"
+hash = "98bdf0287b449ce52049e829f515abeae1c1e2d0f5e7f1348e7ce527d7828d83"
 
 [update]
 [update.modrinth]

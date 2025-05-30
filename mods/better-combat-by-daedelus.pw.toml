@@ -3,8 +3,8 @@ filename = "bettercombat-forge-1.8.6+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "24b3acd2b1ff3e24b2828ec003bcf2f5af7b4556be728996ddc8bdca3244bb92e91ef76f3c1bc10a15a5e59cd80b388f4994097fd258aadcb7abb7f3bd6959c3"
+hash-format = "sha256"
+hash = "e147e13732e0fac83aee209487fdeb10a03e52c33e1b1439dbce01a80f3e8dbb"
 mode = "metadata:curseforge"
 
 [update]

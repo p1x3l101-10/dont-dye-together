@@ -3,8 +3,8 @@ filename = "YungsExtras-1.20-Forge-4.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2c70e8e2c8e6161139bd19d302e225f7c12dc44f9cbdd63f4a548645fe923eb16de930abe2d2f8a89bee99f31d77798b7352bbd33f3642560cad18d86d372d4f"
+hash-format = "sha256"
+hash = "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d"
 mode = "metadata:curseforge"
 
 [update]

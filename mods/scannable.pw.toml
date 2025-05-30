@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YqFnwJHf/versions/2FlwUOgm/scannable-MC1.20.1-forge-1.7.12%2B18ccb75.jar"
-hash-format = "sha512"
-hash = "240d7f333e0696cfe7d502e02b8e10e69748fd60e3207a9b8ce4958a301c16acec276b3949be58842dd73d3520f98c3af3af4333a136b3d820b669565b29e6ba"
+hash-format = "sha256"
+hash = "902187671171b7500fbf364d09ba39ee92941b963f865c50172ad36eaa9e5c04"
 
 [update]
 [update.modrinth]

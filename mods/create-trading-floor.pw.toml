@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WROfLLvn/versions/bhbhbq49/trading_floor-forge-1.20.1-2.0.3.jar"
-hash-format = "sha512"
-hash = "09b08d3e9846366770e6ba2a899159e7997f200dd47912f61d4c67aa92fee89f100e4449e18c36a725608e839c3200bfd8cf4479860405549b1b701b8d983eed"
+hash-format = "sha256"
+hash = "b4548d98e6c062326ede59174db08ed97ad39085e322e12b576c5e6f9ee3f081"
 
 [update]
 [update.modrinth]

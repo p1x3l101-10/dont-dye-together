@@ -3,8 +3,8 @@ filename = "easy_mob_farm-forge-1.20.1-9.8.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "c1c8667ce6e9d1d57d458129409d5743394712a64bafbf33eeb65d0ca918bfa7faacbd1ed7853a4d380e698da946b615a17980e3d28a9caabae1bfc1a82889cf"
+hash-format = "sha256"
+hash = "8f09746892b9985e25c1b01a1a138a1149d9f9e67ff6d3273d3f8833d263e367"
 mode = "metadata:curseforge"
 
 [update]

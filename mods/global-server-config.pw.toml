@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/c5dOxpD8/versions/19JfFGV6/global-server-config-forge-1.18.2%2B-1.0.jar"
-hash-format = "sha512"
-hash = "e44154f9c45ea2c59a5626b271704193891d0dd984c19a45aa621f02b4d973f908fdede8a2d68ea5d28e7f275e4f289356d920e3eb1453fb1f4fe38301edfc88"
+hash-format = "sha256"
+hash = "ddf77fcd65e5b39757c1dd7c80e17f3869b49b999bfa979adda5902db6d7a40a"
 
 [update]
 [update.modrinth]

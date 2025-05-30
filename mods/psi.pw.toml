@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pOeA0exL/versions/PVwCHaWy/Psi-1.20.1-102.jar"
-hash-format = "sha512"
-hash = "62e478379389aa44f15b5a68549c41341c7edea155fbefd253cb97d6595d24dad5ce42b67651e7fcbe0a46ea0eefab7355e410ee0ece7a1aab420387a8f111e6"
+hash-format = "sha256"
+hash = "79ae09bb3b4d480fbca89d9b14124b558ae375862f49db8c68c2ac1dc77be5a0"
 
 [update]
 [update.modrinth]

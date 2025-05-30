@@ -3,8 +3,8 @@ filename = "EpheroLib-1.20.1-FORGE-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "236c34e058b12f8cce947b20d906d5f7c628c47cb98b56d7613622251867b2477974cecbe58ae71f74149c06b0cc3024984430485e469636de42ae1da71a4abb"
+hash-format = "sha256"
+hash = "8924a015f28348c806e6680addc2d5a8bcaf8439dd51ce48ce3b2f2b0e522407"
 mode = "metadata:curseforge"
 
 [update]

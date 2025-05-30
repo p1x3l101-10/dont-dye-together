@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/FgkXECD1/hexParse-forge-1.20.1-0.9.8.jar"
-hash-format = "sha512"
-hash = "8708ac6ca9cf050c780e9a1c8c04c2064e1115e0645ab5a95f07ba728d0d2496f18ac7e34ae9e8a82fe785146279efef25d11f4b7109e11c62a43ce8117dd9d1"
+hash-format = "sha256"
+hash = "4bd3518ee5068f3f7cc75efcb2cae7bdee5bf07a0d6cd413e9c76d8dc5adac31"
 
 [update]
 [update.modrinth]

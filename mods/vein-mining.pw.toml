@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bRAPbNyF/versions/qV4B4EMI/veinmining-forge-1.5.0%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "6a5423885a35b2c28561f28bd12e3f03b52c296bc1f4d050cd03a4b5485e0cdc90b3ac8bff0880353436af061f16a7342dc197a95ee28e88cc76c770341151fa"
+hash-format = "sha256"
+hash = "0863db13b3e13ec5fd077df1b64c21ab7637048880713c859246a6e1d7144460"
 
 [update]
 [update.modrinth]

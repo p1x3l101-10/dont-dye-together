@@ -3,8 +3,8 @@ filename = "oil_well_yeeter-0.3-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "ce4ccfaa745bc33433359eaaf65eb5c2c316c74b1ced915cdc1c54f8cf4b8911f0bf7550b62ff57b3708d0e87c1af978b83a1a44dbcc0a786df0202fc205874b"
+hash-format = "sha256"
+hash = "c4bee967d503e0bb33b95ff34cc798e4c208a1772c92b51bab232215aa1604ab"
 mode = "metadata:curseforge"
 
 [update]

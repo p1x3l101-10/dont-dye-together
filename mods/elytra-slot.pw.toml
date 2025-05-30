@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mSQF1NpT/versions/k6lA080t/elytraslot-forge-6.4.4%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "0fc4adb7e3b7469eb925ebde8e9364524595187f9b15791ac6ff009d07d44d562b17c58d6e3b0a40fe3c40fdbd57b64343a8fe942d4b6c7022aa9cd34f7a8cef"
+hash-format = "sha256"
+hash = "f96c26e7ac9e2dade0aa04f71b9f8708a2b7af92b9cc691103ae32c62764e6ab"
 
 [update]
 [update.modrinth]

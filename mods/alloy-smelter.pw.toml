@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qq5kJ7f2/versions/h1X87P40/alloy_smelter-forge-1.20.1-1.1.2.1.jar"
-hash-format = "sha512"
-hash = "61e408b5ad209e14297148022ec655c145850c1a3cb543cbd38f5ad447ff11c7f7a6d23df534721326aa9239a041ab80c658cb224aa5268d7580f098fd46c719"
+hash-format = "sha256"
+hash = "7f960dd66555f1ea74222a8fdc0822c27c14ad55cfe637a3fb1d70dce691ebf1"
 mode = "url"
 
 [update]

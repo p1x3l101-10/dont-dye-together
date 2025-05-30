@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T5WrqYg8/versions/f5OLnboG/tinkers_vein_miner-1.1.0.jar"
-hash-format = "sha512"
-hash = "0b1fade25d81dd7cd9edcfed7447ced41c499f0beda889d9adddb3afca218d9f5810cbf5de5f2f96381429e04da8eed284c4a719e53cb218a2f7242e2dca50ee"
+hash-format = "sha256"
+hash = "9d0998eea5a0a93323760599419d570ef8879695a2dd9fdb82a735c17ec215fd"
 
 [update]
 [update.modrinth]

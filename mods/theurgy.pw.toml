@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uOVMgoil/versions/S2zk9FAW/theurgy-1.20.1-1.23.4.jar"
-hash-format = "sha512"
-hash = "05f442fa57629b0125499a8588756cc73d9863adc6df506c30e3afd651cc98a382119765dfb93459120add30aab2199bf2fbae616dbe49abf311f1563c3bb393"
+hash-format = "sha256"
+hash = "fd0ef88c30e52969192db27a22492f06ebc24f9942f3e8c8df03184f088f5421"
 
 [update]
 [update.modrinth]

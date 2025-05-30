@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/jJfxP292/hexFlow-forge-1.20.1-0.2.1.jar"
-hash-format = "sha512"
-hash = "c26685dcf8d1e8805ac5ee6b09d55e00bff8b51b2babcc1a191e14d2c0672cd24f31af0fb3c6799f0f46d1e0442060292c998862ca7c28801586096cd9955dae"
+hash-format = "sha256"
+hash = "de704f80a79b5b3f24c6b644d335e2ea14cca6670cd5859cbb531b61e97e8a57"
 
 [update]
 [update.modrinth]

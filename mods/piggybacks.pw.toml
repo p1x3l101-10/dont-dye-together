@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yP77bAiA/versions/v6fEaLH8/piggyback-forge-1.20.1-1.0.0.jar"
-hash-format = "sha512"
-hash = "ec3a3e2c8a5f830438e716cbe84fdb5e64cd537ed6e14a73b7fec55f9c1ec77f48f6978c302fd4afd3a13289439ffbd4d53ba968e7eacb854788c22f48a185b2"
+hash-format = "sha256"
+hash = "6290a4a4fa159552df84761256727e752cc73e476caae62949d86ea7ee479d65"
 
 [update]
 [update.modrinth]

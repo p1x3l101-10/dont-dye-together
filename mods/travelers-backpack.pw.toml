@@ -3,8 +3,8 @@ filename = "travelersbackpack-forge-1.20.1-9.1.38.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "7a45b4e48e5453c236c3ff65771f7e18113cb24e49fa340c4ba490e0409797bce411bf4449d6a781733460c0e4f83aee6d6237437cc38d0dcd1e1e3279670d84"
+hash-format = "sha256"
+hash = "7c93addbaee8b54f22c699de98edab8d7822d1c1e78a83eb7fbd7be0f2838d78"
 mode = "metadata:curseforge"
 
 [update]

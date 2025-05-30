@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/6BuhSIkm/versions/QNkAWZsi/AnnoyingStuffRemover-1.1.0-forge.jar"
-hash-format = "sha512"
-hash = "392e62037771de974c915276f089f733e0a870487a81dca50ab42ac25bed82d2922de9b6910357bffdadb47d94f6599db6c110936392233a375ebf9676448a6a"
+hash-format = "sha256"
+hash = "3979d939e1d824d43de9b8fc554c878174fa06683aede8a7603e32ed584db21b"
 
 [update]
 [update.modrinth]

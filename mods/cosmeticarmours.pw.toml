@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/H3JIzTFR/versions/algz4eWR/CosmeticArmours%20-%201.5.2.1%20-%201.20.1%20-%20Forge.jar"
-hash-format = "sha512"
-hash = "03b3770791e56af7b764c0b6c50f710bf57625c20a8e8cabde4f44e53b0ee93d2ce92f55c8c777dbbf04b19a865f4551c5d1149674102732eb4bc482f280678d"
+hash-format = "sha256"
+hash = "1ff4897e0a602d7ad18c57c71931c4dafb725afba009265024ab64ad55e587ad"
 
 [update]
 [update.modrinth]

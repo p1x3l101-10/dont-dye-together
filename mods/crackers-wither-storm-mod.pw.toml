@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kWjNGDUH/versions/nY68hRY1/witherstormmod-1.20.1-4.2.1-all.jar"
-hash-format = "sha512"
-hash = "bbd0704962588c51337891cff0770b4ec3b008d504458b7323f4550c0ef3ac0515408d5ac8db2616b3f7f873ff3d58b8a7ebe7405ed237ae660eebfc020d1b5e"
+hash-format = "sha256"
+hash = "a23c019b1465c87ba506ada49aa815866e5353ebdc2be3284d9087ff080018ac"
 
 [update]
 [update.modrinth]

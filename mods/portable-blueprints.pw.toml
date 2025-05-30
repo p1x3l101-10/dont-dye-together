@@ -3,8 +3,8 @@ filename = "portable_blueprints-v1.2.0-mv1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "8c2e4a020b64a2f2d153f01233aadac1806448e48558c13cd4f2e4abe080e9f343c08cedee9e4cac93b182b7ce178a099711163028e610c1c8d51a36399139c0"
+hash-format = "sha256"
+hash = "8cbffa7c574e858a19a07594bdd93036105d1f481a334b353f9054efdbf42d82"
 mode = "metadata:curseforge"
 
 [update]

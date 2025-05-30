@@ -3,8 +3,8 @@ filename = "crawlondemand-1.20.x-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2c14827efe411ebb93fda05d26a848a5c96688c7818ee8174599b578c3ed6218396bd7d77f4097721f8bc73b30677053f4bd2401482c6596c4656364ff5bf10f"
+hash-format = "sha256"
+hash = "75d02d6771cf3a5e3c492492665d082bae25b6a75ff7e5fd4382d065613efbb6"
 mode = "metadata:curseforge"
 
 [update]

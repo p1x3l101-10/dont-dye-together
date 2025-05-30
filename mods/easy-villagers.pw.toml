@@ -3,8 +3,8 @@ filename = "easy-villagers-forge-1.20.1-1.1.27.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "c88a1c1ede30f29c2c3f924e96145c35734708cef81a59cd63e4cbcc676da5100672ce04c58ff0f3aaf7f4ca76da578337fab0c1b8e2e188b4b45ea864560618"
+hash-format = "sha256"
+hash = "b60516b27663ae82ecd8f46a00469ee942fa9e304c36345b765a692e7564e7ee"
 mode = "metadata:curseforge"
 
 [update]

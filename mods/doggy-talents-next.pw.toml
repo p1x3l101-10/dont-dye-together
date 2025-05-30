@@ -3,8 +3,8 @@ filename = "DoggyTalentsNext-1.20.1-1.18.53.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "d74ad1acd44187092e5c0c818038e1b48231b1050e6a12c6f8998a6fd9ae4b1260e2fd9730c843074c8eb1dc94fa31065910ce0bf6682c13c95eefcbf2ec7ba1"
+hash-format = "sha256"
+hash = "fc36a3047bcd8e9dd9d0e71ff8851071998db311e14595743c6c135af34d34e1"
 mode = "metadata:curseforge"
 
 [update]

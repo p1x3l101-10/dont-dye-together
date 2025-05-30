@@ -3,8 +3,8 @@ filename = "trinketsandbaubles-1.2.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "fd8f9884de8ab1eaf7665df72d93e30656943ef4855c06a11becc81d467310b02436b4601872fac460bea9144a75b0cc877193d09b7d83517f3e916c14c5ed43"
+hash-format = "sha256"
+hash = "ecc828ba7ba0d2746a449054683b093eaf459ae94c14eca277f5dc384376aed5"
 mode = "metadata:curseforge"
 
 [update]
