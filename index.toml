@@ -3292,6 +3292,11 @@ hash = "b29b617692233d60179a6d7376dade85063af0e73a3cc53c623bf570fb768d82"
 metafile = true
 
 [[files]]
+file = "mods/jousting.pw.toml"
+hash = "d608aa1e2809d8c65c8a03d70f4376a000ff522e7b2ed4e4481d314b66fc8453"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
