@@ -3071,11 +3071,6 @@ hash = "64a02919619b34cb4507593c854f8c706981cc0d1929873acfd00cb2cd482794"
 metafile = true
 
 [[files]]
-file = "mods/daycounter.pw.toml"
-hash = "effd7a3321b9a4b9fb36600ae6eca20802aa4247a137b37ad659350db2265ed1"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "c6bb82ef7b7ffaea5bd9fe28aa7c344095cdce80d0c279031aa78301e7688713"
 metafile = true
@@ -3878,6 +3873,11 @@ metafile = true
 [[files]]
 file = "mods/twerk-crop-growth.pw.toml"
 hash = "047fb92a161581dd4b7c982fe5418b9945992a6f600143a1cec78f2aef1a9f76"
+metafile = true
+
+[[files]]
+file = "mods/typewriter-daycounter.pw.toml"
+hash = "b43d84d2d1cd580128cf670622dd50dd1d23e81741f09c62e66ebaef1d0b8d39"
 metafile = true
 
 [[files]]
