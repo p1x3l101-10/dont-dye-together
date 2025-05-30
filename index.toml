@@ -2010,102 +2010,6 @@ hash = "63fbdf69de4f997743954643cbfacfaa8fe2fdf60a22646b6830f4eb6fe4e01e"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/coaltoadastraoil.zip"
-hash = "74a117baa47ce13ad83fef763ba0e23db1b5a9fd6fd892ccf80a8428170f8c9f"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/ad_astra_rocketed/recipes/nasa_workbench/default/tier_5_rocket_from_nasa_workbench.json"
-hash = "3f63b576171dfc58f9317a5c4af95df3c78ece84500ad5d437a458b450643d2b"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/ad_astra_rocketed/recipes/nasa_workbench/default/tier_6_rocket_from_nasa_workbench.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/ad_astra_rocketed/recipes/nasa_workbench/default/tier_7_rocket_from_nasa_workbench.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension/end_orbit.json"
-hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension/kerbin.json"
-hash = "f95bceb8b88faba74bc8b7938c2611ea48a2395bc253efecc122bbdd50b26044"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension/kerbin_orbit.json"
-hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension/twilight_forest_orbit.json"
-hash = "fa52d5f2f20633d2e100b9535fe9de4c625c983a3e095fff9decadf1314fbeb4"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension_type/end_orbit.json"
-hash = "8db7b7e4a48b62b32173a485ec241d8d32c4d0e35eafe2e998ff2fcf334c91de"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension_type/kerbin_orbit.json"
-hash = "dd2ade44711a8e3ffcc8b4ab922c6186b92bb66fd18137c41ad095fe2c6ca769"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/dimension_type/twilight_forest_orbit.json"
-hash = "f8eca3dbf01d9a2203a597f2bbf5dc50de00dde7e418bf72709a81ef19adcade"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/end.json"
-hash = "788dc04915180343d93d70314099f53a1b44d0dcac34d5e8b6bb4f06614257ab"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/end_orbit.json"
-hash = "5fe088acc089a38a5b441d696ff1b8dc022a225310d4c71fb1d5efc2f0d69a15"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/kerbin.json"
-hash = "081626b5d6176bff89fb391c6044e27cdccb1979f28a427d78e7a80f85ab5f13"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/kerbin_orbit.json"
-hash = "0e73dd64a89266bf6bd6128e0032ad6d76b0cde5b14c381980ad973cfc9f7994"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/twilight_forest.json"
-hash = "1ad9734c9a0c3860d23eec3f8957e5f2412f44b478abe2e4bf865352c20c185a"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/data.disabled/dont_dye_together/planets/twilight_forest_orbit.json"
-hash = "8f0364112d74e79098c3583587670fba32186ac056f505d85d6b66dd5c0ec4d8"
-
-[[files]]
-file = "config/paxi/datapacks/modpack_tweaks/pack.mcmeta"
-hash = "82fde6036b49f9653b329d5dcba924f838643859f7a8e8c97303d334fbf20427"
-
-[[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/data/hexcasting/advancements/grant_patchi_book.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/data/simplyswords/advancements/grant_book_on_first_join.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/paxi/datapacks/removeSpawnBooks/pack.mcmeta"
-hash = "33a0ea1c9289bbade2472bd6d4e74283eb7fe9417eac252c7a6b7ae39d35919e"
-
-[[files]]
-file = "config/paxi/datapacks/template-flaytapack19/data/hexcasting/recipes/brainsweep/flaytemplate.json"
-hash = "dcc68b6e8dd69a8dba91f5dac5968b54d6775f70ea2bf389a3913f21e6ef61f9"
-
-[[files]]
-file = "config/paxi/datapacks/template-flaytapack19/data/hexcasting/recipes/brainsweep/flaytemplatewithprofession.json"
-hash = "f636918d94c19638ca7c4955f116789accdefbcc8f6eee475221eabd71e57641"
-
-[[files]]
-file = "config/paxi/datapacks/template-flaytapack19/pack.mcmeta"
-hash = "97a77335cf8f101b53c9d568eaba8dbac17cd937a41210f358a38c75d5e0df66"
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -2583,6 +2487,78 @@ hash = "d8e36f2aedcba5893c71ce8c238e04916f90cc8cd7c5a1b1d525528e3445dadb"
 [[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "kubejs/data/ad_astra_rocketed/recipes/nasa_workbench/default/tier_5_rocket_from_nasa_workbench.json"
+hash = "3f63b576171dfc58f9317a5c4af95df3c78ece84500ad5d437a458b450643d2b"
+
+[[files]]
+file = "kubejs/data/ad_astra_rocketed/recipes/nasa_workbench/default/tier_6_rocket_from_nasa_workbench.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/ad_astra_rocketed/recipes/nasa_workbench/default/tier_7_rocket_from_nasa_workbench.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/dimension/end_orbit.json"
+hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/dimension/kerbin.json"
+hash = "f95bceb8b88faba74bc8b7938c2611ea48a2395bc253efecc122bbdd50b26044"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/dimension/kerbin_orbit.json"
+hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/dimension/twilight_forest_orbit.json"
+hash = "fa52d5f2f20633d2e100b9535fe9de4c625c983a3e095fff9decadf1314fbeb4"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/dimension_type/end_orbit.json"
+hash = "8db7b7e4a48b62b32173a485ec241d8d32c4d0e35eafe2e998ff2fcf334c91de"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/dimension_type/kerbin_orbit.json"
+hash = "dd2ade44711a8e3ffcc8b4ab922c6186b92bb66fd18137c41ad095fe2c6ca769"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/dimension_type/twilight_forest_orbit.json"
+hash = "f8eca3dbf01d9a2203a597f2bbf5dc50de00dde7e418bf72709a81ef19adcade"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/planets/end.json"
+hash = "788dc04915180343d93d70314099f53a1b44d0dcac34d5e8b6bb4f06614257ab"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/planets/end_orbit.json"
+hash = "5fe088acc089a38a5b441d696ff1b8dc022a225310d4c71fb1d5efc2f0d69a15"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/planets/kerbin.json"
+hash = "081626b5d6176bff89fb391c6044e27cdccb1979f28a427d78e7a80f85ab5f13"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/planets/kerbin_orbit.json"
+hash = "0e73dd64a89266bf6bd6128e0032ad6d76b0cde5b14c381980ad973cfc9f7994"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/planets/twilight_forest.json"
+hash = "1ad9734c9a0c3860d23eec3f8957e5f2412f44b478abe2e4bf865352c20c185a"
+
+[[files]]
+file = "kubejs/data/dont_dye_together/planets/twilight_forest_orbit.json"
+hash = "8f0364112d74e79098c3583587670fba32186ac056f505d85d6b66dd5c0ec4d8"
+
+[[files]]
+file = "kubejs/data/hexcasting/advancements/grant_patchi_book.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/simplyswords/advancements/grant_book_on_first_join.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/endcake.js"
