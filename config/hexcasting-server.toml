@@ -5,7 +5,7 @@ villagersOffendedByMindMurder = true
 #Resource locations of dimensions you can't Blink or Greater Teleport in.
 tpDimDenyList = ["twilightforest:twilight_forest"]
 #when false makes player reference iotas behave as normal entity reference iotas
-doesTrueNameHaveAmbit = true
+doesTrueNameHaveAmbit = false
 
 [Spells]
 	#The maximum number of actions that can be executed in one tick, to avoid hanging the server.

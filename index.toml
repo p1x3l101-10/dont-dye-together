@@ -1258,7 +1258,7 @@ hash = "5684dc1338494ca6ca7628cde1333f0dffa4e1648b454099de60d454fd75457a"
 
 [[files]]
 file = "config/hexcasting-server.toml"
-hash = "f23caeeda0f4326a1bea28a9709adeae822402cb6f228b9e811ee3e5cb5afdda"
+hash = "f0f4543563be7fda58d86bbf91a0cd83f7451826c64aef5f5174bf42441ebede"
 
 [[files]]
 file = "config/hexparse-common.toml"
