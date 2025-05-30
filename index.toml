@@ -2168,11 +2168,6 @@ hash = "34bc07eec24861e9c6aca2042ee5c1be1ac76eec574a4dcdd650afd5444a2087"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/texture-of-paul90317s-datapacks.pw.toml"
-hash = "b98612b10dc845428b5bad294f3da42c2442bc8060876bc0cdb4b52106f6e0a4"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "23cc23553e51fffdf63bd3702c2ac6aff7f307bd7a368521710fb62c5a36641f"
 metafile = true
@@ -2761,11 +2756,6 @@ hash = "f6687ea530f514dd59f395c94c83d33def348f4c45dea380c29dc0e1f0e0e8ed"
 metafile = true
 
 [[files]]
-file = "mods/ancient-tome.pw.toml"
-hash = "c6d939a95afd14d74deebd66c02ca3d47e18972482f84b1c45ecca51680adc2b"
-metafile = true
-
-[[files]]
 file = "mods/annoying-stuff-remover.pw.toml"
 hash = "313b45bedb51bdd852e645d2918d0b79d26ee4a1564bb93c117fa1b205575ac2"
 metafile = true
@@ -2783,11 +2773,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
-metafile = true
-
-[[files]]
-file = "mods/applied-botanics.pw.toml"
-hash = "9670211043e3f424c03b4efe769e4d786d0c14d4d3d83129eea7eb02caf0604d"
 metafile = true
 
 [[files]]
@@ -2853,21 +2838,6 @@ metafile = true
 [[files]]
 file = "mods/bonsai-trees.pw.toml"
 hash = "b219c92d3bb6bda4fb780fce56258abccb91d7d1a756ad65051edd13aabed62f"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
-hash = "a887995b6b13005086ea935735d41aee51b81bfc79c49b7b36028f7f8dd148dc"
-metafile = true
-
-[[files]]
-file = "mods/botanical-extra-machinery.pw.toml"
-hash = "a46738f1816f131ea0ccab845f112b7aee7120884e4ad5f580b2619eba32f310"
-metafile = true
-
-[[files]]
-file = "mods/botanical-machinery.pw.toml"
-hash = "6610d58102950b8aac8850ffae66c9cc0c57e6e5e36e6162906833f8cfe61097"
 metafile = true
 
 [[files]]
@@ -3098,11 +3068,6 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "c6bb82ef7b7ffaea5bd9fe28aa7c344095cdce80d0c279031aa78301e7688713"
-metafile = true
-
-[[files]]
-file = "mods/disenchanting-book.pw.toml"
-hash = "beed8a0f78dd3d5309cb858fc36d072e8fc9bbe2298365751ff6bb4faff5228a"
 metafile = true
 
 [[files]]
@@ -3498,11 +3463,6 @@ metafile = true
 [[files]]
 file = "mods/libnonymous.pw.toml"
 hash = "0015d15eb7cb0308e0d0803dcde1c38cac6281eae4456b6519846a956ef74b9f"
-metafile = true
-
-[[files]]
-file = "mods/libx.pw.toml"
-hash = "5f92ea3a89a013d4a004e1a391ee00dad45715d46e002210a5692b87ef324815"
 metafile = true
 
 [[files]]
