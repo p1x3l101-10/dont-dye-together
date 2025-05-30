@@ -1,0 +1,13 @@
+name = "Texture of Paul90317's Datapacks"
+filename = "paul90317-resourcepack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G4PdFL69/versions/MLbgOVTp/paul90317-resourcepack.zip"
+hash-format = "sha512"
+hash = "307914cc0938fd888729bf959349d462662acc65fb10771f8eeebdede59d3f2cee95550b383bbad6572182b2b58b6b6fec3ef5b36b22d881861dcc29748fbeae"
+
+[update]
+[update.modrinth]
+mod-id = "G4PdFL69"
+version = "MLbgOVTp"
