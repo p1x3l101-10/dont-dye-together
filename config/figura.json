@@ -1,5 +1,8 @@
 {
   "CONFIG_VERSION": 1,
   "inventory_scissor": false,
-  "main_dir": "/home/pixel/Documents/Figura"
+  "panic_button": "key.keyboard.comma",
+  "main_dir": "/home/pixel/Documents/Figura",
+  "allow_networking": true,
+  "networking_restriction": 2
 }

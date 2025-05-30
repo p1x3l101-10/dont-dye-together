@@ -1,0 +1,6 @@
+// Compost colors for create_tutorial_books. You may add your own colors, change existing ones, or remove colors that aren't needed.
+book_1, #865241
+book_2, #5f5a54
+book_3, #908a83
+book_4, #757270
+book_5, #76736f

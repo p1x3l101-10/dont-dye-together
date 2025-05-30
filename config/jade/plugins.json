@@ -5,8 +5,8 @@
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -51,10 +51,24 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
+  "exdeorum": {
+    "infested_leaves": true,
+    "barrel": true,
+    "crucible": true,
+    "sieve": true
+  },
+  "bonsaitrees3": {
+    "bonsaipot": true
+  },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
+  "excompressum": {
+    "bait": true,
+    "auto_sieve": true,
+    "heavy_sieve": true,
+    "auto_hammer": true,
+    "wooden_crucible": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -64,8 +78,10 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "waystones": {
-    "waystone": true
+  "apotheosis": {
+    "adventure": true,
+    "ench": true,
+    "spawner": true
   },
   "balm": {
     "jade": true
@@ -81,6 +97,31 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "mekanism": {
+    "infuse_type": true,
+    "gas": true,
+    "remove_builtin": true,
+    "pigment": true,
+    "fluid": true,
+    "slurry": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "touhou_little_maid": {
+    "maid": true,
+    "shrine_lamp": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "waystones": {
+    "waystone": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
