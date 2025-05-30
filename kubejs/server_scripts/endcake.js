@@ -1,4 +1,5 @@
 ServerEvents.recipes(event => {
+    event.remove({ output: 'exdeorum:end_cake' });
     event.shaped(
         Item.of('exdeorum:end_cake'),
         [

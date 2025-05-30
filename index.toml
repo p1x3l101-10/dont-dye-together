@@ -2586,7 +2586,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "kubejs/server_scripts/endcake.js"
-hash = "cffb3fd6020ebb3becdd59f618a556a7407917d9728d215e23ba21ab9dd5b300"
+hash = "aa10295eda8e19ac34264ce43b2f450db6f4a3e713ce05c835cd2b219fded13f"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting.js"
