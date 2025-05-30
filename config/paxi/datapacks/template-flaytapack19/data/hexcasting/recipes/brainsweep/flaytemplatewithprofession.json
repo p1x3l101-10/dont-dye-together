@@ -1,0 +1,14 @@
+{
+    "type": "hexcasting:brainsweep",
+    "blockIn": {
+      "type": "block",
+      "block": "minecraft:cobblestone"
+    },
+    "result": {
+      "name": "minecraft:stone"
+    },
+    "villagerIn": {
+      "minLevel": 3,
+      "profession": "minecraft:toolsmith"
+    }
+  }

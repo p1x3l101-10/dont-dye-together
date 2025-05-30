@@ -1,0 +1,13 @@
+{
+    "type": "hexcasting:brainsweep",
+    "blockIn": {
+      "type": "block",
+      "block": "minecraft:dirt"
+    },
+    "result": {
+      "name": "minecraft:grass"
+    },
+    "villagerIn": {
+      "minLevel": 3
+    }
+  }

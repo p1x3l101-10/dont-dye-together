@@ -2005,10 +2005,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/.keep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/paxi/datapacks/coal-to-ad-astra-oil.pw.toml"
 hash = "63fbdf69de4f997743954643cbfacfaa8fe2fdf60a22646b6830f4eb6fe4e01e"
 metafile = true
@@ -2018,67 +2014,67 @@ file = "config/paxi/datapacks/coaltoadastraoil.zip"
 hash = "74a117baa47ce13ad83fef763ba0e23db1b5a9fd6fd892ccf80a8428170f8c9f"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/ad_astra_rocketed/recipes/nasa_workbench/default/tier_5_rocket_from_nasa_workbench.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/ad_astra_rocketed/recipes/nasa_workbench/default/tier_5_rocket_from_nasa_workbench.json"
 hash = "3f63b576171dfc58f9317a5c4af95df3c78ece84500ad5d437a458b450643d2b"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/ad_astra_rocketed/recipes/nasa_workbench/default/tier_6_rocket_from_nasa_workbench.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/ad_astra_rocketed/recipes/nasa_workbench/default/tier_6_rocket_from_nasa_workbench.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/ad_astra_rocketed/recipes/nasa_workbench/default/tier_7_rocket_from_nasa_workbench.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/ad_astra_rocketed/recipes/nasa_workbench/default/tier_7_rocket_from_nasa_workbench.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension/end_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/dimension/end_orbit.json"
 hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension/kerbin.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/dimension/kerbin.json"
 hash = "f95bceb8b88faba74bc8b7938c2611ea48a2395bc253efecc122bbdd50b26044"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension/kerbin_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/dimension/kerbin_orbit.json"
 hash = "f0daec45c4e9d0d24d276b525c5318cd35974038e0fa5dc83ee6aa4e3f70b5b7"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension/twilightforest_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/dimension/twilightforest_orbit.json"
 hash = "8a629f8e60cd0cc047555266ee55f7c48714693530cb75a760bbbdc0377e3fdb"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension_type/end_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/dimension_type/end_orbit.json"
 hash = "8db7b7e4a48b62b32173a485ec241d8d32c4d0e35eafe2e998ff2fcf334c91de"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension_type/kerbin_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/dimension_type/kerbin_orbit.json"
 hash = "dd2ade44711a8e3ffcc8b4ab922c6186b92bb66fd18137c41ad095fe2c6ca769"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/dimension_type/twilightforest_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/dimension_type/twilightforest_orbit.json"
 hash = "1ecb1afe64b207e2cb2ad50a7177398eee4aa214c0c6561b90ebf1c03a6822ed"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/end.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/planets/end.json"
 hash = "788dc04915180343d93d70314099f53a1b44d0dcac34d5e8b6bb4f06614257ab"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/end_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/planets/end_orbit.json"
 hash = "5fe088acc089a38a5b441d696ff1b8dc022a225310d4c71fb1d5efc2f0d69a15"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/kerbin.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/planets/kerbin.json"
 hash = "081626b5d6176bff89fb391c6044e27cdccb1979f28a427d78e7a80f85ab5f13"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/kerbin_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/planets/kerbin_orbit.json"
 hash = "0e73dd64a89266bf6bd6128e0032ad6d76b0cde5b14c381980ad973cfc9f7994"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/twilight_forest.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/planets/twilight_forest.json"
 hash = "2aa46005f22697c7e116f47e4a35d7942a34a933621a381cdd6fdfe51e57b6cd"
 
 [[files]]
-file = "config/paxi/datapacks/modpack_tweaks/dont_dye_together/planets/twilightforest_orbit.json"
+file = "config/paxi/datapacks/modpack_tweaks/data/dont_dye_together/planets/twilightforest_orbit.json"
 hash = "ddfc537c02f0a166460f81a5ad4b2ce2848c9b5d7c8b4e1ac7ac1675cd08748f"
 
 [[files]]
@@ -2096,6 +2092,18 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/paxi/datapacks/removeSpawnBooks/pack.mcmeta"
 hash = "33a0ea1c9289bbade2472bd6d4e74283eb7fe9417eac252c7a6b7ae39d35919e"
+
+[[files]]
+file = "config/paxi/datapacks/template-flaytapack19/data/hexcasting/recipes/brainsweep/flaytemplate.json"
+hash = "dcc68b6e8dd69a8dba91f5dac5968b54d6775f70ea2bf389a3913f21e6ef61f9"
+
+[[files]]
+file = "config/paxi/datapacks/template-flaytapack19/data/hexcasting/recipes/brainsweep/flaytemplatewithprofession.json"
+hash = "f636918d94c19638ca7c4955f116789accdefbcc8f6eee475221eabd71e57641"
+
+[[files]]
+file = "config/paxi/datapacks/template-flaytapack19/pack.mcmeta"
+hash = "97a77335cf8f101b53c9d568eaba8dbac17cd937a41210f358a38c75d5e0df66"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -2583,6 +2591,10 @@ hash = "cffb3fd6020ebb3becdd59f618a556a7407917d9728d215e23ba21ab9dd5b300"
 [[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "f4943efcd11ceee58141d2a949917bde5f8446768f052b054ddf460dfb0bf2ca"
+
+[[files]]
+file = "kubejs/server_scripts/merge_phial.js"
+hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
 [[files]]
 file = "mods/ad-astra-oil-well-yeeter.pw.toml"
@@ -3195,6 +3207,11 @@ hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
 metafile = true
 
 [[files]]
+file = "mods/hexweb.pw.toml"
+hash = "7fa9fd05f6efd11cede25afa091a8c7014aed83674bb7800aa6bf7aa35005165"
+metafile = true
+
+[[files]]
 file = "mods/hostile-neural-networks.pw.toml"
 hash = "d8f52c6109108160c9ca80ae2d1fd03f3b27f4a3196c62ba805928b66482be5b"
 metafile = true
@@ -3412,6 +3429,11 @@ metafile = true
 [[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "887f7fc2abacfa12b1ee393c759b71d56c97b91a965c01f9d23c6115a45d5acf"
 metafile = true
 
 [[files]]
