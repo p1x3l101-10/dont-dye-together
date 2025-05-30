@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yggMRGCG/versions/sZi7bXZk/createimmersiveunnecessaryshaft-0.2.0.jar"
-hash-format = "sha256"
-hash = "d13c7fadde05dfacf9bf4770c001eaf793ddcb69655ab8ba3270f6f06846f721"
+hash-format = "sha512"
+hash = "4a307161260f589461ab4ab52d3ea40c3df7c75eea447d8bf1a1e1e8b1f3dbdcd353421de3aeaf190ca2726801ab32fda2d44a32f4ebe3d272b9d11d1d224511"
 
 [update]
 [update.modrinth]

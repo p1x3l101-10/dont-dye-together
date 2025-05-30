@@ -3,8 +3,8 @@ filename = "Croptopia-1.20.1-FORGE-3.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2008e6887b9490c491ddb471e87cfb6d26684dc5"
+hash-format = "sha512"
+hash = "a21f2d87d75c27bc10d981eff0cf41a876298b1ed4510a1315879e5f3bd3487af248a1dc0eac8cbd26507a4e809596ac186158b03ce98984d628901b4f9dc4ad"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "waystones-forge-1.20.1-14.1.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "6f09bd44fd37af147a883e9f1c205b4483f503897febb90f8275db5e95456a1e"
+hash-format = "sha512"
+hash = "9423340ad9fb8b0b7a949762b9f04254c72e73dabe13113a05d4d152e2589600d9bfb9ce3980f433bb64f1e9a5d419889bb8ea3e3374719d80106998953b1700"
 mode = "metadata:curseforge"
 
 [update]

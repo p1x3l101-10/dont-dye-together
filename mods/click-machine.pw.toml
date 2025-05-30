@@ -3,8 +3,8 @@ filename = "ClickMachine-1.20.1-8.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2ddc1d4e0df375eb402f86065c76b3c7f84f0ee6"
+hash-format = "sha512"
+hash = "7b584070cd1afa864e11a6e48ba83f48dd5ffc91595cf1999380d11a60894b5ab22666927a0e983bdf4e9fa1c942f8c4d5cf8f6ccf63d1579ec66a6002cbbfde"
 mode = "metadata:curseforge"
 
 [update]

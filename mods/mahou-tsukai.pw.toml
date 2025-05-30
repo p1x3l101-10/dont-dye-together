@@ -3,8 +3,8 @@ filename = "mahoutsukai-1.20.1-v1.34.78.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "820ce4764f8e552363af7855de39355f346509a609bb03add8d8b0a8ce96c4ca"
+hash-format = "sha512"
+hash = "a2f59d6d38a9b9b1af4d39b7868795f4873352064e3b49e6c007ba94146415427097ad687b9db4bd5cf717071687183dea82ae6b1082f7f73978b9e4b1de897e"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "man_of_many_planes-0.2.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "c8b649c12c344435b7821c713fa43f1b7104e4a6741108f33252d3a3ae5d9dc6"
+hash-format = "sha512"
+hash = "82d78136ea735447b2a8ed929e26776b508b973b1c9200dffb3cc7de76b9e138b6563180fa906c46d9fa726aa1012e139f03e7fd008815b20b1066ae484d149c"
 mode = "metadata:curseforge"
 
 [update]

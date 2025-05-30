@@ -3,8 +3,8 @@ filename = "rarcompat-1.20.1-0.1.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "6d1295d2be8ebb2779b2aca5e8fe8559fd09308e3881cec0722f89b2c725d754"
+hash-format = "sha512"
+hash = "9d2cbdd957fa1fb2168f029db9237764f843defed967e5b7dde3a6257c3c026172e6019327834d9b76c5f4ccf0c9d17168aa6faf1910bcb5dbb998cf9f9a2dc6"
 mode = "metadata:curseforge"
 
 [update]

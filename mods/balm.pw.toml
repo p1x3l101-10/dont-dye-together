@@ -3,8 +3,8 @@ filename = "balm-forge-1.20.1-7.3.30-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "df060fe183c16297d4e0e819076aea38c65e02b0"
+hash-format = "sha512"
+hash = "afad53a8a70198978dd8a488db76f66217b27ebd91643e6d6652e89e368194d614edb8e4df381c547ca5d74e2338a1093003edf5b11fefaaaf94b3dc934f3cdb"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/XP4qT1Vo/FpsReducer2-forge-1.20-2.5.jar"
-hash-format = "sha256"
-hash = "4edeec5c3dc690e06a647dd5f4d5cd4f95330e0d0b0d7aceb3748f10dbd64b90"
+hash-format = "sha512"
+hash = "b4cc36c9510248757f3725beb4009fb66ff9daffef5695560b0fd46b9f4ec25ab54713ebae90a220a9a9bcae539c3dbeb3ead6203752e90164adccca29122cf0"
 
 [update]
 [update.modrinth]

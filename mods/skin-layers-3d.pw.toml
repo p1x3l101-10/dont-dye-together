@@ -3,8 +3,8 @@ filename = "skinlayers3d-forge-1.7.5-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "a0fa23c0043fa2750be8fd5b75bd046d8850e9dd03eef3142468868887d2ff5f"
+hash-format = "sha512"
+hash = ""
 mode = "metadata:curseforge"
 
 [update]

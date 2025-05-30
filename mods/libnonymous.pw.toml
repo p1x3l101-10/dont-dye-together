@@ -3,8 +3,8 @@ filename = "libnonymous-1.20.1-2.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8a9bb48b53865e76b0e7b56d5ddc629d08b75430"
+hash-format = "sha512"
+hash = "757aba4c3c5f6eee555eb2bd1e166c2f18df93b2f7175f59b01967a9e5e5acb847500a45bb6a3308def79df0f780ce32eb3cb4e481bf44fe1d4f6e5918a20419"
 mode = "metadata:curseforge"
 
 [update]
