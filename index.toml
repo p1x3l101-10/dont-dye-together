@@ -321,6 +321,106 @@ file = "config/betterwitchhuts-forge-1_20.toml"
 hash = "7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "1dcef1097c8c147d53ffa9e99e391c1bec55fde717ae54969de6f231c2a4d840"
+
+[[files]]
+file = "config/bluemap/maps/world.conf"
+hash = "5abda0daec6d5c9bb84a7a6178c352bfebbc2537dd6e033bc2d472b240eae173"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_earth_orbit.conf"
+hash = "f4b0a571d72f3c1e3cdafeac08a1a551ba3ee0612cef23a707513202bd3045ad"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_glacio.conf"
+hash = "2efb45fb0e4f7395e9230a8578414e748b83d79710566bbca07068de4c4a64a9"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_glacio_orbit.conf"
+hash = "7a5cfa3a65488e04487ca3e14c8947499ba6403e126e4272148792ddf4b2781e"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_mars.conf"
+hash = "b864d4341d5ae1cebfe7e91c489fb88c7d00dc1dca94950e01904726633821d6"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_mars_orbit.conf"
+hash = "f5607b96e4ae3ee55920478b81943d0b4dc1e2bf3b4c9dbf8737f06596228384"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_mercury.conf"
+hash = "4fa80bc9e3a80703f42beccc79ad19871c8042f2901db28dd1b684da8e782a11"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_mercury_orbit.conf"
+hash = "f81a738edad21fd94bdc82e25aa5842fd444ef02d0530c9e588d55c2a1b560b2"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_moon.conf"
+hash = "42502143081783d3212eb377500cc3d6a4cd630625de33f21ff587699df892a2"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_moon_orbit.conf"
+hash = "f93297982c427aea3403d8dcb3468fa093defbaab24944bdd60544e4c7bf1f3a"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_venus.conf"
+hash = "50cc20c7d77489edb4f5d1e14dd2a18b201eb6ddf6162e735f0c753ab6b8ca2d"
+
+[[files]]
+file = "config/bluemap/maps/world_ad_astra_venus_orbit.conf"
+hash = "cdcf914f4c5bd94f1b707060098e6e8d0c97ed3149976cf2161c7395d4d1be3c"
+
+[[files]]
+file = "config/bluemap/maps/world_ae2_spatial_storage.conf"
+hash = "5b4d544ef4df6bab7694b3c2d6f2068c3ffd50cd21c43830908fd73f6011d347"
+
+[[files]]
+file = "config/bluemap/maps/world_mahoutsukai_reality_marble.conf"
+hash = "7668bbc8bd53c26cffa871b23f14e7825a8005d9ad7f85acb27a875a73b7f25b"
+
+[[files]]
+file = "config/bluemap/maps/world_the_end.conf"
+hash = "073ed08979efb33521d5fe8dc4b939d0b9dade220081d59fb5bb8a2680323788"
+
+[[files]]
+file = "config/bluemap/maps/world_the_nether.conf"
+hash = "897705ff44b710ea423b9ff5dfd9b507215218bd40ef87e7f59032ae3e71a8d1"
+
+[[files]]
+file = "config/bluemap/maps/world_twilightforest_twilight_forest.conf"
+hash = "821bc84a5048d76c7c9f11dd8da3ee5aa53dc0c2334f08964a55068e16c060b0"
+
+[[files]]
+file = "config/bluemap/maps/world_witherstormmod_bowels.conf"
+hash = "f2beb23c04e911f18be53670e59deb551fe077d2b121af755e14a539e31fc78a"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
+file = "config/bluemapofflineplayermarkers/config.json"
+hash = "d4758accd13acda597dfc5cea7428074a558ce04cb898c05cf614e8c15eb1f6b"
+
+[[files]]
 file = "config/blueprint-client.toml"
 hash = "bfcfb80974100b4371be80105488e537c066cd3651d35d977a91e158e23cad60"
 
@@ -405,6 +505,10 @@ file = "config/chiselsandbits-common.toml"
 hash = "948c4b2f1a557ca6f8ffa2bcd8913a3be616353cbbb4443923c990c6e032dc0d"
 
 [[files]]
+file = "config/chiselsandbits-server.toml"
+hash = "7a2e1ce43e84e13e9cfb5ab9ff0d67bacbab159c7da588a04724319d9ee19233"
+
+[[files]]
 file = "config/citadel-common.toml"
 hash = "0a41518641bbb4133fc61b934e8663ae5271ffd8190a281e5b35d1efd97fb3e3"
 
@@ -481,8 +585,16 @@ file = "config/create-stuff-additions.toml"
 hash = "634d2da58fa62a816f7c8bc56d728a0e40df826071ce6f005feb2a2bf9f5927d"
 
 [[files]]
+file = "config/create_enchantment_industry-server.toml"
+hash = "b8b3862fdbe84330f6e6926a606defe147e2905f9a1c7ccc7c489caac0a6c365"
+
+[[files]]
 file = "config/create_factory_logistics-client.toml"
 hash = "23d000a77a0bbbd31fda7c38dbb6b551910e8e892067c9f9d4cf1727e8878ffd"
+
+[[files]]
+file = "config/create_factory_logistics-server.toml"
+hash = "b6f61a408b9651ba9733cd6f1927edda5218c15c9e4e9234b79e9af6d8098d9b"
 
 [[files]]
 file = "config/create_jetpack-client.toml"
@@ -719,6 +831,10 @@ hash = "af245dbbf9a6b5aa49732f18e4460eacd7a0988db9d544b2aa660110df01928c"
 [[files]]
 file = "config/exdeorum-common.toml"
 hash = "a5230c61e92cb28e95ff84807d21c1e13aeed5cc751963555848902bf5c30838"
+
+[[files]]
+file = "config/exdeorum-server.toml"
+hash = "0eccb4b66d88902d93cf38808e9443affe441e643e07c23359fa146a1482accf"
 
 [[files]]
 file = "config/exdeorum/compost_colors/ad_astra.txt"
@@ -1041,12 +1157,20 @@ file = "config/exdeorum/compost_colors/yungscavebiomes.txt"
 hash = "3325740f27e6c8677c4fb0dff397f06973b4614165c2374311e402246b7abeed"
 
 [[files]]
+file = "config/exmachinis-server.toml"
+hash = "fd9c3f255e27b9e29f226cc917bf02f5c0feea7195dbd81ec691746175edd989"
+
+[[files]]
 file = "config/fallingtrees_client.json"
 hash = "999a84563549e098978ef10d8cc7e3fc5f71145d44095097625154b4de8e73c8"
 
 [[files]]
 file = "config/fallingtrees_common.json"
 hash = "7e55389203c18572491a025db2392fc67ebb4e167a1c617679445210aa88757a"
+
+[[files]]
+file = "config/farlands-common.toml"
+hash = "ba010c3dd536df6f4cd807098a2fdfee90fe676d343d17fd80e4957c4f95b200"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -1337,12 +1461,20 @@ file = "config/immersiveengineering-common.toml"
 hash = "68550b1b9f85bb8b055e602c6178a9a7ff8ec90d226c739f8d8c5ca66e089e47"
 
 [[files]]
+file = "config/immersiveengineering-server.toml"
+hash = "3e598cbab5bda3e6c6181bda2df7485761f6782718252321eb6602769e79336b"
+
+[[files]]
 file = "config/inline/client-config.toml"
 hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
 hash = "caffa7c0a2593e7b4a165e8b540b4ab236a75c4ddab74c7bb56cf210c1662f43"
+
+[[files]]
+file = "config/irons_spellbooks-server.toml"
+hash = "8433fef3f541990b8f0e1d893118180f7aa38e4e16d823a9254cdd37df32c45c"
 
 [[files]]
 file = "config/iswydt.json"
@@ -1367,6 +1499,10 @@ hash = "386909801380d029c0ff9349021b89ce4407aea3dfc92c415af6c5b729d3db3f"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "caa9da31f39b124ea163e988d1b09b8cf5f1a7df1daaa2cf4f84d36f29ceb8ee"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "586dab73e6d084c5eac7890ccc6196b2f634d852736ab44708e6d4ac9f72fcb2"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -1437,6 +1573,10 @@ file = "config/mantle-client.toml"
 hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
 
 [[files]]
+file = "config/mantle-server.toml"
+hash = "65a9cce4474c9be3630f95645918a56cc0c8f2fad10ae06657e67d8622ca6c18"
+
+[[files]]
 file = "config/megacells.json"
 hash = "b9d8a859859ce598ea852230e4d18726756f89b371c03dce59c9ffe5025318d2"
 
@@ -1463,6 +1603,10 @@ hash = "8cd257882931a507adc26f80ecbb0c2fc5e22d7298905ff736e89c9cb14dea37"
 [[files]]
 file = "config/more_immersive_wires-common.toml"
 hash = "7b4b09ddf774ac3f52a9fd5952495173c8585f6d12b26b8d7532e96cd9ddafe9"
+
+[[files]]
+file = "config/more_immersive_wires-server.toml"
+hash = "c2bfbe8f2ab3d441b5c075fe78451a3747ce132f5b01a52a1056ed217e44f5fd"
 
 [[files]]
 file = "config/nameless_trinkets-base.toml"
@@ -2245,6 +2389,10 @@ file = "config/tacz-common.toml"
 hash = "424206898579a76a44e57c9b23d24e5e441c3bf1e22e1944dfaef4794a5bf68f"
 
 [[files]]
+file = "config/tacz-server.toml"
+hash = "4de30eca4aabb92ca5c761296416209a7c49ccf60a71cd79e4b1994532f36a63"
+
+[[files]]
 file = "config/tconstruct-client.toml"
 hash = "3ecfa54cbc0af2455ec7bd01670da92972d0ef341b442ea303242fb95bad7883"
 
@@ -2265,8 +2413,16 @@ file = "config/terrablender.toml"
 hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
 
 [[files]]
+file = "config/tfmg-server.toml"
+hash = "b0385ed8366a49876ce9f3bea1e14a583428a53bc53f038b9e394da83747fc15"
+
+[[files]]
 file = "config/theurgy-client.toml"
 hash = "7d5cc00c70fa3acd9620729c2a4d0812de7472ec70884be58bfe4dda8ea629fc"
+
+[[files]]
+file = "config/theurgy-server.toml"
+hash = "c0100fb0ed8e13169b499e9568873df081acd43462ed4cb24e86c51f6005b118"
 
 [[files]]
 file = "config/tinkersleveling-common.toml"
@@ -2283,6 +2439,10 @@ hash = "856ba9074b5fdb552803eecfd5b4f3d240fb9d3a7780c80c52ccb96e7a479ba5"
 [[files]]
 file = "config/touhou_little_maid-common.toml"
 hash = "1c2853141c088959c46bfa3351873137b1efb7ce8bb687c5cf1f701abbd0167a"
+
+[[files]]
+file = "config/touhou_little_maid-server.toml"
+hash = "2e64408691ecda5d53fa3bb985f70dca5ba9cf166471ba3c0a401f2394129e7b"
 
 [[files]]
 file = "config/touhou_little_maid/available_sites.yml"
@@ -2317,6 +2477,10 @@ file = "config/trinketsandbaubles_mana_hud.json"
 hash = "00cb1086147fa8c86e6a356e68dc1b755a40d29efe8345f2ae9b26226d1f00df"
 
 [[files]]
+file = "config/twerkcropgrowth-server.toml"
+hash = "1261d6a957d59f957e049b0215f32745091191e4d7a4644a4103e1d9bed1c350"
+
+[[files]]
 file = "config/twilightforest-client.toml"
 hash = "77e7aacadc5d425ebe3f19b78bb8af526a589134877c8406244a52108c4697a0"
 
@@ -2339,6 +2503,10 @@ hash = "c493a98b3c92e0f7439306ea7fccc127d9f14aa3dfae7ad6264eccbcb49a14c8"
 [[files]]
 file = "config/veinmining-server.toml"
 hash = "1d5376cd81dc771256a70ef2e01a8dc11823a4848c9d243adf129a2fb8b093be"
+
+[[files]]
+file = "config/vibrativevoice.toml"
+hash = "45c09721d6c3de585aed24a3a322b5339e5fde8203abffed93871de807b8361b"
 
 [[files]]
 file = "config/vminus-common.toml"
@@ -2399,6 +2567,10 @@ hash = "7ac3c18d55572284607ce41dea250f2791e7b193ee4444f737b27a8bf8bfa20d"
 [[files]]
 file = "config/witherstormmod-common.toml"
 hash = "08ad7492a4046dc82c3bfed73734f89dc0cd32a74ea75feab27af7dc65e5983a"
+
+[[files]]
+file = "config/witherstormmod-server.toml"
+hash = "d8e36f2aedcba5893c71ce8c238e04916f90cc8cd7c5a1b1d525528e3445dadb"
 
 [[files]]
 file = "config/yacl.json5"
