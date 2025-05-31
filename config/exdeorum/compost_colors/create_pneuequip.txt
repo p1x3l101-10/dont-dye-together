@@ -1,0 +1,14 @@
+// Compost colors for create_pneuequip. You may add your own colors, change existing ones, or remove colors that aren't needed.
+dev_backtank_chestplate, #9815bb
+incompletechisel, #8a838c
+incompletepneumaticmechanism, #d29d66
+incompletesawchain, #c0b9be
+netheritechisel, #6b6466
+netheritepneumatic_boots, #554e4d
+netheritepneumatic_leggings, #5f524b
+netheritesawchain, #8e898d
+pneumaticarmor_boots, #c09150
+pneumaticarmor_leggings, #bf8c51
+pneumaticmechanism, #cca272
+steelchisel, #8d868e
+steelsawchain, #c0b9be

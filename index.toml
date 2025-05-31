@@ -517,6 +517,26 @@ file = "config/clickmachine.cfg"
 hash = "7e01626d260a6a33067cd256ff41e43387b39ee762d5ed01a05b0a4862eb1222"
 
 [[files]]
+file = "config/coldsweat/client.toml"
+hash = "83fa4a9fd79f49ba7a30050e72da1fb12bdfc99aa6564e948f5647e8314e37ee"
+
+[[files]]
+file = "config/coldsweat/entity.toml"
+hash = "054cb658f87a50cd2c09ee6cf496b4e3dc60fde1c4ddd53b10bdde6665039ff0"
+
+[[files]]
+file = "config/coldsweat/item.toml"
+hash = "de0e8a79fc07caae8db6fe1f8fddba80e867da895e5c89f8c31daa9794ad2de6"
+
+[[files]]
+file = "config/coldsweat/main.toml"
+hash = "e895ca3ecf5ecff179aca9e5052d691cda740bd92d9fe75c2ce2f6c15183bb27"
+
+[[files]]
+file = "config/coldsweat/world.toml"
+hash = "70b0a45655c861632b1a47e6dbcc042e579d588608d9c2812b344b3886990fa3"
+
+[[files]]
 file = "config/copycats-client.toml"
 hash = "70a02fe59453e5b8ad07512adf5feb85fff05bfc3c615349f13d429496f9f7ea"
 
@@ -583,6 +603,10 @@ hash = "c5b566c826e784aee195d0b9213936668d65ecdd43b466cfc7f72230ecf19c25"
 [[files]]
 file = "config/create-stuff-additions.toml"
 hash = "634d2da58fa62a816f7c8bc56d728a0e40df826071ce6f005feb2a2bf9f5927d"
+
+[[files]]
+file = "config/create_airducts-server.toml"
+hash = "82a941ffdb6b239120c3e8bd65a415c56437dbc80db7cca17c57cd31ae316ca8"
 
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
@@ -873,6 +897,10 @@ file = "config/exdeorum/compost_colors/citadel.txt"
 hash = "cf15bd2d6d36c27d0b6c916d6a89037bf014afa8160234975f230f9883cffe9c"
 
 [[files]]
+file = "config/exdeorum/compost_colors/cold_sweat.txt"
+hash = "218b919f7a9ed572adb6ba91b437cf665299c4af04541fff45f0d24c32dcd8de"
+
+[[files]]
 file = "config/exdeorum/compost_colors/cosmeticarmoursmod.txt"
 hash = "b5666ac52938f18b7e7f81e776666064b2ed6604123d3e1fc700b7ab7c9e012a"
 
@@ -895,6 +923,10 @@ hash = "7ee314a904c97ed22faf321f0a0072a1cfa6e49d88664a6b1fc0f7e8c927c142"
 [[files]]
 file = "config/exdeorum/compost_colors/create_factory_logistics.txt"
 hash = "3f98275c4da24b96668b9ffe127fa331daa664cf0acea733dcf47de515cc5b28"
+
+[[files]]
+file = "config/exdeorum/compost_colors/create_pneuequip.txt"
+hash = "dc20372eceb7cc3bdf78773906dd8d5d6bb49d4cde54259f9b1a3f807bb6aec2"
 
 [[files]]
 file = "config/exdeorum/compost_colors/create_sa.txt"
@@ -1067,6 +1099,10 @@ hash = "de3afbe92225503e9766347cbaf0e0c023ac067ebf2070f70d3df60efb8b534b"
 [[files]]
 file = "config/exdeorum/compost_colors/portable_blueprints.txt"
 hash = "bd156e4877d2cfdbe4ad86ba1efc1bd572a475b21e54986a1e8c3e994ac99191"
+
+[[files]]
+file = "config/exdeorum/compost_colors/psi.txt"
+hash = "5277af9e7ef8ce7b3db6e969eddf196680a7aee7e82f3b27d59ec01354d105d4"
 
 [[files]]
 file = "config/exdeorum/compost_colors/relics.txt"
@@ -1501,6 +1537,10 @@ file = "config/jade/sort-order.json"
 hash = "caa9da31f39b124ea163e988d1b09b8cf5f1a7df1daaa2cf4f84d36f29ceb8ee"
 
 [[files]]
+file = "config/jamlib/known_suspicious_jars.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/jei-server.toml"
 hash = "586dab73e6d084c5eac7890ccc6196b2f634d852736ab44708e6d4ac9f72fcb2"
 
@@ -1531,6 +1571,10 @@ hash = "5644ad6f5d6345f6485444509d4c1a91921753966956094478ee6e7075649cd6"
 [[files]]
 file = "config/journeymap-server.toml"
 hash = "5fb156cda3c472d60eca6603589468873c5e1d0f6676009d4333793af6ae5855"
+
+[[files]]
+file = "config/jousting-server.toml"
+hash = "b6a0936138bb040f95c058c7adf344191812630b7df0c26e06a0a6321e1740a3"
 
 [[files]]
 file = "config/leavemybarsalone-client.toml"
@@ -1607,6 +1651,10 @@ hash = "7b4b09ddf774ac3f52a9fd5952495173c8585f6d12b26b8d7532e96cd9ddafe9"
 [[files]]
 file = "config/more_immersive_wires-server.toml"
 hash = "c2bfbe8f2ab3d441b5c075fe78451a3747ce132f5b01a52a1056ed217e44f5fd"
+
+[[files]]
+file = "config/moreiotas-server.toml"
+hash = "afd64c205980e6d6f34f9662ac37705682e7955dafc1d154eb08737c438fcbbf"
 
 [[files]]
 file = "config/nameless_trinkets-base.toml"
@@ -2146,18 +2194,6 @@ file = "config/paxi/resourcepacks/InformationTrinkets/pack.mcmeta"
 hash = "b7fb8bdc9be0349564d9b2fa221f9f5a2e421178d4f24c896d4e8138885899a8"
 
 [[files]]
-file = "config/paxi/resourcepacks/NoEndPortalTint.zip"
-hash = "9f2e7c331cba047a06763919d58b4128d1500ca55220383d6fe2224aa696fae4"
-
-[[files]]
-file = "config/paxi/resourcepacks/Twilight JAPPA Pack 1.0.0.zip"
-hash = "fec80d7e951428d7ca4e1c268de7fda93ecb5bb8af7452498388c7ea23cd1d2f"
-
-[[files]]
-file = "config/paxi/resourcepacks/better-hex-particle-v0.1.0.zip"
-hash = "54482ee073c00e51856f34755060faae65d44b500b795832fdd297d3064b442c"
-
-[[files]]
 file = "config/paxi/resourcepacks/better-hex-particle.pw.toml"
 hash = "14c1b516a7f5a53d9a32ce549a04f5e6a0c5a6def42389a8e863098d62fe87f8"
 metafile = true
@@ -2204,6 +2240,18 @@ hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
 [[files]]
 file = "config/ponder-client.toml"
 hash = "7508f3f5ceed80c7c606d01ee2dc93e2c72a8afa199ccb691fc5225c894d5bbd"
+
+[[files]]
+file = "config/psi-client.toml"
+hash = "f7255edf579d0430bcc91b3ca49db2e5e8ff355b3d2113d1aa08bdda013d3df9"
+
+[[files]]
+file = "config/psi-common.toml"
+hash = "941f8e974d43bbef17e98cb77349d6994d3a4893266eb5f13f52fef3db6b41f3"
+
+[[files]]
+file = "config/psionicutilities-client.toml"
+hash = "d0005b4317e100b9f5dbfc348db8e8c57be57fdfe0b06bd5d0f1b5ed7496b3ef"
 
 [[files]]
 file = "config/puzzlesapi-iteminteractions-client.toml"
@@ -2418,6 +2466,10 @@ file = "config/solcarrot-server.toml"
 hash = "f59de95ae16736765dd61df2cccf6fc9e6e110f823b26a95d1d4ee363d3cd5ee"
 
 [[files]]
+file = "config/sort_it_out/client_preferences.json5"
+hash = "20fbf657e6f01379eb2b16d7314384d0130f8bcdfe096dbb1acb08662256b74f"
+
+[[files]]
 file = "config/storagedrawers-client.toml"
 hash = "9278e868cee8fe35e0c0bae950a26329d85580d91841b42ea1b0d04fb4d0ad2f"
 
@@ -2560,6 +2612,10 @@ hash = "8b63280c0b50e9dec13f6612940e1c849f3a6cf0d9091dfaf76645f96e0ba31a"
 [[files]]
 file = "config/voicechat-client.toml"
 hash = "366f0ef6b5ef068aa1e5ef636fa2ec723803b8bcf1b200f958ac99ec21edde72"
+
+[[files]]
+file = "config/voicechat-server.toml"
+hash = "546cc588bb021baca50efbbba84a488e7fa8d83948295923eb6f0182453d86a8"
 
 [[files]]
 file = "config/voicechat/translations.properties"
