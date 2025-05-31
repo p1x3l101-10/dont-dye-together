@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    event.recipes.create.compacting(
+    event.recipes.create.mixing(
         Fluid.of("ad_astra:fuel", 100),
         [
             Fluid.of("exdeorum:witch_water", 1000),
