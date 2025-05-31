@@ -1,0 +1,13 @@
+name = "Dandi2k8's Ad Extendra"
+filename = "ad_extendra-forge-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gITClFhp/versions/ivPRRBJF/ad_extendra-forge-1.20.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "35d004595c6dd0c0da223c1fce55180402631bb382aa41852ea0c477375ac59a6cf29d6d1c4c76416d91f9883129702e96f090374fd02460304f9bb9d0c3312f"
+
+[update]
+[update.modrinth]
+mod-id = "gITClFhp"
+version = "ivPRRBJF"

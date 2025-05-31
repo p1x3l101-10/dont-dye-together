@@ -2782,6 +2782,11 @@ file = "kubejs/server_scripts/merge_phial.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "55e232b2b338b82694a947ed32882e45589721893948eadb4913796872fd64ec"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-oil-well-yeeter.pw.toml"
 hash = "933a6c479fbcc45930e3d14e7e636d13135b94e0c8bf8c777b9b66b3442af4eb"
 metafile = true
@@ -2794,6 +2799,11 @@ metafile = true
 [[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "57dc9061897402e0fb9ff0dd037d98522238d9ea2e35977027e8ccde5a911ffe"
+metafile = true
+
+[[files]]
+file = "mods/ad_extendra-continuation.pw.toml"
+hash = "9d543f687e65f4c587d9287fc231fe1bc9b3b6e29d718b3415f006f38f9c4f44"
 metafile = true
 
 [[files]]
