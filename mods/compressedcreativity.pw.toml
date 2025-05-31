@@ -1,0 +1,13 @@
+name = "Compressed Creativity"
+filename = "compressedcreativity-1.20.1-0.2.0-alpha-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mt3rcQKj/versions/ZmvaRi3G/compressedcreativity-1.20.1-0.2.0-alpha-all.jar"
+hash-format = "sha512"
+hash = "ff8715f69a8e9243bab445b67367618da4d348d72ad69ff7255e553e77d35603e3dc4dd6ab1a160e20753f0187d43bcaabbf9eda3508a557a697bc745e55f9d0"
+
+[update]
+[update.modrinth]
+mod-id = "Mt3rcQKj"
+version = "ZmvaRi3G"

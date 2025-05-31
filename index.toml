@@ -2967,6 +2967,11 @@ hash = "d20aa1357dbffc463c8060b0ec6d8f102e39b932e161be20297486a6a7cba25c"
 metafile = true
 
 [[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "b8e262e4e4b1974a365b029df7cdfb55d96ed6fc73d7c9df3fbf9b6608117926"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "7f1d3e42575ce9970798e0453d9b42ae5584396ba4c166d0e43717ced269efdd"
 metafile = true
@@ -3724,6 +3729,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7f7a3dd55aee0d0d22cf4dc21012b8bc64deda8f256cec4dd4ade37ae733ea40"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "db79692898d1ac0d9d8e69716603ab6d5021bfedc12d64eb97529687868fbf0e"
 metafile = true
 
 [[files]]
