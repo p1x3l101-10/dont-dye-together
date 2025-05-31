@@ -2957,11 +2957,6 @@ hash = "d20aa1357dbffc463c8060b0ec6d8f102e39b932e161be20297486a6a7cba25c"
 metafile = true
 
 [[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "e935ff1a1378827c0bd1a702f51581aa765e63ffef23834ea9e1b2a81e0f84ad"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "7f1d3e42575ce9970798e0453d9b42ae5584396ba4c166d0e43717ced269efdd"
 metafile = true
@@ -3574,11 +3569,6 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "dc66091e6b871705376e22943bb5e30dfef4a1caccdee844f3e3adb77a6b677c"
-metafile = true
-
-[[files]]
-file = "mods/mars-popsicle.pw.toml"
-hash = "8cefac456615ae0971abcad0dcc387ac38d83d91b79e51b42e914517a72d7f09"
 metafile = true
 
 [[files]]
