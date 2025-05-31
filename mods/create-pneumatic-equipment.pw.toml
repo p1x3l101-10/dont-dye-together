@@ -1,0 +1,13 @@
+name = "Create: pneumatic equipment"
+filename = "create_pneuequip-0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iS07fmMi/versions/3kNR9YGE/create_pneuequip-0.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "662a9fd9134a9335b406d68db578d07d98edacd906c6767298f7a04adc1c0ae2ada9bbb88bc2e2344e5ec180a260bde36da9dd63d950e75147a880734d52e08a"
+
+[update]
+[update.modrinth]
+mod-id = "iS07fmMi"
+version = "3kNR9YGE"

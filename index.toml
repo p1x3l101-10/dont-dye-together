@@ -2986,6 +2986,11 @@ hash = "4c7efc1bdf4a1f03eb138d85655f3921e32dd4396849b54270b0142780856c82"
 metafile = true
 
 [[files]]
+file = "mods/create-pneumatic-equipment.pw.toml"
+hash = "f2e9822afaa8ddf68d09c4bfa9c6536fc21f5706ead3f8fa122e07fcaf45ddb8"
+metafile = true
+
+[[files]]
 file = "mods/create-recycle-everything.pw.toml"
 hash = "cc6bdb5f85f8773aaf1ea925ea53fbd06f4957974b5efea6f64886119229677a"
 metafile = true
