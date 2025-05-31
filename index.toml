@@ -2747,7 +2747,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/bootstrap-fuel.js"
-hash = "4d8ab7dafe519b298c7ae3fc507e1763a94cb7a87d1aa2b0dc819892e3783cea"
+hash = "b465d6d3a0128dc4fb395a301e8f0a770d6385c7850673fcb33fb6f5da3e01ff"
 
 [[files]]
 file = "kubejs/server_scripts/endcake.js"
