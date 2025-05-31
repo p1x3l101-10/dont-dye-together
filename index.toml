@@ -2947,6 +2947,11 @@ hash = "d20aa1357dbffc463c8060b0ec6d8f102e39b932e161be20297486a6a7cba25c"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
+metafile = true
+
+[[files]]
 file = "mods/compressedcreativity.pw.toml"
 hash = "b8e262e4e4b1974a365b029df7cdfb55d96ed6fc73d7c9df3fbf9b6608117926"
 metafile = true
@@ -3899,6 +3904,11 @@ metafile = true
 [[files]]
 file = "mods/tis3d.pw.toml"
 hash = "6c538c40884b4089d7928c6302ede29c87394cdba41b5b652e2cfc6e4587a4d6"
+metafile = true
+
+[[files]]
+file = "mods/tnt-breaks-bedrock.pw.toml"
+hash = "317994b7d12c8388cfb10678e2caa266c38bf3ae3d8b3b851a7071907e6acc41"
 metafile = true
 
 [[files]]
