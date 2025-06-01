@@ -3343,7 +3343,7 @@ metafile = true
 
 [[files]]
 file = "mods/global-server-config.pw.toml"
-hash = "e6049c536d1418da79e748252829fb116968bda74a80b542a7d1129262cbed28"
+hash = "7a2a72d2cd71208a132e4bf2218d489ed0bbd37d9c69cbbd31653b27dddb520b"
 metafile = true
 
 [[files]]
