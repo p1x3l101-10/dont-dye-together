@@ -1,6 +1,6 @@
 name = "No More Portals"
 filename = "nomoreportals-forge-1.20-1.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gQeZmycy/versions/6goKI1Oa/nomoreportals-forge-1.20-1.1.2.jar"
