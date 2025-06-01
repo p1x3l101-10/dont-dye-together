@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/u3PPsXzt/versions/AX5HTvtM/ioticblocks-forge-1.0.1%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "d2964326f53dc55bacc592ca8b024ef30c89bc967682b089a12b27e6e7a15ed7"
+hash-format = "sha512"
+hash = "58c541bbc0219510a57b79e0de2bfd54bacac07284a9643927a87a74139382250734309192ab6fcfda00371da200f6d2b4b3d1c3547076d364bcae16ad396b65"
 
 [update]
 [update.modrinth]
