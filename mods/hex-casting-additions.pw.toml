@@ -1,0 +1,13 @@
+name = "Hex Casting Additions"
+filename = "hexcastingadditions-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39840bdc77ee180ae9e54e32ef68ddeba6e03656"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6598772
+project-id = 1161499

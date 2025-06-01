@@ -3362,6 +3362,11 @@ hash = "8d6b1bf68e8a34cef3f3ba9334d24e01e6911f748a1374b30b0e71086faeef09"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting-additions.pw.toml"
+hash = "b6213d9131d08e95e25005b5bde636225de971ffcbd89cefe4fa5b988b9eaad4"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "6addd4d2accc4ffeb246a0606fa1f2cb86c11545a9a4594c533e1c0ae4ff8580"
 metafile = true
