@@ -3377,6 +3377,11 @@ hash = "a92d5abd2f3a5c2d64b1d77b01c9630995995a46e141f1518c6b4dbb8fb47ff1"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "9cda1dcb4c304e790e45b7a7908de99554a3a6e55d7756a2c9f627b7b35097b6"
+metafile = true
+
+[[files]]
 file = "mods/hexflow.pw.toml"
 hash = "13cd2df8d993ff88765db535fc0f1ec9175173ed5508fc1d99a6dd7d209a1bd9"
 metafile = true
