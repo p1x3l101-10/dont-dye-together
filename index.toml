@@ -89,6 +89,10 @@ file = "config/ad_astra.jsonc"
 hash = "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264"
 
 [[files]]
+file = "config/ad_astra_giselle_addon.ver2.jsonc"
+hash = "2899c558017ff0a6a78862c0e835728883a644f1ecfb1b53f94bb48c4fb0fe38"
+
+[[files]]
 file = "config/ae2/client.json"
 hash = "c1a4e1058ad7970f2f4d83aab93afda83ea713026c8ebc1d63942ee66a6d3c66"
 
@@ -321,6 +325,10 @@ file = "config/betterwitchhuts-forge-1_20.toml"
 hash = "7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "ee87918ebff7a30fa354a14691fad7d9b51e129f8bae7591b7433f660ab168ec"
+
+[[files]]
 file = "config/bluemap/core.conf"
 hash = "39c7b6469d0eb0237f06b653f3be2c09f0b7062598f3a6520250bc1a1182f8e5"
 
@@ -481,6 +489,14 @@ file = "config/bocchud/new_world_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
+file = "config/bocchud/rework-last.na.e4mc.link.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/bocchud/rework-last.na.e4mc.link_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
 file = "config/bonsaitrees3-client.toml"
 hash = "70eef75b7b268732ccef084a6c37fe9f452f002b460c9db81866979fd5aa8ba9"
 
@@ -515,6 +531,18 @@ hash = "0a41518641bbb4133fc61b934e8663ae5271ffd8190a281e5b35d1efd97fb3e3"
 [[files]]
 file = "config/clickmachine.cfg"
 hash = "7e01626d260a6a33067cd256ff41e43387b39ee762d5ed01a05b0a4862eb1222"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/compressedcreativity-client.toml"
+hash = "4bd2bc574ef4401d37569fbf9883598bbb515288685f6c2c696fbbcaf3609ae2"
+
+[[files]]
+file = "config/compressedcreativity-server.toml"
+hash = "80cb2bb07f0e34ff4526e2e8a79cbebde9072aaa8fd035b568ff2d440a3e76a9"
 
 [[files]]
 file = "config/copycats-client.toml"
@@ -845,8 +873,16 @@ file = "config/exdeorum/compost_colors/ad_astra.txt"
 hash = "318c07c0ae7d1e5275ae1d2ed3f0c1731ba46c8af0474eef0678344712bf360d"
 
 [[files]]
+file = "config/exdeorum/compost_colors/ad_astra_giselle_addon.txt"
+hash = "146c7ae492ee8fb1994b2ecb9ce2dee08866ec817ce2fe0fe96778195cdccd8a"
+
+[[files]]
 file = "config/exdeorum/compost_colors/ad_astra_tools.txt"
 hash = "1207b6d7b80c676d7f20c6009d1e19bdf3d20c521dabd4cfe86f64c536ce4886"
+
+[[files]]
+file = "config/exdeorum/compost_colors/ad_extendra.txt"
+hash = "3a10660e9a05007dbd621f53dd151833d417d38dc936d33218fdfaf2d003c3e2"
 
 [[files]]
 file = "config/exdeorum/compost_colors/ae2.txt"
@@ -879,6 +915,10 @@ hash = "cf15bd2d6d36c27d0b6c916d6a89037bf014afa8160234975f230f9883cffe9c"
 [[files]]
 file = "config/exdeorum/compost_colors/cold_sweat.txt"
 hash = "218b919f7a9ed572adb6ba91b437cf665299c4af04541fff45f0d24c32dcd8de"
+
+[[files]]
+file = "config/exdeorum/compost_colors/compressedcreativity.txt"
+hash = "60ce46cc360e3b3b220e7cfb8832b0a15f7cbf8ee5c7554a3a377efdebb6a8ed"
 
 [[files]]
 file = "config/exdeorum/compost_colors/cosmeticarmoursmod.txt"
@@ -997,6 +1037,10 @@ file = "config/exdeorum/compost_colors/hexcasting.txt"
 hash = "d7a06457dbec4fc51d90eb82ae8762728d130c5985156649ad646d20b5b21705"
 
 [[files]]
+file = "config/exdeorum/compost_colors/hexcastingadditions.txt"
+hash = "0e6006df4291bec7d881ccaa66560e360be566b757825a3b412fa9d384d28cfa"
+
+[[files]]
 file = "config/exdeorum/compost_colors/hostilenetworks.txt"
 hash = "772362e7af49b22566d6ad1e6b4ef2b7f154a446696f6441968c84bcaa5dc456"
 
@@ -1075,6 +1119,10 @@ hash = "3b578612dc8ec881ee1b8e5024553bb8322855940a4ac7a95f6680c18bf05714"
 [[files]]
 file = "config/exdeorum/compost_colors/patchouli.txt"
 hash = "de3afbe92225503e9766347cbaf0e0c023ac067ebf2070f70d3df60efb8b534b"
+
+[[files]]
+file = "config/exdeorum/compost_colors/pneumaticcraft.txt"
+hash = "bc57d7ad5ee7569e1b24b581b81439d9b8651b31b99b6388a504f09019d1ba62"
 
 [[files]]
 file = "config/exdeorum/compost_colors/portable_blueprints.txt"
@@ -1275,6 +1323,10 @@ hash = "5684dc1338494ca6ca7628cde1333f0dffa4e1648b454099de60d454fd75457a"
 [[files]]
 file = "config/hexcasting-server.toml"
 hash = "f0f4543563be7fda58d86bbf91a0cd83f7451826c64aef5f5174bf42441ebede"
+
+[[files]]
+file = "config/hexcastingadditions-common.toml"
+hash = "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6"
 
 [[files]]
 file = "config/hexparse-common.toml"
@@ -2138,6 +2190,10 @@ hash = "38c5e2afe8f4d9c5980056d9c6ced0fe115f96689cc36ea224277e6788fdb036"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/coaltoadastraoil.zip"
+hash = "74a117baa47ce13ad83fef763ba0e23db1b5a9fd6fd892ccf80a8428170f8c9f"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -2216,6 +2272,34 @@ hash = "41c4ff6f1cb894359d3b7afe7d5e6c7550b07d3dbeace1b2c972160f80f844ca"
 [[files]]
 file = "config/ping-wheel.server.json"
 hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
+
+[[files]]
+file = "config/pneumaticcraft-client.toml"
+hash = "453c1d339543fc916dc9fec69c5c3f32e51d3a3ed12b2cb7c219902313597d19"
+
+[[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "5f99aeb7d1b7c591d2ac81cb82e9bac3f2e226ae772503ab13bbaa86a6744500"
+
+[[files]]
+file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
+hash = "c61fc3081200304d8333c4ea1755e6cc4eb4606c6734e687b75c5cf8a39bb7f1"
+
+[[files]]
+file = "config/pneumaticcraft/MicromissileDefaults.cfg"
+hash = "cf52b07316b17e5217bcd9983b8b5060683d0fe0ed26376e41011bf40e3ea997"
+
+[[files]]
+file = "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg"
+hash = "052d37ccd8ea50a41b1313430b3b85690ae130e6fde53c1c4902ab40e51afb4f"
+
+[[files]]
+file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
+hash = "dbf7e597284cb34c451872fadf82fbeb705e4d66d8e17ac358b5cc10cfb7a321"
+
+[[files]]
+file = "config/pneumaticcraft/thirdparty.cfg"
+hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
 file = "config/ponder-client.toml"
@@ -2528,6 +2612,18 @@ hash = "692f1c8ddea16897fc60a90a80b049bafa40195f6d3beefa6b8133096408139a"
 [[files]]
 file = "config/touhou_little_maid/info.json"
 hash = "812c67932e3f70481ea147b994f50af2b3eb965e1bddf12d5712997f3ecfca9f"
+
+[[files]]
+file = "config/touhou_little_maid/sites/llm.json"
+hash = "e69be04b3e060ef589356b04010cf3c4ca4235acf1308f8eb62dbd09471c011b"
+
+[[files]]
+file = "config/touhou_little_maid/sites/stt.json"
+hash = "27f7d12d618f68dba8d5be4816d4e11b577ac8e7c566f0d19f8f456b497a9f07"
+
+[[files]]
+file = "config/touhou_little_maid/sites/tts.json"
+hash = "62080f2405cb825d7639273e11d6c2c46516cdf1ca9cb9c8668a834d1d42514c"
 
 [[files]]
 file = "config/travelersbackpack-client.toml"
