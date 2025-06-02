@@ -2670,10 +2670,6 @@ file = "kubejs/data/ad_astra_rocketed/recipes/nasa_workbench/default/tier_7_rock
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "kubejs/data/astolfoforge/worldgen/biome/astolfo_biome.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
 file = "kubejs/data/dont_dye_together/dimension/end_orbit.json"
 hash = "5ed9b5bcfc9ddec94090dc3b89241d124398aa9a58808ff7324def0f550d00b0"
 
@@ -2873,6 +2869,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "978d78da390591343b92e5b31ce14a4fafacd690603e62e281857b26f68507b7"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "6aa9b6e28fbce375e480ad5b8c342d21d4577098b374cee7e7f16d5c3d68b7f7"
 metafile = true
 
 [[files]]
