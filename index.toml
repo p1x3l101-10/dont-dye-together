@@ -3646,6 +3646,11 @@ hash = "c57e2d59f7d7d4c3a9b8578bb0ceec84b3ae679baecd9aa60b291a31e2b97e8d"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-dragonseeker.pw.toml"
+hash = "8d1bb4431b06a0a6ee34458eb58093886815ad2e954760c5253a05c6ee7621a3"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c0452b2f93522355316fb71583e6d4bb3c44aeada9d20eb8fb7b71bc8d7114c0"
 metafile = true
