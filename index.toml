@@ -3946,6 +3946,11 @@ hash = "03f40f9d1fba6c7ee250dd7b1c8482d2711058d7a6401b34fca8c018db7e5b45"
 metafile = true
 
 [[files]]
+file = "mods/phayriosis-parasite-infection.pw.toml"
+hash = "55043e6004d85ed0fb11c7c4abb407bc9ada161a5dea7e2ceb11f7b776c9958d"
+metafile = true
+
+[[files]]
 file = "mods/piggybacks.pw.toml"
 hash = "7b2a44641fe66e0d952cec298d8670a412a37df4ce809f5d1a7d2a5e6a68b207"
 metafile = true
