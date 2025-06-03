@@ -54,7 +54,7 @@ _version = 3
 		# When enabled on the client, this allows loading lower detail levels as needed to speed up terrain generation.
 		# This must also be enabled on the server; otherwise, it will have no effect.
 		# For better performance when switching LOD detail levels, enabling [upsampleLowerDetailLodsToFillHoles] is recommended.
-		enableNSizedGeneration = false
+		enableNSizedGeneration = true
 
 [common]
 
@@ -154,7 +154,7 @@ _version = 3
 			# Experimental:
 			# Enabling this option will increase CPU and harddrive use
 			# and may cause rendering bugs.
-			upsampleLowerDetailLodsToFillHoles = false
+			upsampleLowerDetailLodsToFillHoles = true
 
 	[common.multiThreading]
 		#
@@ -546,7 +546,7 @@ _version = 3
 				# Note: Due to current limitations, the min value is 50 
 				# and the max value is 5000. Any values outside this range 
 				# will be set to 0 (disabled).
-				earthCurveRatio = 0
+				earthCurveRatio = 100
 
 			[client.advanced.graphics.genericRendering]
 				#
@@ -786,5 +786,5 @@ _version = 3
 			# IP_ONLY: Example: "192.168.1.40" 
 			# NAME_IP: Example: "Minecraft Server IP 192.168.1.40" 
 			# NAME_IP_PORT: Example: "Minecraft Server IP 192.168.1.40:25565"NAME_IP_PORT_MC_VERSION: Example: "Minecraft Server IP 192.168.1.40:25565 GameVersion 1.16.5"
-			serverFolderNameMode = "NAME_ONLY"
+			serverFolderNameMode = "NAME_IP_PORT_MC_VERSION"
 
