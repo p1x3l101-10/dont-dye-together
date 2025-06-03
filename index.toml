@@ -422,7 +422,7 @@ hash = "7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "841e9606598fda5fd972ee64f8854061aa18c12ff4d268215f7323fdaf7c4b21"
+hash = "ee87918ebff7a30fa354a14691fad7d9b51e129f8bae7591b7433f660ab168ec"
 
 [[files]]
 file = "config/bluemap/core.conf"
