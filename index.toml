@@ -3831,6 +3831,11 @@ hash = "69851496529d86bd7d167656478ea7ae66d6fd7b035ce31c3e776505141318f0"
 metafile = true
 
 [[files]]
+file = "mods/mini-boss-boss-bars.pw.toml"
+hash = "b80aa3aea303fb0fc3be50c1deb04afc7189f4cb5f96ac587efa15274f3f00ac"
+metafile = true
+
+[[files]]
 file = "mods/mini-clock-tower.pw.toml"
 hash = "95e02c9a7a9d64f08290dbe92ebac6c43364b0553b367887bbeec3f39c510d42"
 metafile = true
@@ -4098,6 +4103,11 @@ metafile = true
 [[files]]
 file = "mods/the-mighty-architectury.pw.toml"
 hash = "ff22864469ed7fe96c20661073122570526577d1cd11d88a9b9423f316fcb294"
+metafile = true
+
+[[files]]
+file = "mods/the-soulless-ones.pw.toml"
+hash = "252aec93684a84b1c82d9b14de5c31d58130efdb4bd586e3896f225332655407"
 metafile = true
 
 [[files]]
