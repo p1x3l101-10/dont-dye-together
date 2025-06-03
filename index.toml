@@ -2986,6 +2986,11 @@ file = "kubejs/server_scripts/merge_phial.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
 [[files]]
+file = "mods/acofi.pw.toml"
+hash = "9c25495dd3883a05476aea2d2f2b8f68ed242fd709e4af25632b5bed8961d1e0"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "55e232b2b338b82694a947ed32882e45589721893948eadb4913796872fd64ec"
 metafile = true
@@ -4221,8 +4226,28 @@ hash = "bb70e620d716512af1bb6a5a4966da763a7de858212ddf107ad5b267336dd7cf"
 metafile = true
 
 [[files]]
+file = "mods/tw-resurrection.pw.toml"
+hash = "909d6b11c2771fc39e4a30528529b0a7d66f80b60aed2f866c1cb86f009bb674"
+metafile = true
+
+[[files]]
 file = "mods/twerk-crop-growth.pw.toml"
 hash = "047fb92a161581dd4b7c982fe5418b9945992a6f600143a1cec78f2aef1a9f76"
+metafile = true
+
+[[files]]
+file = "mods/twilight-forest-final-boss.pw.toml"
+hash = "8bb362cb3a80ee982f8a0dff556ddfa613765377a721c42400b9033ae82bfe3b"
+metafile = true
+
+[[files]]
+file = "mods/twilight-treehouses.pw.toml"
+hash = "b09d690ab14f265c1efcc19ba777a5b0cceee888614bc049b8d6bbc7645a3fc2"
+metafile = true
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "67f85b2464abd2f8710a99e3b1fc3bf463822d39109fdd9d73f0cc0fcd59e605"
 metafile = true
 
 [[files]]

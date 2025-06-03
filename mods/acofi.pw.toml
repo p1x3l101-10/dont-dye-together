@@ -1,0 +1,13 @@
+name = "Alternate Create Of Fiery Items (ACOFI)"
+filename = "acofi-1.1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jDJPr6uA/versions/sebK0LyH/acofi-1.1.0-forge.jar"
+hash-format = "sha512"
+hash = "bceaad67e6a1e10a44e881b0f7cd2548488e897bbc37f6f7ed2eeb30314da8aa13d6e5baa6b4657b5bb7ad495eec36e5d58395bb85bce3e1bb69f663c0e39053"
+
+[update]
+[update.modrinth]
+mod-id = "jDJPr6uA"
+version = "sebK0LyH"
