@@ -1,6 +1,6 @@
 name = "Twilight Forest: JAPPA Pack (official addon)"
 filename = "Twilight JAPPA Pack 1.0.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha256"

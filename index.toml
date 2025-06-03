@@ -213,6 +213,102 @@ file = "config/attributeslib.cfg"
 hash = "d263933ee4b13ea18ca743e8648d0cf2bc0f69a7d8c3f0e55829d9597d8c0c62"
 
 [[files]]
+file = "config/avaritia-common.toml"
+hash = "06bc20a6ddaa51716eb1e5613df3bb6938df8c69828121c95b95999164dee5a7"
+
+[[files]]
+file = "config/avaritia/singularities/aluminum.json"
+hash = "412522cb1ba103c6516b70dac091e03e46e088f1be6d19be8d05c966e5bd2b3e"
+
+[[files]]
+file = "config/avaritia/singularities/bronze.json"
+hash = "eb3c6790f653d016359da2fdfb8da9a7475a32f22f1af9f2708a36e29ed58d7c"
+
+[[files]]
+file = "config/avaritia/singularities/coal.json"
+hash = "e67c431cd9c6cd98f50b4a388539d0e19266e57154181e46dd6bcc0110bcf78a"
+
+[[files]]
+file = "config/avaritia/singularities/copper.json"
+hash = "41c8417ac2bace4f43b6fae2e0e26967cbc3be9d6f50f04a7a7fea5dad152980"
+
+[[files]]
+file = "config/avaritia/singularities/diamond.json"
+hash = "a1bc0d8d5bd53c6d6b72625ead3d3a6503294d9e5a8dad9597923013b05bfcd3"
+
+[[files]]
+file = "config/avaritia/singularities/electrum.json"
+hash = "ffbb77fef889c111a3ced6c7b6b09a92f19c8380d6d65aebdcaf34c35cc9da16"
+
+[[files]]
+file = "config/avaritia/singularities/emerald.json"
+hash = "7dbda96aa3327e69d8de74901b99e8fa0e25ee21f65b36886df894b757eba5c9"
+
+[[files]]
+file = "config/avaritia/singularities/glowstone.json"
+hash = "adb2c77974abdd7f0aa745d819376312b436c58db6703291b710bd1ff8649be0"
+
+[[files]]
+file = "config/avaritia/singularities/gold.json"
+hash = "e317e8be19d85809cd7477828a9d52bce543c5616ed824355edffc0578ea43ed"
+
+[[files]]
+file = "config/avaritia/singularities/invar.json"
+hash = "3dcacf54814db8a1e76be9f8b1c8ecad0d98cb6f6151467341672e7801ba1d9f"
+
+[[files]]
+file = "config/avaritia/singularities/iron.json"
+hash = "752433c79f23ff0d79f0068f1acb90108c88b5f8b81d67b96d9bc44ee771743e"
+
+[[files]]
+file = "config/avaritia/singularities/lapis_lazuli.json"
+hash = "3d227685c797bfa52bd798292478cd972fc509ccfe18c8e441f737cff0b8973b"
+
+[[files]]
+file = "config/avaritia/singularities/lead.json"
+hash = "751e884b60dfae64c779b6b218f63f41aa6afc1593e5204b9a3d3ada560f90f7"
+
+[[files]]
+file = "config/avaritia/singularities/netherite.json"
+hash = "ac6504994c87c0342e8d26775aad564fa5fb7357c9a52c18b785a7554392b3b7"
+
+[[files]]
+file = "config/avaritia/singularities/nickel.json"
+hash = "fad7a98652a588362509a9fad1510f983db23d497dda7c35d5159c5f48f70aa3"
+
+[[files]]
+file = "config/avaritia/singularities/osmium.json"
+hash = "55a73468cae22acca5dc5cf8941fdd08269dd376ac38130313730a7ec0b6140b"
+
+[[files]]
+file = "config/avaritia/singularities/platinum.json"
+hash = "a23df5c16bf19b11ed79ece717d4f6b129067d568bbf41f72b804a863382e0eb"
+
+[[files]]
+file = "config/avaritia/singularities/redstone.json"
+hash = "c0c33dc40867d950f79413a68424660a28022437cbe1494476b51ccf5453cf78"
+
+[[files]]
+file = "config/avaritia/singularities/refined_obsidian.json"
+hash = "a2dbce4db74aabd43fcf407110ebf3c1341443e52b8d69ad08afe1dbe5272c51"
+
+[[files]]
+file = "config/avaritia/singularities/silver.json"
+hash = "c450368627f7c86aff899cef3f7715b14b36ab4ce80dbdbbe903455c36deebbe"
+
+[[files]]
+file = "config/avaritia/singularities/steel.json"
+hash = "0f1c970f3511a5bcc46e8e581984255452f266d1bac6869818c21522c7334318"
+
+[[files]]
+file = "config/avaritia/singularities/tin.json"
+hash = "317957686f22451bed312f6130d618f2f5fda257cb86fd58061aa7e15d4c905f"
+
+[[files]]
+file = "config/avaritia/singularities/uranium.json"
+hash = "2c4190cce1803cdb5e3fa0c813a9cdf46b33702829388455ffbe3b23012cb641"
+
+[[files]]
 file = "config/balm-client.toml"
 hash = "d6fe31956b9b29b35ff0bf93884a6a66ac7300af620d20414a85d8f0004a62a2"
 
@@ -503,6 +599,14 @@ hash = "70eef75b7b268732ccef084a6c37fe9f452f002b460c9db81866979fd5aa8ba9"
 [[files]]
 file = "config/bonsaitrees3-common.toml"
 hash = "6969d1271a24c244c1b3b7d5a59a4002fd1d69a7cfce9c6f7c998b0aa925d4b7"
+
+[[files]]
+file = "config/botanicalextramachinery/server.json5"
+hash = "fa522b033622cef8e2ae607f17c4cb128df5539c48b1d6f2bbbd58d1c9e9a616"
+
+[[files]]
+file = "config/botanicalmachinery/server.json5"
+hash = "04714e0b5c031ecb5ba9028de0c9b000fac00e6dce6979deb56c0aabb14c24e3"
 
 [[files]]
 file = "config/brutalbosses.json"
@@ -905,6 +1009,10 @@ file = "config/exdeorum/compost_colors/astolfoforge.txt"
 hash = "87c8cee33fd6e9cf49796e2c08b748d26ea2b97b53d20e41148ce508dc2935af"
 
 [[files]]
+file = "config/exdeorum/compost_colors/avaritia.txt"
+hash = "2f57020b61d496f3ff14e90218a597d5a6652fc94e50eced5b33b8b37d341daa"
+
+[[files]]
 file = "config/exdeorum/compost_colors/chiselsandbits.txt"
 hash = "7f8e90906b1a198efcc502bfd8ce2d64da502c1978f69b0fafb700e7a713812a"
 
@@ -943,6 +1051,10 @@ hash = "7ee314a904c97ed22faf321f0a0072a1cfa6e49d88664a6b1fc0f7e8c927c142"
 [[files]]
 file = "config/exdeorum/compost_colors/create_factory_logistics.txt"
 hash = "3f98275c4da24b96668b9ffe127fa331daa664cf0acea733dcf47de515cc5b28"
+
+[[files]]
+file = "config/exdeorum/compost_colors/create_netherless.txt"
+hash = "2e38e5825a1104391298627ccf06ae3e855d3904da2f6463d28e2d57e7c14159"
 
 [[files]]
 file = "config/exdeorum/compost_colors/create_pneuequip.txt"
@@ -1115,6 +1227,10 @@ hash = "dceb331708d686fb92367601d921a24e4a513f847b0cf54308a1fe06aea35166"
 [[files]]
 file = "config/exdeorum/compost_colors/nameless_trinkets.txt"
 hash = "3b578612dc8ec881ee1b8e5024553bb8322855940a4ac7a95f6680c18bf05714"
+
+[[files]]
+file = "config/exdeorum/compost_colors/packagedauto.txt"
+hash = "d62d6133a5676c7806fc367e72d7d7850c905cba9ec2b2b0ccd47cd6c7ccbc0c"
 
 [[files]]
 file = "config/exdeorum/compost_colors/patchouli.txt"
@@ -1313,6 +1429,10 @@ file = "config/hex-common.toml"
 hash = "457065ff782312882911238da0ce9c4681fd8ce3b4882128728211366579735a"
 
 [[files]]
+file = "config/hexal-server.toml"
+hash = "f3718f75b9430678ee27a14bdf87689c9613368b990eece2227d264dc24ca4a3"
+
+[[files]]
 file = "config/hexcasting-client.toml"
 hash = "d31c9ef0675cd4c36c8a18182e7b12ea2e92fc89bfa0c6ab15d3f2c5c9c029c8"
 
@@ -1335,6 +1455,10 @@ hash = "2a68f98e73184d450b294c2b75a5f4b9579c03561586a1df8e5db75d58fd320d"
 [[files]]
 file = "config/hextweaks.json"
 hash = "466a145e9d94fef2ed66f6620491ad910888e861916894fdd1beab06e37a08bd"
+
+[[files]]
+file = "config/hexweb-server.toml"
+hash = "833232195afd12d78a806da4a5387c0471a4a3058e0d1ad5a436176c4a7f6652"
 
 [[files]]
 file = "config/hostilenetworks.cfg"
@@ -1563,6 +1687,10 @@ hash = "bbe93e8d1c6f3ae3863ab29ed76b7132b3aebd26af91ff679789b957662ee23f"
 [[files]]
 file = "config/jade/plugins.json"
 hash = "386909801380d029c0ff9349021b89ce4407aea3dfc92c415af6c5b729d3db3f"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -2073,6 +2201,14 @@ file = "config/oil_well_yeeter-common.toml"
 hash = "c5ff2cc6e0454b4b160f101c82e0c366ad84aaf4423c3499c65a0354948abda6"
 
 [[files]]
+file = "config/packagedauto-server.toml"
+hash = "323482b8f317b44537cdfb91837d886b3dbd3735274d8ab0d197b4633da7f03a"
+
+[[files]]
+file = "config/packagedavaritia-server.toml"
+hash = "9f4aa7c66b396499705e63555985d174c5d7363695e5f04c9c68f256f70b8deb"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
 
@@ -2190,10 +2326,6 @@ hash = "38c5e2afe8f4d9c5980056d9c6ced0fe115f96689cc36ea224277e6788fdb036"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/coaltoadastraoil.zip"
-hash = "74a117baa47ce13ad83fef763ba0e23db1b5a9fd6fd892ccf80a8428170f8c9f"
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -2241,7 +2373,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/twilight-forest-jappa-pack.pw.toml"
-hash = "23cc23553e51fffdf63bd3702c2ac6aff7f307bd7a368521710fb62c5a36641f"
+hash = "6881db1f51ab4ce0c17babcdbee35bfdc08ca2dc9f4ad0349ddc24cee1ae66da"
 metafile = true
 
 [[files]]
@@ -2528,10 +2660,6 @@ hash = "90b11bf7fe7bbf30c05728f2d4bdc51d49138c30359feb6261c6e7f5f04245ee"
 [[files]]
 file = "config/solcarrot-server.toml"
 hash = "f59de95ae16736765dd61df2cccf6fc9e6e110f823b26a95d1d4ee363d3cd5ee"
-
-[[files]]
-file = "config/sort_it_out/client_preferences.json5"
-hash = "20fbf657e6f01379eb2b16d7314384d0130f8bcdfe096dbb1acb08662256b74f"
 
 [[files]]
 file = "config/storagedrawers-client.toml"
