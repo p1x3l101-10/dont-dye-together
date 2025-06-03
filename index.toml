@@ -3246,6 +3246,11 @@ hash = "9634283851df67684273e3633e4464f894e168459a8e5b4adab55270cb9878ab"
 metafile = true
 
 [[files]]
+file = "mods/create-guardian-beam-defense.pw.toml"
+hash = "ebbeae6d65c714b0bcd25b5f600ae445d16a604b15347b42e2bd3960b208cbf5"
+metafile = true
+
+[[files]]
 file = "mods/create-immersive-tacz-integration.pw.toml"
 hash = "f91ce77d61971b71c2738c7b498d40da327c5ff8db722397b04dd2ea670c9c26"
 metafile = true
@@ -3373,6 +3378,11 @@ metafile = true
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "37f1cf3f8c7ea23ed317d2daf5ba97ced9eb9bf23121799e51171c086aa4c2cb"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-defense.pw.toml"
+hash = "a4cdace3c8051937f0155db3a761a80e6627ed9d5a4cf40e41cc33d51ddda884"
 metafile = true
 
 [[files]]

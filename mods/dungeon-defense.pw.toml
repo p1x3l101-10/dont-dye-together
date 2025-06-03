@@ -1,0 +1,13 @@
+name = "Dungeon defense"
+filename = "dungeondefense-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gv8VzME4/versions/1liupt5J/dungeondefense-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "63b9ef1a6125e877701ffa4a44214cc3b144c5e700922247d6fda1a6a31b561051ae7591d82e884e1b06fdf9b0bff5caf22d1ac82f883ffc3d95dcf592025ea8"
+
+[update]
+[update.modrinth]
+mod-id = "gv8VzME4"
+version = "1liupt5J"
