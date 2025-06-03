@@ -3071,6 +3071,11 @@ hash = "8b7928e81a965daa93af1878fb6a6bbe7756c8feecc465ba3e41013c3683d7b0"
 metafile = true
 
 [[files]]
+file = "mods/astolfo-mod.pw.toml"
+hash = "df9973cd8006157493c60d239bba71d4424f918e90ab344fad4513079e53dcc8"
+metafile = true
+
+[[files]]
 file = "mods/astralzinc.pw.toml"
 hash = "4adf604df291f3387af9574185f0a8519810ac79e237b3ba591e3523a5e95a79"
 metafile = true
