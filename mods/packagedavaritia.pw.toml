@@ -1,0 +1,13 @@
+name = "PackagedAvaritia"
+filename = "PackagedAvaritia-Re-1.20.1-2.2.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aA94MQL4/versions/BENo6ZBz/PackagedAvaritia-Re-1.20.1-2.2.1.9.jar"
+hash-format = "sha512"
+hash = "98e2d78a4f11d0228dc1ae590c8bd6708cb694044551c5041205144a2dd22a19567d209c3d11d55abd5a8db8cea27ce4f3ccaa1ad1b5ee30356dd9150ea024f6"
+
+[update]
+[update.modrinth]
+mod-id = "aA94MQL4"
+version = "BENo6ZBz"

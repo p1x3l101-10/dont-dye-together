@@ -3773,6 +3773,16 @@ hash = "7d1d4db823974ae59e13563dd33b39905eac32d2037646bb91f175a90caf1e46"
 metafile = true
 
 [[files]]
+file = "mods/packagedauto.pw.toml"
+hash = "05255527215a7faabb7649f483b6450eb2e5e0834c870fce088105ff2259afa2"
+metafile = true
+
+[[files]]
+file = "mods/packagedavaritia.pw.toml"
+hash = "7aa06c29b659b499d81181eb1445d22952a750b859ed502987c5560782fd4ed1"
+metafile = true
+
+[[files]]
 file = "mods/pandalib.pw.toml"
 hash = "bbf04b7b2e3859d04db00c9beb94d9a10d5efb7ed59fe2da3876a9dad3e8cc8d"
 metafile = true
@@ -3850,6 +3860,11 @@ metafile = true
 [[files]]
 file = "mods/rar-compat.pw.toml"
 hash = "2faae1e2b199c643862487afea49f3dd4dbdf8c75512e578059cdd54f51d34aa"
+metafile = true
+
+[[files]]
+file = "mods/re-avaritia.pw.toml"
+hash = "84ad924c5ffa20d1543a2c9b45b390b4380cb2bf2ff707722084f72f0633ea27"
 metafile = true
 
 [[files]]
