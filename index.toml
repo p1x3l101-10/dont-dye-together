@@ -3686,6 +3686,11 @@ hash = "b05fd43d111239280d2d9bf0221fbe3006e25aa11a84f9717b0ed0821a4a7a92"
 metafile = true
 
 [[files]]
+file = "mods/infinite-void.pw.toml"
+hash = "da1dd45caf74bca617aebf190cf1e14f6bf0549567c670072f48d2d72eee14e4"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "bef85831f2ac2488f44e5010ab77a47d0e296dd82c4ab93572e72b90487de4b8"
 metafile = true
