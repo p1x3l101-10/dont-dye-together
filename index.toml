@@ -4271,11 +4271,6 @@ hash = "dd06a8fd7a251e5180bbdcaaaef4b80c156a1ea7f6db750dfb4ead7771b0d590"
 metafile = true
 
 [[files]]
-file = "mods/vminus.pw.toml"
-hash = "df715305bd9dc0248a36410439857566df66ac689d64b834b5cf837001def6e7"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "4f9d322f106a8fa5c7d217123cf8867c340e4494ddac1223444934d0534e3eb0"
 metafile = true
