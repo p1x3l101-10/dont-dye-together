@@ -3911,6 +3911,11 @@ hash = "660fd66ab4d36935e61b8b55f5ea773440216b56cb4dd0763601e19017d8f80d"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
+metafile = true
+
+[[files]]
 file = "mods/new-nether-chest.pw.toml"
 hash = "ff62287ab532ce73a8d506bf3a0509dc4d7c9f0f00822ca7ea8ccdf55a5c3698"
 metafile = true
