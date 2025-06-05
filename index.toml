@@ -2372,11 +2372,6 @@ hash = "34bc07eec24861e9c6aca2042ee5c1be1ac76eec574a4dcdd650afd5444a2087"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/texture-of-paul90317s-datapacks.pw.toml"
-hash = "b98612b10dc845428b5bad294f3da42c2442bc8060876bc0cdb4b52106f6e0a4"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "6881db1f51ab4ce0c17babcdbee35bfdc08ca2dc9f4ad0349ddc24cee1ae66da"
 metafile = true
@@ -3378,11 +3373,6 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "c6bb82ef7b7ffaea5bd9fe28aa7c344095cdce80d0c279031aa78301e7688713"
-metafile = true
-
-[[files]]
-file = "mods/disenchanting-book.pw.toml"
-hash = "beed8a0f78dd3d5309cb858fc36d072e8fc9bbe2298365751ff6bb4faff5228a"
 metafile = true
 
 [[files]]
