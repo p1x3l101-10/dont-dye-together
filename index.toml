@@ -3411,6 +3411,11 @@ hash = "0fd1fabe0b2777619500cda385bd6e8e70246b0ab3d24169dd930b1b844fe018"
 metafile = true
 
 [[files]]
+file = "mods/easy-disenchanting.pw.toml"
+hash = "2edd772e45018c5ca53bf3f620a883b88dd59edb54e24bd0ff656bfc8f07a026"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "058850c7700cf806241358e51642347ad0a556b02987493ce938f5c97b558c53"
 metafile = true
@@ -4248,6 +4253,11 @@ metafile = true
 [[files]]
 file = "mods/twilights-flavors-delight.pw.toml"
 hash = "67f85b2464abd2f8710a99e3b1fc3bf463822d39109fdd9d73f0cc0fcd59e605"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
 metafile = true
 
 [[files]]
