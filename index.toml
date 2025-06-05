@@ -2372,6 +2372,11 @@ hash = "34bc07eec24861e9c6aca2042ee5c1be1ac76eec574a4dcdd650afd5444a2087"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/texture-of-paul90317s-datapacks.pw.toml"
+hash = "b98612b10dc845428b5bad294f3da42c2442bc8060876bc0cdb4b52106f6e0a4"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/twilight-forest-jappa-pack.pw.toml"
 hash = "6881db1f51ab4ce0c17babcdbee35bfdc08ca2dc9f4ad0349ddc24cee1ae66da"
 metafile = true
@@ -4358,11 +4363,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/3d-staves.pw.toml"
 hash = "f9d5ef1381670f32e34531883fafe1f516bddf35c038c0b88450f0cd475bb0c4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/texture-of-paul90317s-datapacks.pw.toml"
-hash = "b98612b10dc845428b5bad294f3da42c2442bc8060876bc0cdb4b52106f6e0a4"
 metafile = true
 
 [[files]]
